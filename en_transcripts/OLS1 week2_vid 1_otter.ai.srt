@@ -1,0 +1,424 @@
+1
+00:00:00,329 --> 00:00:03,629
+Unknown: So here we are at,
+these are three of us. So I'll
+
+2
+00:00:03,629 --> 00:00:08,699
+actually ask Bernice and yield
+to introduce themselves. And
+
+3
+00:00:08,699 --> 00:00:09,869
+then I'll go ahead.
+
+4
+00:00:11,429 --> 00:00:17,129
+And Berenice was talking for in
+Germany. And I'm happy to be
+
+5
+00:00:17,129 --> 00:00:21,689
+there and to have you in this
+program. Yo,
+
+6
+00:00:22,380 --> 00:00:27,300
+Hey, everyone. So I'm yo yahudi.
+I am a software engineer in
+
+7
+00:00:27,300 --> 00:00:31,350
+Cambridge, and I am really,
+really excited to be working
+
+8
+00:00:31,350 --> 00:00:33,480
+with you all, for the next few
+months.
+
+9
+00:00:34,410 --> 00:00:38,580
+Hey, so I am Malik Asher, and
+I'm a community manager. This
+
+10
+00:00:38,610 --> 00:00:42,180
+until this week in Germany, but
+I'm moving to London next week.
+
+11
+00:00:43,020 --> 00:00:46,320
+And I'm also super excited to
+work on this. So again, three of
+
+12
+00:00:46,320 --> 00:00:49,380
+us have worked for several
+months with really, really
+
+13
+00:00:49,380 --> 00:00:52,830
+generous people in our mentor
+and expert group. And we're
+
+14
+00:00:52,830 --> 00:00:56,070
+really excited that we're
+finally in a stage where we can
+
+15
+00:00:56,100 --> 00:01:01,170
+welcome you into the program.
+The idea that connected us was
+
+16
+00:01:01,170 --> 00:01:04,260
+that we believe that our to be
+effective science should be
+
+17
+00:01:04,260 --> 00:01:08,130
+shared openly with others and
+made freely available. And you
+
+18
+00:01:08,130 --> 00:01:11,220
+are here with us. And you're
+here because in some ways, you
+
+19
+00:01:11,220 --> 00:01:15,990
+also believe in the same idea.
+The open Life Science Program
+
+20
+00:01:15,990 --> 00:01:19,560
+helps early stage researchers
+and potential academic leaders
+
+21
+00:01:19,680 --> 00:01:24,690
+in becoming Open Science
+ambassadors. And I assume that
+
+22
+00:01:24,720 --> 00:01:28,530
+you all had read something about
+it before you apply for the
+
+23
+00:01:28,530 --> 00:01:31,530
+program. And we are happy that
+you are willing to become that
+
+24
+00:01:31,530 --> 00:01:37,260
+ambassador in your community. So
+it's it's something that we know
+
+25
+00:01:37,260 --> 00:01:41,550
+for decades, from probably from
+the beginning of science that it
+
+26
+00:01:41,550 --> 00:01:44,550
+can advance only when we share
+our work with others because
+
+27
+00:01:44,550 --> 00:01:47,700
+other people can build on what
+you have done. And you can work
+
+28
+00:01:47,700 --> 00:01:53,190
+on someone else's work. But
+often, we hear that researchers
+
+29
+00:01:53,190 --> 00:01:56,040
+are skeptical to be open about
+their work, they don't want to
+
+30
+00:01:56,040 --> 00:01:59,310
+share it because they have fear
+of getting scooped being openly
+
+31
+00:01:59,310 --> 00:02:05,580
+criticize. Or or other people
+can spot mistakes in their own
+
+32
+00:02:05,580 --> 00:02:11,010
+work. So how can we work openly
+without becoming scientifically
+
+33
+00:02:11,010 --> 00:02:16,410
+vulnerable? It's a really
+complex question. The
+
+34
+00:02:16,440 --> 00:02:20,070
+vulnerability is quite different
+for different people. And what
+
+35
+00:02:20,070 --> 00:02:23,850
+we are trying to do is in this
+program, we want to explore what
+
+36
+00:02:23,850 --> 00:02:26,730
+are the important concepts and
+practices in open science that
+
+37
+00:02:26,730 --> 00:02:29,610
+we can apply in our work one
+step at a time without
+
+38
+00:02:29,610 --> 00:02:34,890
+overwhelming others. So life
+science is a 15 week long
+
+39
+00:02:34,920 --> 00:02:38,940
+personal mentorship and cohort
+based training, you would have
+
+40
+00:02:38,940 --> 00:02:42,540
+cold based calls like this one
+every second week, and in
+
+41
+00:02:42,540 --> 00:02:45,180
+between, you will have one on
+one mentoring call with your
+
+42
+00:02:45,180 --> 00:02:49,770
+mentor. And when you're not
+talking to either of us, you're
+
+43
+00:02:49,770 --> 00:02:52,920
+going to have some hands on
+practices will provide you with
+
+44
+00:02:52,920 --> 00:02:56,040
+assignments and after you have
+gone through assignment, you
+
+45
+00:02:56,040 --> 00:02:59,190
+will be introduced to an idea
+and concept which you will be
+
+46
+00:02:59,190 --> 00:03:04,860
+able to apply directly in your
+project. So we will be using
+
+47
+00:03:04,860 --> 00:03:08,250
+Mozilla open leadership
+framework which you can access
+
+48
+00:03:08,250 --> 00:03:15,810
+online openly to feel our open
+life science journey. So this,
+
+49
+00:03:16,050 --> 00:03:19,200
+the whole idea of open
+leadership is that open leader
+
+50
+00:03:19,200 --> 00:03:22,560
+design, build and empower their
+projects and communities for
+
+51
+00:03:22,560 --> 00:03:26,910
+understanding sharing and
+participation and inclusion. So
+
+52
+00:03:26,940 --> 00:03:31,020
+our open science definition goes
+beyond just sharing data, but
+
+53
+00:03:31,020 --> 00:03:34,050
+it's also about bringing people
+in. So you can do science
+
+54
+00:03:34,050 --> 00:03:40,530
+together. The open leadership
+framework depends on design,
+
+55
+00:03:40,530 --> 00:03:44,310
+build and empower principle in
+terms of understanding, sharing
+
+56
+00:03:44,310 --> 00:03:48,690
+and participation. For example,
+are we designing our content for
+
+57
+00:03:48,690 --> 00:03:53,340
+someone else's understanding our
+building it for people to share
+
+58
+00:03:53,340 --> 00:03:56,880
+in their network? Are we
+empowering people for their
+
+59
+00:03:56,880 --> 00:04:01,230
+participation and inclusion in
+our community? Can we inspire
+
+60
+00:04:01,230 --> 00:04:04,500
+their contribution? How can we
+help people to take care of
+
+61
+00:04:04,500 --> 00:04:08,970
+themselves? How can we build
+resilience? So our science is
+
+62
+00:04:08,970 --> 00:04:15,150
+not just about what we produce,
+but people who are doing it? So
+
+63
+00:04:15,150 --> 00:04:18,930
+often, we get asked, What do we
+know about what we think about
+
+64
+00:04:18,930 --> 00:04:22,230
+open science because everyone's
+open science is quite different.
+
+65
+00:04:22,290 --> 00:04:25,020
+Open Science may mean quite
+different things to different
+
+66
+00:04:25,020 --> 00:04:28,740
+people. So it could mean that
+you want to share your data
+
+67
+00:04:28,740 --> 00:04:32,310
+openly, or you want to share
+your code openly. You want to
+
+68
+00:04:32,310 --> 00:04:36,060
+design hardware or you want to
+share your paper protocols. You
+
+69
+00:04:36,060 --> 00:04:40,290
+want to also start sharing your
+results from early on before
+
+70
+00:04:40,320 --> 00:04:47,250
+even it goes into printing. And
+then we also have huge focus on
+
+71
+00:04:47,310 --> 00:04:50,580
+knowledge sharing and training
+and collaborating with people
+
+72
+00:04:50,580 --> 00:04:53,850
+openly like citizen science that
+a lot of you are interested in,
+
+73
+00:04:54,060 --> 00:04:57,450
+but also connecting others in
+our field and supporting them in
+
+74
+00:04:57,450 --> 00:05:02,460
+scientific networks. So what we
+want to focus on from the
+
+75
+00:05:02,460 --> 00:05:05,970
+beginning is the design
+thinking, how can we make our
+
+76
+00:05:05,970 --> 00:05:12,330
+project open by design 2012
+studies showed that companies
+
+77
+00:05:13,020 --> 00:05:16,650
+that have level of strategic
+intent to openness and not just
+
+78
+00:05:16,650 --> 00:05:20,190
+openness alone, so here the
+intention is important. it
+
+79
+00:05:20,190 --> 00:05:25,170
+correlates with the market
+performance. So design openness
+
+80
+00:05:25,170 --> 00:05:27,990
+into a work Don't let it be a
+thoughtless default.
+
+81
+00:05:30,060 --> 00:05:34,080
+So with that, we believe that
+you're already leaders in your
+
+82
+00:05:34,080 --> 00:05:36,720
+own community and you will come
+with a vision and if you're
+
+83
+00:05:36,720 --> 00:05:40,560
+going to combine it with what we
+are trying to provide through
+
+84
+00:05:40,560 --> 00:05:43,500
+our open Life Science program,
+you can definitely achieve
+
+85
+00:05:43,500 --> 00:05:45,600
+positive cultural change in your
+community.
+

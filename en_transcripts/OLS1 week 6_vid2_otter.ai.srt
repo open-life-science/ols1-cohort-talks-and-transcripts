@@ -1,0 +1,907 @@
+1
+00:00:00,000 --> 00:00:03,120
+Unknown: I'm a PhD student I
+used to I study how the Open
+
+2
+00:00:03,120 --> 00:00:05,460
+Science how our movement can
+contribute to democratize
+
+3
+00:00:05,490 --> 00:00:08,010
+science and technology,
+especially in the global south.
+
+4
+00:00:08,430 --> 00:00:13,020
+And I have other power projects
+that if you want to, you can
+
+5
+00:00:13,020 --> 00:00:20,010
+contact me I can tell you about.
+So just to start, sorry, let's
+
+6
+00:00:20,040 --> 00:00:25,710
+go there. So science, you know
+this better than anyone
+
+7
+00:00:25,710 --> 00:00:26,100
+but
+
+8
+00:00:26,399 --> 00:00:30,629
+also mostly in life science, but
+science, humans tools, you can
+
+9
+00:00:30,629 --> 00:00:33,299
+do anything, if you you can
+produce data, if you have your
+
+10
+00:00:33,299 --> 00:00:39,029
+tools, which are super wide
+variety of rights, like analog
+
+11
+00:00:39,029 --> 00:00:43,979
+tools, electronic tools, what
+tools as as we are not only
+
+12
+00:00:43,979 --> 00:00:48,239
+talking about electronics, which
+is the first image that appears
+
+13
+00:00:48,239 --> 00:00:52,529
+there when we talk about open
+hardware. But all the tools we
+
+14
+00:00:52,529 --> 00:00:56,849
+use in the scientific process in
+this research process, we could
+
+15
+00:00:56,849 --> 00:01:02,009
+say 99%, today, they are closed.
+And when we say they're closed,
+
+16
+00:01:02,009 --> 00:01:04,919
+we're talking about that the
+designs of the tools, the
+
+17
+00:01:04,919 --> 00:01:09,959
+blueprints, how to have the tool
+is not available for anyone but
+
+18
+00:01:09,959 --> 00:01:14,009
+the vendor. So this is like the
+equivalent of proprietary
+
+19
+00:01:14,009 --> 00:01:18,839
+software, let's say. And this
+brings some problems for
+
+20
+00:01:18,839 --> 00:01:23,279
+researchers and for society in
+general. So especially for for
+
+21
+00:01:23,279 --> 00:01:25,829
+researchers, one of the problems
+is that when you don't have
+
+22
+00:01:25,829 --> 00:01:31,019
+access to the design of or to
+understand how your two words we
+
+23
+00:01:31,019 --> 00:01:35,879
+call that is a black box. It's
+complicated when you don't fully
+
+24
+00:01:35,879 --> 00:01:41,009
+understand how the process of
+sample to data is performed.
+
+25
+00:01:41,669 --> 00:01:44,699
+This has some problems not only
+for the for the research and
+
+26
+00:01:44,699 --> 00:01:47,939
+knowledge production process
+itself, but also for example,
+
+27
+00:01:48,029 --> 00:01:52,469
+when this equipment breaks down,
+and you have to wait for the
+
+28
+00:01:52,469 --> 00:01:56,639
+supplier to repair it, and you
+have a big delay waiting times
+
+29
+00:01:56,639 --> 00:02:00,959
+for because you're probably not
+a big force to push for the
+
+30
+00:02:00,959 --> 00:02:04,139
+vendor to come and repair your
+your equipment. This is
+
+31
+00:02:04,139 --> 00:02:10,379
+especially more difficult in
+countries where that are not far
+
+32
+00:02:10,379 --> 00:02:14,819
+away from the from the factories
+or from the centers where these
+
+33
+00:02:14,819 --> 00:02:20,219
+tools are produced. Another
+another pain, let's say is that
+
+34
+00:02:20,249 --> 00:02:23,609
+the tools are very difficult to
+customize. And usually in
+
+35
+00:02:23,609 --> 00:02:26,429
+science, you want to customize
+your tools. Because if you're
+
+36
+00:02:26,429 --> 00:02:30,089
+doing cutting edge research,
+then you know what you need. And
+
+37
+00:02:30,119 --> 00:02:33,659
+it will be it's the case of many
+researchers that they want to
+
+38
+00:02:33,659 --> 00:02:36,269
+tweak their tools. And it's very
+difficult for them because first
+
+39
+00:02:36,269 --> 00:02:38,519
+of all, they have to reverse
+engineering what they already
+
+40
+00:02:38,519 --> 00:02:41,669
+have, which implies open
+equipment or trying to
+
+41
+00:02:41,669 --> 00:02:44,039
+understand how it works, there's
+a lot of time that if they had
+
+42
+00:02:44,039 --> 00:02:47,669
+the blueprints, this will be
+time saved. Another thing is
+
+43
+00:02:47,669 --> 00:02:52,109
+that usually it's really
+expensive. And again, this is
+
+44
+00:02:53,009 --> 00:02:57,299
+feeding the knowledge gap that
+we have between global north and
+
+45
+00:02:57,329 --> 00:03:00,419
+global South countries, there is
+a lot of science production in
+
+46
+00:03:00,419 --> 00:03:03,029
+global north countries. And
+there is not so much in the
+
+47
+00:03:03,029 --> 00:03:07,529
+global south countries because
+it's mainly many, many factors.
+
+48
+00:03:07,529 --> 00:03:10,919
+But one big factor is that
+people don't have access to
+
+49
+00:03:10,919 --> 00:03:15,629
+equipment equipment is very
+expensive. So all this pains
+
+50
+00:03:15,629 --> 00:03:20,669
+that are derived from having
+closed hardware are a reality.
+
+51
+00:03:20,729 --> 00:03:23,609
+And it's something that people
+have been addressing for a long
+
+52
+00:03:23,609 --> 00:03:28,529
+time. But the good news is that
+people make tools. And in the
+
+53
+00:03:28,529 --> 00:03:33,749
+last 10 years, let's say there,
+there has been a big wave of
+
+54
+00:03:34,709 --> 00:03:37,889
+people all around the world
+building and building different
+
+55
+00:03:37,889 --> 00:03:41,549
+kinds of artifacts, not only for
+science artifacts in general,
+
+56
+00:03:41,909 --> 00:03:46,379
+there are many factors for
+explaining this. One of the most
+
+57
+00:03:46,439 --> 00:03:49,529
+important factors is the 3d
+printing revolution, let's say
+
+58
+00:03:50,069 --> 00:03:53,429
+because most of these artifacts
+are combinations of 3d printed
+
+59
+00:03:53,429 --> 00:03:57,269
+parts and low cost electronics.
+So another factor is that
+
+60
+00:03:57,269 --> 00:04:01,619
+electrons nowadays are quite
+accessible. And another
+
+61
+00:04:01,619 --> 00:04:05,009
+important thing is that the
+arrival of boards easy boards,
+
+62
+00:04:05,009 --> 00:04:08,549
+like Arduino allowed not only
+researchers but people in
+
+63
+00:04:08,549 --> 00:04:12,359
+general allowed people to tweak
+electronics to play with them
+
+64
+00:04:12,359 --> 00:04:18,929
+too. As your was mentioning, do
+an iterative process over
+
+65
+00:04:19,079 --> 00:04:23,009
+electronics, improving the
+designs trying You don't have to
+
+66
+00:04:23,009 --> 00:04:27,779
+be able to solder in order to
+try things so everything is
+
+67
+00:04:27,809 --> 00:04:31,289
+becoming easier, and people are
+just building stuff. So in this
+
+68
+00:04:31,349 --> 00:04:35,939
+slide, you see some of the open
+hardware for science designs
+
+69
+00:04:35,939 --> 00:04:40,169
+that I wanted to showcase. In
+general the rule is that if you
+
+70
+00:04:40,169 --> 00:04:44,039
+needed probably someone has
+started experimenting with it,
+
+71
+00:04:44,129 --> 00:04:46,979
+and there is a design somewhere
+in the internet that you will be
+
+72
+00:04:46,979 --> 00:04:51,059
+able to find. Um, so I'm showing
+there the other month or the
+
+73
+00:04:51,059 --> 00:04:55,499
+month is an open device open
+acoustics device that people use
+
+74
+00:04:55,499 --> 00:05:00,869
+it for monitoring noises in the
+audible and non audio spectrum.
+
+75
+00:05:01,049 --> 00:05:04,919
+So it's a center biologist
+working in conservation and
+
+76
+00:05:04,919 --> 00:05:08,249
+ecology in general. The other
+one is
+
+77
+00:05:10,050 --> 00:05:15,210
+a very high tech device, which
+is an open AFM and atomic force
+
+78
+00:05:15,210 --> 00:05:19,260
+microscope. And this is
+developed by mpfl, Amazon
+
+79
+00:05:19,290 --> 00:05:22,230
+researchers working on a
+laboratory of nano and bio
+
+80
+00:05:22,230 --> 00:05:27,420
+instrumentation. Again, they
+have been dealing with closed
+
+81
+00:05:27,540 --> 00:05:29,910
+materials all the time, and they
+work on developing
+
+82
+00:05:29,940 --> 00:05:33,690
+instrumentation. So they wanted
+to, they reverse engineer
+
+83
+00:05:33,750 --> 00:05:36,180
+everything they could, and they
+wanted to document it. So people
+
+84
+00:05:36,180 --> 00:05:39,060
+don't want to have to go through
+that all over again, every time.
+
+85
+00:05:40,080 --> 00:05:44,520
+The third one open frog is
+microfluidics platform developed
+
+86
+00:05:44,520 --> 00:05:48,690
+by Goldie labs. And the
+interesting part about this is
+
+87
+00:05:48,690 --> 00:05:52,860
+that also the open drop is part
+of a big set for bio open
+
+88
+00:05:52,860 --> 00:05:56,550
+biology instrumentation
+developed by gaue labs to so you
+
+89
+00:05:56,550 --> 00:06:01,380
+can go there to link and check
+it. Open flex shirt is a is a
+
+90
+00:06:01,380 --> 00:06:05,340
+microscope that is being used
+right now to detect malaria very
+
+91
+00:06:05,340 --> 00:06:11,940
+easily. And in a very cheap way.
+In Ghana, and in other, I think
+
+92
+00:06:11,940 --> 00:06:17,160
+in Peru coming soon. Open museum
+is a very precise scale, that,
+
+93
+00:06:17,160 --> 00:06:20,310
+again, is open hardware. And
+like your brains is a company
+
+94
+00:06:20,310 --> 00:06:23,070
+that makes open hardware,
+neuroscience, neuroscience,
+
+95
+00:06:23,490 --> 00:06:28,110
+sorry, neuroscience experiments,
+to teach neuroscience to kids at
+
+96
+00:06:28,110 --> 00:06:32,070
+schools in a cheap and easy way.
+So all of these equipments, and
+
+97
+00:06:32,070 --> 00:06:36,840
+these are just examples are open
+science hardware tools that have
+
+98
+00:06:36,840 --> 00:06:41,490
+some advantages over the
+proprietary ones. In general,
+
+99
+00:06:41,910 --> 00:06:48,510
+and this is not Oh, sorry. I was
+seeing the chat. We use backyard
+
+100
+00:06:48,510 --> 00:06:51,660
+tools in our rain. Oh, yeah.
+Yeah, but your tools is super,
+
+101
+00:06:51,690 --> 00:06:57,630
+super popular. super nice. So
+um, some some characteristics of
+
+102
+00:06:57,630 --> 00:07:03,570
+open hardware? Or why are people
+building stuff? In general, open
+
+103
+00:07:03,570 --> 00:07:07,080
+hardware for science is more
+affordable than proprietary
+
+104
+00:07:07,080 --> 00:07:11,490
+options. So this doesn't mean
+that it's low cost, because
+
+105
+00:07:11,490 --> 00:07:16,050
+there is a big preconception and
+misconception about open
+
+106
+00:07:16,050 --> 00:07:20,610
+hardware that all open hardware
+is low cost, do it yourself, and
+
+107
+00:07:20,610 --> 00:07:25,080
+therefore it's associated with
+less quality. And it's a it's a
+
+108
+00:07:25,110 --> 00:07:29,940
+common question that I get, like
+from from researchers saying and
+
+109
+00:07:29,940 --> 00:07:32,940
+kind of published by very nature
+using open science, Howard?
+
+110
+00:07:32,970 --> 00:07:36,300
+Well, yeah, we can. And there
+are, like people are using open
+
+111
+00:07:36,300 --> 00:07:40,410
+zine forward to publish in in
+journals, but no problem at all.
+
+112
+00:07:41,550 --> 00:07:44,940
+This leads me to another
+important fact, that means that
+
+113
+00:07:45,000 --> 00:07:49,020
+if we know how tools work, then
+we can talk about real
+
+114
+00:07:49,020 --> 00:07:55,380
+reproducibility. So we usually
+try to push open hardware into
+
+115
+00:07:55,380 --> 00:07:58,680
+open science discussions,
+because for us, it's pretty
+
+116
+00:07:58,680 --> 00:08:01,650
+important that in this whole
+reproducibility crisis, we talk
+
+117
+00:08:01,650 --> 00:08:05,130
+about tools, right? If we know
+which are the tools that people
+
+118
+00:08:05,130 --> 00:08:08,130
+are using, then we can
+absolutely reproduce what they
+
+119
+00:08:08,130 --> 00:08:11,310
+have done in their research.
+Another important thing, as I
+
+120
+00:08:11,310 --> 00:08:14,430
+was mentioning before, is that
+this is repairable. So if this
+
+121
+00:08:14,430 --> 00:08:18,390
+is why universities are seeing
+open, how are we good eyes right
+
+122
+00:08:18,390 --> 00:08:21,720
+now. Because if you have a fab
+lab, which is something common
+
+123
+00:08:21,750 --> 00:08:25,380
+at university, and you have
+techie people there and you your
+
+124
+00:08:25,380 --> 00:08:28,410
+tool is open hardware, then
+maybe someone there can help you
+
+125
+00:08:28,410 --> 00:08:31,140
+repair it, and you have less
+lace, and you have less waiting
+
+126
+00:08:31,140 --> 00:08:35,160
+times for you to use the
+equipment again. And then
+
+127
+00:08:35,220 --> 00:08:37,590
+there's the learning and find
+loads of people develop tools,
+
+128
+00:08:37,590 --> 00:08:41,760
+because it's a lot of fun. And
+also because they can customize
+
+129
+00:08:41,820 --> 00:08:45,960
+and tweak instruments a bit just
+to experiment with new things
+
+130
+00:08:45,960 --> 00:08:50,280
+without this, this waiting
+times. Another benefit that is
+
+131
+00:08:50,280 --> 00:08:54,600
+usually overlooked a bit when
+when we give talks for academics
+
+132
+00:08:54,600 --> 00:09:00,930
+and researchers is that it's
+not. It's a big thing for people
+
+133
+00:09:00,930 --> 00:09:04,380
+in the global south. It's a big
+thing when you have really small
+
+134
+00:09:04,380 --> 00:09:07,620
+budgets to do your research. And
+suddenly with the same money,
+
+135
+00:09:07,650 --> 00:09:12,090
+instead of having one tool to do
+your analysis, you have 10. And
+
+136
+00:09:12,090 --> 00:09:16,980
+we're talking of these orders of
+magnitude, in terms of reduction
+
+137
+00:09:16,980 --> 00:09:20,190
+of costs. There are there is
+research on this, where people
+
+138
+00:09:20,190 --> 00:09:24,270
+say there is a 90% reduction of
+cost in equipment. So it's not
+
+139
+00:09:24,600 --> 00:09:31,470
+it's not as more often. So there
+are lots of people doing open
+
+140
+00:09:31,470 --> 00:09:34,710
+houses for science. And I would
+say most of them now are
+
+141
+00:09:34,710 --> 00:09:38,100
+gathering a community called
+Global Open Science our or gosh,
+
+142
+00:09:38,520 --> 00:09:41,760
+this is a community of which was
+created like the first gathering
+
+143
+00:09:41,760 --> 00:09:46,140
+was in 2016. Then we have
+another gathering in Chile and
+
+144
+00:09:46,140 --> 00:09:51,750
+2017 and China in 2018. There is
+the manifesto that you can check
+
+145
+00:09:51,780 --> 00:09:55,560
+online. I will give you the
+links afterwards. But the idea
+
+146
+00:09:55,560 --> 00:09:58,920
+of this is that there is a
+roadmap of the community and
+
+147
+00:09:58,920 --> 00:10:01,590
+everything is very, very simple.
+disgust because it's a very
+
+148
+00:10:01,590 --> 00:10:05,220
+diverse community. The idea is
+making Open Science how
+
+149
+00:10:05,250 --> 00:10:09,210
+ubiquitous by 2025, which is a
+super ambitious goal, but we're
+
+150
+00:10:09,210 --> 00:10:09,510
+not
+
+151
+00:10:09,930 --> 00:10:14,670
+that far. So it's something to
+take into account. And there are
+
+152
+00:10:14,670 --> 00:10:19,560
+lots of resources that you can
+use within this community. So
+
+153
+00:10:19,560 --> 00:10:23,070
+what can you do if you think
+that you could benefit from
+
+154
+00:10:23,070 --> 00:10:25,290
+using open science hardware or
+you want to learn more about it.
+
+155
+00:10:25,860 --> 00:10:29,100
+So you can join the discussion
+in our forum, it's a very
+
+156
+00:10:29,100 --> 00:10:33,210
+friendly space. Don't be afraid
+You don't have to be expert in
+
+157
+00:10:33,210 --> 00:10:36,180
+electronics at all. Most people
+are not most people here learn
+
+158
+00:10:36,390 --> 00:10:41,280
+on the internet with peers. You
+can document if you have a
+
+159
+00:10:41,310 --> 00:10:44,730
+development and different
+platforms, many people use, of
+
+160
+00:10:44,730 --> 00:10:48,210
+course, GitHub for software, but
+they also use it for uploading
+
+161
+00:10:48,390 --> 00:10:51,150
+designs of electronics and 3d
+printed parts. There are
+
+162
+00:10:51,150 --> 00:10:55,680
+specific platforms for this that
+are now more than ever. Docker
+
+163
+00:10:55,680 --> 00:10:58,500
+breaks is one key reason other
+some people do it an Open
+
+164
+00:10:58,500 --> 00:11:01,740
+Science Framework to you can
+follow open heart leaders,
+
+165
+00:11:02,430 --> 00:11:06,540
+sorry, which is our program for
+supporting people who are making
+
+166
+00:11:06,540 --> 00:11:09,900
+open science, how we're in
+science, and auto science. And
+
+167
+00:11:10,230 --> 00:11:12,630
+there is also a journal that is
+managed by the community, the
+
+168
+00:11:12,630 --> 00:11:15,840
+Journal of open hardware and
+special thing about it also,
+
+169
+00:11:16,260 --> 00:11:18,780
+besides being a community
+journal, of course, open access
+
+170
+00:11:19,290 --> 00:11:24,930
+is that we review the designs
+which is not common, right. So
+
+171
+00:11:24,930 --> 00:11:27,870
+you submit your source files,
+and we take a look at them and
+
+172
+00:11:27,930 --> 00:11:31,170
+we make sure that everything you
+have there is open and available
+
+173
+00:11:31,170 --> 00:11:35,370
+to everyone. So some useful
+links, I leave them there you
+
+174
+00:11:35,370 --> 00:11:38,610
+have the links to the slides in
+the notes. We have a
+
+175
+00:11:38,610 --> 00:11:42,090
+collaborative list of resources
+for open hardware fills in
+
+176
+00:11:42,090 --> 00:11:47,880
+GitHub, feel free please to edit
+and comment. There is a lot of
+
+177
+00:11:47,880 --> 00:11:51,390
+coming for Open Sans how
+community in 2020 in terms of
+
+178
+00:11:51,390 --> 00:11:57,750
+residences in terms of projects
+that are scaling a bit and feel
+
+179
+00:11:57,750 --> 00:12:00,930
+free again to go to the Gar
+form, just drop your question or
+
+180
+00:12:00,930 --> 00:12:02,970
+contact me directly. If you
+don't want to go to a forum,
+
+181
+00:12:02,970 --> 00:12:05,400
+just send me a message on
+Twitter or send me an email.
+
+182
+00:12:05,640 --> 00:12:06,510
+totally open to it.
+

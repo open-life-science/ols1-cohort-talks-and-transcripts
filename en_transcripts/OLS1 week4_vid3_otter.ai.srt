@@ -1,0 +1,893 @@
+1
+00:00:00,000 --> 00:00:03,090
+Unknown: So we're gonna now
+switch to the last part, which
+
+2
+00:00:03,090 --> 00:00:07,200
+is about contributing guideline
+and code of conduct. In the
+
+3
+00:00:07,200 --> 00:00:11,400
+call, we have today Karen liason
+who was our expert for this
+
+4
+00:00:11,400 --> 00:00:16,410
+part. But I'll go through this
+in one minute to introduce what
+
+5
+00:00:16,410 --> 00:00:21,720
+this part is for and why we're
+interested in that. So if we go
+
+6
+00:00:21,720 --> 00:00:27,600
+in the next slide, you would see
+this over and over. And we will
+
+7
+00:00:27,600 --> 00:00:31,680
+be highlighting different parts
+of our vision statement. So
+
+8
+00:00:31,680 --> 00:00:34,500
+building project for
+collaboration within inclusive
+
+9
+00:00:34,500 --> 00:00:40,080
+community. And in the next
+slide, you will see that we're
+
+10
+00:00:40,080 --> 00:00:43,230
+now moving to this part, which
+is about building for
+
+11
+00:00:43,230 --> 00:00:47,730
+participation and inclusion. So
+who's making decision? Who's,
+
+12
+00:00:48,030 --> 00:00:52,020
+who's delegating tasks? Who is
+delegated to? How are we
+
+13
+00:00:52,020 --> 00:00:55,830
+planning our event? How is the
+community management happening
+
+14
+00:00:55,830 --> 00:00:59,280
+and was monitoring what's
+happening in the community. So
+
+15
+00:00:59,280 --> 00:01:02,040
+when we work in an open
+community, it's all about
+
+16
+00:01:02,040 --> 00:01:05,580
+relationship. you depend on
+community members who are
+
+17
+00:01:05,580 --> 00:01:09,060
+volunteers, we're working on
+your project, probably beyond
+
+18
+00:01:09,060 --> 00:01:14,160
+their own personal work time. So
+it's really important how you
+
+19
+00:01:14,760 --> 00:01:19,710
+keep them involved, and identify
+who's the active member, what
+
+20
+00:01:19,710 --> 00:01:24,420
+are their roles, how you can
+give them autonomy, and how you
+
+21
+00:01:24,420 --> 00:01:29,520
+can also keep the governance so
+your project does not derail. So
+
+22
+00:01:29,520 --> 00:01:34,410
+in the next slide, a will be
+what we are going to do with
+
+23
+00:01:34,410 --> 00:01:38,700
+this stock is to make you think
+about how to create a positive
+
+24
+00:01:38,700 --> 00:01:41,970
+culture, how to think about
+contribution and collaboration.
+
+25
+00:01:42,390 --> 00:01:46,830
+And please keep note of the fact
+that this is going to really
+
+26
+00:01:46,830 --> 00:01:50,520
+influence how you're going to
+write your assignments and draft
+
+27
+00:01:50,520 --> 00:01:54,060
+your own contributing guideline
+and choose a code of conduct for
+
+28
+00:01:54,060 --> 00:01:56,850
+your project that's really
+appropriate for your community.
+
+29
+00:01:57,240 --> 00:02:02,160
+So with that, I'm happy to
+introduce Karen liason, she is a
+
+30
+00:02:02,160 --> 00:02:08,220
+researcher in, in Norwegian
+veterinary Institute, and also
+
+31
+00:02:08,220 --> 00:02:11,670
+Chair of the carpentries code of
+conduct Committee, which is
+
+32
+00:02:11,670 --> 00:02:15,930
+where I work with her. And I'm a
+huge fan of her work. And I'm
+
+33
+00:02:15,930 --> 00:02:17,700
+happy to have her on the call
+today.
+
+34
+00:02:19,680 --> 00:02:25,230
+Thank you so much for that very
+nice introduction. So this talk
+
+35
+00:02:25,230 --> 00:02:31,860
+will have will focus on two
+documents in in this context.
+
+36
+00:02:32,310 --> 00:02:37,260
+And that's the contribution
+guidelines, and also the code of
+
+37
+00:02:37,260 --> 00:02:43,650
+conduct. So the important thing
+to bear in mind is that you as a
+
+38
+00:02:43,650 --> 00:02:46,890
+project leader, you're trying to
+build a community around your
+
+39
+00:02:46,890 --> 00:02:50,370
+project, you're trying to
+attract volunteers to your
+
+40
+00:02:50,370 --> 00:02:55,200
+project. And these will have
+diverse backgrounds, and come
+
+41
+00:02:55,200 --> 00:02:59,370
+into your project with different
+different expectations. Now,
+
+42
+00:02:59,850 --> 00:03:03,870
+whenever you have a group of
+people gathered like this, a
+
+43
+00:03:03,870 --> 00:03:08,280
+culture a group culture is bound
+to develop whether you intended
+
+44
+00:03:08,280 --> 00:03:12,660
+to do or not. And this means
+that you as a project leader,
+
+45
+00:03:12,660 --> 00:03:17,280
+you have to take initiatives
+with regards to what kind of
+
+46
+00:03:17,280 --> 00:03:23,820
+culture you want your project to
+have. If you don't, a project
+
+47
+00:03:23,820 --> 00:03:29,280
+culture will develop without
+you. And this means that you
+
+48
+00:03:29,280 --> 00:03:35,310
+have to be make some conscious
+choices regarding how you want
+
+49
+00:03:35,310 --> 00:03:39,600
+your community to build. What
+values should your community
+
+50
+00:03:39,600 --> 00:03:44,730
+advocate? How do you want people
+to interact with each other and
+
+51
+00:03:44,790 --> 00:03:51,090
+with other people. The thing to
+remember here is that a project
+
+52
+00:03:51,090 --> 00:03:57,360
+is actually a lot more than just
+its scope, goals. It's a
+
+53
+00:03:57,360 --> 00:04:01,920
+language, it's a shared set of
+norms, it consists of people's
+
+54
+00:04:02,490 --> 00:04:06,780
+expectations to the project.
+It's the tools that you choose
+
+55
+00:04:06,780 --> 00:04:12,210
+to use. It's the systems you set
+up to make decisions. It's the
+
+56
+00:04:12,210 --> 00:04:18,120
+project identity. And all of
+these things affect the health
+
+57
+00:04:18,150 --> 00:04:25,230
+of your community, the community
+around your project, and because
+
+58
+00:04:25,230 --> 00:04:29,850
+of that, it will also directly
+affect the progress of your
+
+59
+00:04:29,850 --> 00:04:36,300
+project. Now, how do you go
+about shaping the culture you
+
+60
+00:04:36,330 --> 00:04:41,310
+want? There are two big things
+that can be done in this
+
+61
+00:04:41,310 --> 00:04:46,200
+context. And that's to have a
+clear set of contribution
+
+62
+00:04:46,200 --> 00:04:51,570
+guidelines, which will help your
+contributors your volunteers
+
+63
+00:04:51,600 --> 00:04:56,940
+interact with your project. And
+the second is to have a code of
+
+64
+00:04:56,940 --> 00:05:01,770
+conduct and these are two things
+Important vehicles that will
+
+65
+00:05:01,770 --> 00:05:07,020
+help you as a product leader, to
+communicate to your community,
+
+66
+00:05:07,350 --> 00:05:15,180
+how you want your community to
+be. So, what we're trying to do
+
+67
+00:05:15,180 --> 00:05:20,730
+is to get people to contribute
+to your project. It's in this
+
+68
+00:05:20,730 --> 00:05:25,410
+context important to remember
+that your contributors are
+
+69
+00:05:25,410 --> 00:05:30,780
+people with their own worldviews
+and their own stories. We need
+
+70
+00:05:30,780 --> 00:05:34,110
+to take this into consideration
+when we're trying to build a
+
+71
+00:05:34,110 --> 00:05:39,960
+welcoming atmosphere so that
+people will want to contribute
+
+72
+00:05:39,990 --> 00:05:47,340
+to your project. One such
+community, I'll show an example
+
+73
+00:05:47,340 --> 00:05:51,510
+here is the carpentries.
+Community. That's the community
+
+74
+00:05:51,510 --> 00:05:56,550
+that I personally am part of.
+And we've taken a very proactive
+
+75
+00:05:56,550 --> 00:06:00,630
+stance when it comes to
+community to project culture.
+
+76
+00:06:01,590 --> 00:06:05,820
+And I'll show this through both
+the contribution guidelines and
+
+77
+00:06:05,820 --> 00:06:13,410
+the code of conduct that this
+project has set up. So first, to
+
+78
+00:06:13,410 --> 00:06:18,870
+the contributing documents. So
+first of all, these are readily
+
+79
+00:06:18,870 --> 00:06:24,750
+available within each GitHub
+repo for each set of teaching
+
+80
+00:06:24,750 --> 00:06:29,640
+materials, and we do this to
+make sure that it's easy for
+
+81
+00:06:29,640 --> 00:06:33,420
+people to find them. So the
+contributing guidelines have to
+
+82
+00:06:33,450 --> 00:06:35,910
+first of all, they have to be
+easy to find, if you can't find
+
+83
+00:06:35,910 --> 00:06:43,020
+them, you can't use them. So
+what kind of information should
+
+84
+00:06:43,020 --> 00:06:47,700
+these kinds of documents
+contain? Should they contain
+
+85
+00:06:47,700 --> 00:06:53,610
+information that various kinds
+of people might want to know? So
+
+86
+00:06:53,970 --> 00:06:57,390
+for your contributors to people,
+you want to help you out with a
+
+87
+00:06:57,390 --> 00:07:01,920
+project, you want to tell them
+the process and conventions that
+
+88
+00:07:01,920 --> 00:07:05,400
+they'll need to follow when
+they're making a contribution.
+
+89
+00:07:07,500 --> 00:07:11,820
+It should also detail how they
+are expected to interact with
+
+90
+00:07:11,910 --> 00:07:17,550
+other members of the community.
+When it comes to the project
+
+91
+00:07:17,550 --> 00:07:21,810
+consumers, these are the people
+who might want to build off the
+
+92
+00:07:21,810 --> 00:07:26,820
+work that you've done, it should
+clearly detail how they can
+
+93
+00:07:26,820 --> 00:07:32,790
+remix and reuse your work in
+their own projects. And this
+
+94
+00:07:32,790 --> 00:07:36,390
+file should give them the give
+them a sense of how to do that,
+
+95
+00:07:36,480 --> 00:07:39,750
+and what's allowed to do with
+the material.
+
+96
+00:07:42,810 --> 00:07:49,320
+You as a project owner, you will
+want to create and maintain this
+
+97
+00:07:49,320 --> 00:07:53,850
+file. And you'll you should make
+sure that you keep this file
+
+98
+00:07:53,880 --> 00:07:59,910
+updated. One good thing about
+writing and creating this file
+
+99
+00:07:59,940 --> 00:08:07,500
+is that it will help sort out
+for yourself how how you can
+
+100
+00:08:07,500 --> 00:08:14,850
+have good interactions in your
+community. So let's look here.
+
+101
+00:08:15,810 --> 00:08:19,470
+For the carpentries we have in
+addition to the contributing
+
+102
+00:08:19,470 --> 00:08:25,470
+document in itself, we've also
+specifically set up web pages,
+
+103
+00:08:25,500 --> 00:08:30,630
+which will help people interact
+with our community. So this is
+
+104
+00:08:31,170 --> 00:08:36,090
+shown here is a list of
+channels, communication channels
+
+105
+00:08:36,120 --> 00:08:41,520
+into our projects, which helps
+people help channel people into
+
+106
+00:08:41,520 --> 00:08:44,100
+the parts of the product that
+they might want to contribute
+
+107
+00:08:44,100 --> 00:08:50,250
+to. And this makes it easy for
+someone new to find out what
+
+108
+00:08:50,250 --> 00:08:54,900
+they can do. And this is this is
+one very good way of doing that.
+
+109
+00:08:58,710 --> 00:09:05,460
+Okay, now we'll move on to the
+issue of a code of conduct. Now,
+
+110
+00:09:05,640 --> 00:09:09,600
+the basis for this is that to
+have a well functioning
+
+111
+00:09:09,600 --> 00:09:13,920
+community, we need to take into
+consideration that the other
+
+112
+00:09:13,920 --> 00:09:19,530
+feature people that are in our
+project are not carbon copies of
+
+113
+00:09:19,530 --> 00:09:24,210
+ourselves. If you're lucky,
+you're able to build a diverse
+
+114
+00:09:24,210 --> 00:09:29,160
+community, for your project. And
+a diversity of people and
+
+115
+00:09:29,160 --> 00:09:34,020
+opinions will make your product
+stronger. It will help your
+
+116
+00:09:34,020 --> 00:09:39,510
+project be original and
+adaptable and durable in the
+
+117
+00:09:39,510 --> 00:09:45,870
+long run. The issue then becomes
+what if something happens in
+
+118
+00:09:45,870 --> 00:09:50,820
+your community that shouldn't
+and this is where a code of
+
+119
+00:09:50,820 --> 00:09:57,750
+conduct comes into play. A Code
+of Conduct speaks to what is
+
+120
+00:09:57,750 --> 00:10:02,910
+accepted and what is not.
+accepted in your community. It
+
+121
+00:10:02,910 --> 00:10:08,280
+also speaks to what do we as a
+community do when something that
+
+122
+00:10:08,280 --> 00:10:16,260
+is not accepted happens? So why
+do you? Why do you actually
+
+123
+00:10:16,260 --> 00:10:21,000
+really need a code of conduct?
+Well, there are really three
+
+124
+00:10:21,000 --> 00:10:25,830
+things that our code of conduct
+does in your community, the role
+
+125
+00:10:25,860 --> 00:10:32,850
+they play place. First of all,
+it helps invite new people to
+
+126
+00:10:32,850 --> 00:10:39,600
+your project, simply by saying,
+Hi, we're here, please interact
+
+127
+00:10:39,600 --> 00:10:44,490
+with us. It also sets clear
+expectations for community
+
+128
+00:10:44,490 --> 00:10:49,860
+members. It tells them how we
+want people to behave, what kind
+
+129
+00:10:49,860 --> 00:10:55,200
+of interactions we want in our
+community. Last but not least,
+
+130
+00:10:55,230 --> 00:11:00,990
+and probably most important, a
+having a code of conduct tells
+
+131
+00:11:00,990 --> 00:11:05,970
+your community that you care
+about it, it tells them that
+
+132
+00:11:06,630 --> 00:11:12,240
+their well being is important to
+your product. And that is
+
+133
+00:11:12,240 --> 00:11:17,940
+probably more is more important
+on a community context. More
+
+134
+00:11:17,940 --> 00:11:19,410
+important than anything else.
+
+135
+00:11:23,160 --> 00:11:27,150
+So here, links in the
+presentation that I'm assuming
+
+136
+00:11:27,150 --> 00:11:31,440
+that you'll get access to, there
+are some examples of code of
+
+137
+00:11:31,440 --> 00:11:37,770
+conduct. And I'll now show you
+the carpentries code of conduct.
+
+138
+00:11:37,770 --> 00:11:39,030
+So you can have a look at that.
+
+139
+00:11:40,560 --> 00:11:49,260
+So if we see here at the top, I
+not Can you see my mouse? Okay,
+
+140
+00:11:49,620 --> 00:11:55,260
+so here at the top, this is the
+welcoming part. But we quickly
+
+141
+00:11:55,530 --> 00:12:00,120
+move into the setting
+expectations part by clearly
+
+142
+00:12:00,120 --> 00:12:05,430
+stating that by interacting in
+this community by becoming a
+
+143
+00:12:05,430 --> 00:12:11,100
+part of it, we expect you to
+follow our code of conduct. And
+
+144
+00:12:11,130 --> 00:12:19,410
+we clearly say that not doing so
+well have consequences. Next,
+
+145
+00:12:19,440 --> 00:12:27,120
+below here, we have described
+some a few examples of behaviors
+
+146
+00:12:27,120 --> 00:12:32,340
+that we encourage in our
+community. And this also helps
+
+147
+00:12:32,490 --> 00:12:37,380
+set expectations for our
+members. Another thing that
+
+148
+00:12:37,410 --> 00:12:40,770
+you'll see in our code of
+conduct is that we have clear
+
+149
+00:12:40,770 --> 00:12:45,870
+guidelines for how to deal with
+incidents, if something happens,
+
+150
+00:12:46,200 --> 00:12:52,170
+we have guidelines and
+procedures for what to do. And I
+
+151
+00:12:52,170 --> 00:12:55,530
+want to emphasize here that it's
+very important to actually
+
+152
+00:12:55,530 --> 00:12:59,730
+enforce your code of conduct.
+The only thing that is worse
+
+153
+00:12:59,730 --> 00:13:04,470
+than not having one is not
+enforcing it. Because you have
+
+154
+00:13:04,500 --> 00:13:07,950
+if you have one and you don't
+enforce it, what you're telling
+
+155
+00:13:08,010 --> 00:13:11,730
+people is that you actually
+actively don't care about the
+
+156
+00:13:11,730 --> 00:13:18,450
+victim wellbeing of your
+community. Okay, so how do you
+
+157
+00:13:18,450 --> 00:13:23,100
+get started on getting a code of
+conduct? Well, you need to start
+
+158
+00:13:23,100 --> 00:13:26,490
+to think about what values you
+want your community to have.
+
+159
+00:13:27,120 --> 00:13:31,530
+What kind of behaviors Would you
+like to see in your community.
+
+160
+00:13:32,850 --> 00:13:36,600
+Also, think about how you want
+to process an incident if
+
+161
+00:13:36,600 --> 00:13:40,590
+something should happen, and
+what the consequences should be.
+
+162
+00:13:42,600 --> 00:13:47,700
+Last but not least, you as a
+project leader, you will have to
+
+163
+00:13:47,700 --> 00:13:50,820
+accept that this is something
+you have to deal with.
+
+164
+00:13:51,660 --> 00:13:55,980
+Humanity starts with culture, it
+starts with you. And your
+
+165
+00:13:56,040 --> 00:14:01,140
+attitude towards these kinds of
+things will permeate your
+
+166
+00:14:01,140 --> 00:14:10,800
+project and some takeaways at
+the end. encourage those who
+
+167
+00:14:11,340 --> 00:14:14,970
+have have good practice in your
+community. Those should follow
+
+168
+00:14:14,970 --> 00:14:19,320
+the follow the contribution
+guidelines in a good way. Those
+
+169
+00:14:19,320 --> 00:14:26,490
+who help help build a good
+community. Also, make sure to
+
+170
+00:14:26,490 --> 00:14:33,150
+interact with your community to
+build these things. This will
+
+171
+00:14:33,150 --> 00:14:40,740
+help help ensure buy in from
+your community members also set
+
+172
+00:14:40,740 --> 00:14:44,910
+up a process for how to how to
+deal with current akoto called
+
+173
+00:14:44,910 --> 00:14:54,090
+own conduct issues. and
+communicate these guides these
+
+174
+00:14:54,090 --> 00:15:00,900
+processes clearly to your
+community members. My last tip
+
+175
+00:15:00,900 --> 00:15:06,930
+is really, if you if at all
+possible, don't write your own
+
+176
+00:15:06,930 --> 00:15:12,750
+code of conduct. Find a code of
+conduct that you like and copy
+
+177
+00:15:12,750 --> 00:15:15,900
+and adapt that one because
+committee Code of Conduct
+
+178
+00:15:15,900 --> 00:15:20,100
+documents can be quite
+complicated to write. There are
+
+179
+00:15:20,130 --> 00:15:27,360
+a lot of facets to think about.
+And that is it for me.
+

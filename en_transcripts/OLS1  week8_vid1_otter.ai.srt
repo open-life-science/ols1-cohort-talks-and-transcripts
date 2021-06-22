@@ -1,0 +1,1114 @@
+1
+00:00:00,000 --> 00:00:02,580
+Unknown: I'm based in Paris
+these days, I'm the director of
+
+2
+00:00:02,580 --> 00:00:05,790
+research for open humans
+foundation here. And I'm based
+
+3
+00:00:05,790 --> 00:00:09,480
+at the Center for Research and
+disciplinarity. Working on
+
+4
+00:00:09,480 --> 00:00:12,420
+citizen science at large, and
+especially on how to use
+
+5
+00:00:12,420 --> 00:00:15,780
+personal data in citizen
+science, but to get started
+
+6
+00:00:15,780 --> 00:00:18,930
+maybe a bit of what the
+different types of citizen
+
+7
+00:00:18,930 --> 00:00:21,960
+science and I put it in the
+scare quotes, because what we
+
+8
+00:00:21,960 --> 00:00:24,750
+very often see as a citizen
+scientist asking people for
+
+9
+00:00:24,750 --> 00:00:28,830
+their money, which is very
+unfortunate, because it makes
+
+10
+00:00:28,830 --> 00:00:31,680
+the whole idea of actually
+contributing to a researcher but
+
+11
+00:00:31,680 --> 00:00:35,910
+at absurdum, then we have human
+computation where humans put in
+
+12
+00:00:35,910 --> 00:00:39,570
+place for actually analyzing
+images or videos, where machine
+
+13
+00:00:39,570 --> 00:00:42,150
+learning methods or any other
+algorithms aren't good enough.
+
+14
+00:00:42,630 --> 00:00:45,600
+And of course, we have the idea
+of using people in crowdsourcing
+
+15
+00:00:45,600 --> 00:00:49,170
+the data collection itself. And
+this background of crowdsourcing
+
+16
+00:00:49,170 --> 00:00:51,960
+the data collection itself, I
+personally started out with when
+
+17
+00:00:51,960 --> 00:00:54,990
+I started a project where people
+donated their genetic data in
+
+18
+00:00:54,990 --> 00:00:58,920
+the public domain. But a bit of
+the issues we see the research
+
+19
+00:00:58,920 --> 00:01:01,650
+cycle here are the different
+stages. And I think, for me,
+
+20
+00:01:01,650 --> 00:01:05,340
+sharing in the sense of research
+also means giving people a way
+
+21
+00:01:05,340 --> 00:01:08,400
+to share in doing research, and
+not just in benefiting from the
+
+22
+00:01:08,400 --> 00:01:12,750
+outcomes. Unfortunately, having
+the citizen science or community
+
+23
+00:01:12,750 --> 00:01:15,330
+science projects, which are
+actually co created the super
+
+24
+00:01:15,330 --> 00:01:18,150
+rare, there was a survey about
+European citizen science
+
+25
+00:01:18,150 --> 00:01:22,200
+projects last year, and co
+created or not even 11% of other
+
+26
+00:01:22,200 --> 00:01:26,160
+projects. So it's pretty rare.
+Most people use regular people
+
+27
+00:01:26,160 --> 00:01:28,260
+in their research for data
+collection, which is
+
+28
+00:01:28,260 --> 00:01:31,710
+contributory or collaborative,
+which has human computation
+
+29
+00:01:31,710 --> 00:01:37,110
+kinds of citizen science. So
+this question of enabling co
+
+30
+00:01:37,110 --> 00:01:40,320
+creation is especially relevant
+when it comes to citizen science
+
+31
+00:01:40,320 --> 00:01:43,650
+around health and well being
+because often, as we discussed
+
+32
+00:01:43,650 --> 00:01:46,290
+earlier, and the answer is it's
+about patient data, or
+
+33
+00:01:46,290 --> 00:01:50,250
+individuals that have diseases
+or have some kinds of problems,
+
+34
+00:01:50,250 --> 00:01:52,680
+which they want to have softer,
+where they actually are experts,
+
+35
+00:01:52,680 --> 00:01:56,400
+and especially when it comes to
+chronic conditions, patients
+
+36
+00:01:56,400 --> 00:01:59,160
+very often are much more the
+experts of their own disease
+
+37
+00:01:59,370 --> 00:02:01,950
+than any medical professional
+could be just because they need
+
+38
+00:02:01,950 --> 00:02:04,830
+to deal with it. 24 seven
+compared to a medical doctor, it
+
+39
+00:02:04,830 --> 00:02:10,740
+is only on a professional basis.
+And my answer for how can we
+
+40
+00:02:10,740 --> 00:02:13,560
+enable co creation is the idea
+of Commons based peer
+
+41
+00:02:13,560 --> 00:02:16,650
+production, which we see in open
+source, which I think many of us
+
+42
+00:02:16,770 --> 00:02:20,610
+are familiar with even Wikipedia
+even more, where the idea is
+
+43
+00:02:20,610 --> 00:02:23,460
+that it's very non hierarchical,
+it's based on negotiated
+
+44
+00:02:23,460 --> 00:02:26,220
+coordination. So you have a very
+flat hierarchy where people
+
+45
+00:02:26,220 --> 00:02:28,800
+actually need to talk to each
+other, and no one can enforce
+
+46
+00:02:28,830 --> 00:02:32,460
+any rules easily. It's for
+benefits or sharing is at the
+
+47
+00:02:32,460 --> 00:02:35,070
+center of all of it. And to
+actually allow people to
+
+48
+00:02:35,070 --> 00:02:37,890
+participate, it needs to be
+modular, small tasks where
+
+49
+00:02:37,890 --> 00:02:41,100
+people can contribute to based
+on their own experience and
+
+50
+00:02:41,100 --> 00:02:45,510
+skill, which leads to this idea
+of producer. So something that
+
+51
+00:02:45,510 --> 00:02:47,850
+parts of the Commons is
+producing can be used to
+
+52
+00:02:47,850 --> 00:02:50,490
+generate more stuff and
+knowledge in the commons at
+
+53
+00:02:50,490 --> 00:02:55,050
+large. And the question is, how
+can we put this in the context
+
+54
+00:02:55,050 --> 00:02:58,110
+of using personal data for
+citizen science and lots of
+
+55
+00:02:58,110 --> 00:03:01,380
+people are already using
+personal data for their own surf
+
+56
+00:03:01,380 --> 00:03:03,660
+research, as I like to call it
+and the quantified self
+
+57
+00:03:03,660 --> 00:03:07,620
+movement. Lots of people have
+wearable devices, everyone uses
+
+58
+00:03:07,650 --> 00:03:11,490
+Google's social media, maybe
+even get their genome analyzed
+
+59
+00:03:11,490 --> 00:03:16,020
+from 23andme at all. And so I'm
+working on this project called
+
+60
+00:03:16,080 --> 00:03:19,920
+Open humans, which is a way for
+using your data for doing
+
+61
+00:03:19,920 --> 00:03:23,340
+citizen science. And the idea
+really, is that what we allow
+
+62
+00:03:23,340 --> 00:03:26,610
+people to do is aggregate their
+data. So if you come to open
+
+63
+00:03:26,610 --> 00:03:30,390
+humans as an individual, you can
+import data from basically all
+
+64
+00:03:30,390 --> 00:03:34,440
+of the sources I've mentioned,
+that can be wearables, Google
+
+65
+00:03:34,500 --> 00:03:36,930
+searches to is actually one of
+the projects which you can
+
+66
+00:03:36,930 --> 00:03:39,810
+import, if you trust us enough
+to store your Google search
+
+67
+00:03:39,810 --> 00:03:43,110
+history. Mine actually is under
+open humans, but it's private,
+
+68
+00:03:43,140 --> 00:03:47,520
+not public. So you can store all
+of this data privately in your
+
+69
+00:03:47,520 --> 00:03:50,730
+account. And as I said, there's
+tons of different sources. So we
+
+70
+00:03:50,730 --> 00:03:54,510
+have, for example, another thing
+that actually patients will just
+
+71
+00:03:54,510 --> 00:03:57,840
+importing glucose monitoring
+data and the Type One Diabetes
+
+72
+00:03:57,840 --> 00:04:00,330
+community everyone, there's
+varying continuous glucose
+
+73
+00:04:00,330 --> 00:04:04,320
+monitors. So people import real
+time 24, seven data of their
+
+74
+00:04:04,320 --> 00:04:06,480
+glucose levels, which they then
+want to use for research
+
+75
+00:04:06,480 --> 00:04:10,470
+purposes. And once you've done
+this, you can actually start on
+
+76
+00:04:10,470 --> 00:04:13,140
+an individual level to do
+citizen science on the end of
+
+77
+00:04:13,140 --> 00:04:16,260
+one just by yourself if you want
+for this in open humans, we have
+
+78
+00:04:16,260 --> 00:04:19,830
+this little trip perhaps set up
+where you can read data analysis
+
+79
+00:04:19,830 --> 00:04:22,770
+notebooks, which you can share
+with others. So we have this
+
+80
+00:04:22,770 --> 00:04:25,770
+public collection of lots of
+different data analysis tools,
+
+81
+00:04:26,100 --> 00:04:28,320
+which use different data
+sources, and you can just look
+
+82
+00:04:28,320 --> 00:04:31,500
+at them. And if you click on any
+of them, you can open up and run
+
+83
+00:04:31,830 --> 00:04:34,560
+this analysis using your
+personal data because the data
+
+84
+00:04:34,560 --> 00:04:38,580
+is centralized in open human so
+you can just reuse notebooks and
+
+85
+00:04:38,580 --> 00:04:42,270
+reproduce analysis on your own
+data instead of using mine, for
+
+86
+00:04:42,270 --> 00:04:48,480
+example. And just to give a few
+examples of this one, but it's a
+
+87
+00:04:48,480 --> 00:04:50,940
+funny one, which uses
+productivity tracking data,
+
+88
+00:04:50,940 --> 00:04:51,270
+which I
+
+89
+00:04:51,270 --> 00:04:54,210
+have collected over the years
+along with my variable device
+
+90
+00:04:54,210 --> 00:04:57,270
+data. And what you can see on
+the right is this very strong
+
+91
+00:04:57,270 --> 00:05:00,450
+correlation between how many
+hours I spent on the Xbox In
+
+92
+00:05:00,450 --> 00:05:04,020
+front of my computer using my
+computer, compared to how much
+
+93
+00:05:04,020 --> 00:05:08,370
+physical activity I get it 2017
+is the year I was writing my PhD
+
+94
+00:05:08,370 --> 00:05:11,880
+thesis. So you see lots and lots
+of our players were spent long
+
+95
+00:05:11,910 --> 00:05:15,030
+hours in the office writing my
+PhD, but I didn't do any
+
+96
+00:05:15,060 --> 00:05:18,480
+physical activity. And you could
+even correlate this as well with
+
+97
+00:05:18,480 --> 00:05:22,080
+my smartscape to see how my wage
+increase because I was just
+
+98
+00:05:22,080 --> 00:05:26,100
+working and not doing anything
+else. And we just mentioned
+
+99
+00:05:26,100 --> 00:05:29,220
+earlier, the whole issue about
+the current situation, we just
+
+100
+00:05:29,220 --> 00:05:32,820
+had a community called Open
+humans, I think yesterday, and
+
+101
+00:05:32,820 --> 00:05:35,580
+started this little quantified
+flu project to see whether we
+
+102
+00:05:35,580 --> 00:05:39,510
+can use wearable device data to
+predict when someone might fall
+
+103
+00:05:39,570 --> 00:05:42,960
+just based on the physiological
+signals like heart rate, body
+
+104
+00:05:42,960 --> 00:05:46,140
+temperature, and so on before
+they exhibit any conscious
+
+105
+00:05:46,140 --> 00:05:49,560
+symptoms. And we made like an
+output for this today, actually,
+
+106
+00:05:49,590 --> 00:05:54,150
+which is here, for two incidents
+where a person was sick, which
+
+107
+00:05:54,150 --> 00:05:56,880
+is the red vertical line, which
+tells you that they actually
+
+108
+00:05:56,880 --> 00:06:00,360
+transect and on the y axis you
+have the body temperature. And
+
+109
+00:06:00,360 --> 00:06:03,360
+you see even like a bit before
+people notice that actually know
+
+110
+00:06:03,360 --> 00:06:05,640
+that gets sick that there's
+already an increase in the body
+
+111
+00:06:05,640 --> 00:06:08,550
+temperature, which you can use
+in the data people already
+
+112
+00:06:08,550 --> 00:06:13,440
+routinely collect on stuffs in
+any case. And we are expanding
+
+113
+00:06:13,440 --> 00:06:17,490
+on this idea a bit right now
+with this King's Memorial on
+
+114
+00:06:17,490 --> 00:06:22,770
+self research, Stephen Keating
+passed away I think, a bit less
+
+115
+00:06:22,770 --> 00:06:26,460
+than a year ago from a brain
+tumor. And he was a member of
+
+116
+00:06:26,490 --> 00:06:28,710
+our board with the open humans
+foundation. And he was the
+
+117
+00:06:28,710 --> 00:06:33,180
+biggest data share about
+personal data. He got his cancer
+
+118
+00:06:33,180 --> 00:06:37,230
+genome sequences, regular genome
+sequence, he got 3d models of
+
+119
+00:06:37,230 --> 00:06:42,000
+this brain tumor get like a 15
+hour video of his own life awake
+
+120
+00:06:42,000 --> 00:06:45,180
+brain surgery, because you need
+to stay awake. So they know when
+
+121
+00:06:45,180 --> 00:06:48,180
+they have removed for attaching
+benefits, you actually should
+
+122
+00:06:48,180 --> 00:06:51,120
+keep in mind sort of just
+removing humor. And he released
+
+123
+00:06:51,150 --> 00:06:53,940
+all of this data publicly and
+said, Please use my data and
+
+124
+00:06:53,940 --> 00:06:57,900
+somehow to research on this. And
+inspired from this, we are now
+
+125
+00:06:57,900 --> 00:07:01,080
+doing a project where we have I
+think around 80 people enrolled
+
+126
+00:07:01,110 --> 00:07:03,810
+to do individual research
+projects around their own
+
+127
+00:07:03,810 --> 00:07:07,050
+interests. And we have different
+patient groups, we have people
+
+128
+00:07:07,050 --> 00:07:09,360
+who have no disease at all,
+they're just interested in
+
+129
+00:07:09,360 --> 00:07:12,120
+learning about themselves. And
+it's inspiring people to do
+
+130
+00:07:12,120 --> 00:07:15,660
+research by themselves. But the
+more interesting part, of
+
+131
+00:07:15,660 --> 00:07:18,240
+course, for many of us here, I
+think is the part where you
+
+132
+00:07:18,240 --> 00:07:21,300
+share data with academic or
+community driven projects for
+
+133
+00:07:21,300 --> 00:07:26,100
+use in citizen science. And for
+these also, there's lots of lots
+
+134
+00:07:26,100 --> 00:07:29,160
+of projects here already have
+some are led by academics like
+
+135
+00:07:29,160 --> 00:07:33,720
+the keeping pace, one at NYU,
+about using wearable devices to
+
+136
+00:07:33,720 --> 00:07:38,160
+understand seasonal patterns and
+physical activity. We also have
+
+137
+00:07:38,160 --> 00:07:42,330
+some which are led by patient
+communities, which I think I
+
+138
+00:07:42,330 --> 00:07:44,940
+don't see it on the slide up to
+the right, the nightscout Data
+
+139
+00:07:44,940 --> 00:07:48,540
+Commons is like a patient group
+of type one diabetes patients
+
+140
+00:07:48,540 --> 00:07:50,790
+and they are collecting all the
+data, they're already feeding
+
+141
+00:07:50,790 --> 00:07:53,610
+into the system to do their own
+research projects to understand
+
+142
+00:07:53,610 --> 00:07:56,670
+how they can optimize, for
+example, their insulin usage,
+
+143
+00:07:56,940 --> 00:07:59,730
+which diet helps them to
+minimize insulin use, especially
+
+144
+00:07:59,730 --> 00:08:02,430
+in countries like the US where
+it's prohibitively expensive to
+
+145
+00:08:02,430 --> 00:08:07,410
+use insulin. And just to give
+one very concrete example, this
+
+146
+00:08:07,410 --> 00:08:10,620
+is the patient driven research
+project around cluster headaches
+
+147
+00:08:10,620 --> 00:08:13,230
+called no bism. But started by a
+couple of cluster headache
+
+148
+00:08:13,230 --> 00:08:17,730
+patients in the Netherlands, and
+cluster headaches. It's like the
+
+149
+00:08:17,730 --> 00:08:20,430
+worst form of migraines, which
+are also called switch side
+
+150
+00:08:20,430 --> 00:08:22,470
+headaches, because people
+actually end up killing
+
+151
+00:08:22,470 --> 00:08:24,960
+themselves just like their
+headache attack stuff. So it's
+
+152
+00:08:24,960 --> 00:08:28,740
+really terrible. It's not really
+even rare. It's about as rare as
+
+153
+00:08:28,740 --> 00:08:31,620
+multiple sclerosis, but they
+only get around 1% of the
+
+154
+00:08:31,620 --> 00:08:34,440
+research funding compared to
+multiple sclerosis. So there's
+
+155
+00:08:34,470 --> 00:08:38,370
+very little academic research by
+being rather common. So they
+
+156
+00:08:38,370 --> 00:08:41,400
+started making their own
+application for collecting data
+
+157
+00:08:41,460 --> 00:08:44,280
+on when do they have their text,
+what might be potential
+
+158
+00:08:44,280 --> 00:08:47,790
+triggers? And what interventions
+are they doing. The example here
+
+159
+00:08:47,790 --> 00:08:51,420
+on the screenshot is microdosing
+magic mushrooms, because many of
+
+160
+00:08:51,420 --> 00:08:54,600
+them are in the Netherlands. And
+you can get magic magic
+
+161
+00:08:54,600 --> 00:08:59,070
+mushrooms illegally. And so they
+collect this data, individually
+
+162
+00:08:59,070 --> 00:09:01,980
+the storage and open Yuan sister
+data store and then share the
+
+163
+00:09:01,980 --> 00:09:04,710
+state of for example, what they
+are doing is they collaborate
+
+164
+00:09:04,710 --> 00:09:07,320
+with the Code Academy because
+the patients themselves don't
+
+165
+00:09:07,320 --> 00:09:10,860
+have the expertise in analyzing
+the data. So they reached out to
+
+166
+00:09:10,860 --> 00:09:14,130
+data science students at this
+Code Academy to actually get the
+
+167
+00:09:14,130 --> 00:09:18,030
+students to learn data science
+on real world actual data. And
+
+168
+00:09:18,030 --> 00:09:20,790
+in return, they get back the
+university students do which
+
+169
+00:09:20,790 --> 00:09:24,750
+they otherwise would not be able
+to do. And in return the status
+
+170
+00:09:24,750 --> 00:09:30,420
+also use them for donating to
+advocacy and outreach purposes,
+
+171
+00:09:30,420 --> 00:09:37,350
+for example. So the last thing,
+of course, doing this is it's a
+
+172
+00:09:37,350 --> 00:09:40,230
+matter of governance. So how can
+you build trust of your
+
+173
+00:09:40,230 --> 00:09:42,750
+participants into a citizen
+science and how can you build a
+
+174
+00:09:42,750 --> 00:09:47,820
+community and what we've tried
+to do is be very open about all
+
+175
+00:09:47,820 --> 00:09:50,340
+parts of hardware. So we are
+completely open source.
+
+176
+00:09:50,370 --> 00:09:53,190
+Everything is visible to
+everyone except for the personal
+
+177
+00:09:53,190 --> 00:09:56,910
+data. But this includes the
+governance as well. So the first
+
+178
+00:09:56,910 --> 00:09:59,640
+thing we are doing is every
+single project you want to run
+
+179
+00:09:59,640 --> 00:10:03,450
+an open Humans, you need to ask
+for permission from the
+
+180
+00:10:03,450 --> 00:10:07,140
+community to actually set up
+Life. And here's an example of a
+
+181
+00:10:07,170 --> 00:10:09,840
+interesting study that one
+individual did. She was doing
+
+182
+00:10:09,840 --> 00:10:14,190
+this a psycho, fun research
+project. And she wants to study
+
+183
+00:10:14,190 --> 00:10:17,070
+whether there's any genetic
+associations to Myers Briggs
+
+184
+00:10:17,070 --> 00:10:20,610
+personality types. So she posted
+like, I have this project I
+
+185
+00:10:20,610 --> 00:10:24,900
+would like, like to run it on
+open humans on the forum, which
+
+186
+00:10:24,900 --> 00:10:27,450
+then contains all the
+description and she even got IRB
+
+187
+00:10:27,450 --> 00:10:29,970
+approval. So she gave
+documentation for this as well
+
+188
+00:10:29,970 --> 00:10:33,060
+and everything. But then the
+community was kind of split.
+
+189
+00:10:33,060 --> 00:10:35,520
+Some people were like, yep,
+let's IRB approved, it's
+
+190
+00:10:35,520 --> 00:10:39,030
+completely fine. We should allow
+this project to run and someone
+
+191
+00:10:39,030 --> 00:10:42,510
+else was like, are you basically
+crazy, this is pretty much like
+
+192
+00:10:42,540 --> 00:10:44,940
+pop psychology doing Myers
+Briggs, and there will be
+
+193
+00:10:44,940 --> 00:10:47,610
+nothing out there that's
+actually useful that we can
+
+194
+00:10:47,610 --> 00:10:51,780
+learn from using this data. And
+the community talked for, for
+
+195
+00:10:51,780 --> 00:10:55,350
+quite a bit about this to figure
+out how to solve it. And in the
+
+196
+00:10:55,350 --> 00:10:58,170
+end to agree that open humans
+has infrastructure, because
+
+197
+00:10:58,170 --> 00:11:00,870
+there's no harm in taking your
+personality test, and that you
+
+198
+00:11:00,870 --> 00:11:03,570
+will never get any jeebus
+results, it's fine to run it.
+
+199
+00:11:03,930 --> 00:11:06,360
+But the community discusses and
+actually discusses with the
+
+200
+00:11:06,360 --> 00:11:09,030
+person running the project to
+figure out what the consensus
+
+201
+00:11:09,030 --> 00:11:12,900
+might be and without consensus
+projects can launch. The second
+
+202
+00:11:12,900 --> 00:11:16,500
+bit of governance is that open
+humans run by a nonprofit
+
+203
+00:11:16,500 --> 00:11:20,100
+foundation based in the US. And
+our borders are actually at
+
+204
+00:11:20,100 --> 00:11:23,850
+least 1/3 elected directly from
+every member. So if you go to
+
+205
+00:11:23,850 --> 00:11:26,910
+the open humans website, and you
+click an account, you are now
+
+206
+00:11:27,000 --> 00:11:30,060
+eligible to vote in the next
+board election and decide who is
+
+207
+00:11:30,180 --> 00:11:33,180
+even officially in charge of
+running the foundation on your
+
+208
+00:11:33,210 --> 00:11:36,780
+behalf. And the community
+members can nominate themselves
+
+209
+00:11:36,780 --> 00:11:39,990
+to run the service will actually
+start I think next week, because
+
+210
+00:11:39,990 --> 00:11:43,260
+we have three open board seats
+coming up. So we will have
+
+211
+00:11:43,260 --> 00:11:47,070
+people in nominating themselves
+and then voting just online for
+
+212
+00:11:47,070 --> 00:11:53,040
+their favorite candidates. So to
+set up so citizen science in our
+
+213
+00:11:53,040 --> 00:11:56,610
+case really means allowing
+people to use their own data and
+
+214
+00:11:56,610 --> 00:11:59,310
+making informed decision of how
+to use this data. And I think
+
+215
+00:11:59,310 --> 00:12:01,830
+it's going back to the questions
+we had earlier. It's like
+
+216
+00:12:01,890 --> 00:12:04,800
+informed consent. We are trying
+to do the sort of citizen
+
+217
+00:12:04,800 --> 00:12:07,710
+science setting more than in the
+academic research setting, we're
+
+218
+00:12:07,710 --> 00:12:10,590
+actually people are in both
+making all the decisions and not
+
+219
+00:12:10,590 --> 00:12:14,280
+just signing a consent form at
+the end. And this allows both
+
+220
+00:12:14,280 --> 00:12:18,780
+academic and patient projects to
+run. And what's really important
+
+221
+00:12:18,780 --> 00:12:21,840
+in citizen sciences make people
+play an active role in the
+
+222
+00:12:21,840 --> 00:12:25,350
+governance as much as you can,
+and this is of interest. We have
+
+223
+00:12:25,350 --> 00:12:26,760
+an open select which you can
+join
+

@@ -1,0 +1,689 @@
+1
+00:00:00,000 --> 00:00:06,600
+Unknown: So I left the FM nasm
+research, which is an open
+
+2
+00:00:06,600 --> 00:00:10,350
+research publishing platform. It
+started in 2013. We publish a
+
+3
+00:00:10,350 --> 00:00:14,160
+range of research outputs all
+over the life sciences and
+
+4
+00:00:14,160 --> 00:00:18,300
+biology, but also broader as
+well as traditional research
+
+5
+00:00:18,300 --> 00:00:23,040
+articles, but also things like
+no results, software tools, data
+
+6
+00:00:23,040 --> 00:00:25,500
+notes, things which hopefully
+play in this home making
+
+7
+00:00:25,500 --> 00:00:31,230
+research more reproducible and
+transparent. So we call
+
+8
+00:00:31,230 --> 00:00:33,840
+ourselves an open research
+platform because it will
+
+9
+00:00:33,930 --> 00:00:36,720
+incorporate these things. The
+first is that all articles are
+
+10
+00:00:36,720 --> 00:00:41,940
+public access. Secondly, we have
+a quite strict Open Data policy
+
+11
+00:00:41,940 --> 00:00:44,490
+don't we endorse, the fair
+guidelines are spoken about
+
+12
+00:00:44,490 --> 00:00:52,350
+earlier. And my Sorry, it's hard
+to pin these little things going
+
+13
+00:00:52,350 --> 00:00:56,730
+about fairly similar with the
+with dates of using cars, that
+
+14
+00:00:56,730 --> 00:01:01,590
+people open technologies and
+make sense for people to use.
+
+15
+00:01:02,160 --> 00:01:05,310
+Again, with methods we have a
+method article type that you can
+
+16
+00:01:05,310 --> 00:01:08,550
+use, but also in your research
+article, basically show that the
+
+17
+00:01:08,550 --> 00:01:12,480
+method is detailed, something
+come along and reproduce what
+
+18
+00:01:12,480 --> 00:01:15,360
+you've done. One I'm really
+going to talk to you about today
+
+19
+00:01:15,390 --> 00:01:20,040
+is to compare every side of it.
+And before I really get into it,
+
+20
+00:01:20,040 --> 00:01:24,630
+I need to sort of flag up a lot
+of different things we publish
+
+21
+00:01:24,660 --> 00:01:30,630
+or someone else published an
+open, systematic review, which
+
+22
+00:01:30,630 --> 00:01:34,350
+looked at how people discuss
+open reviews. And I compare it
+
+23
+00:01:34,800 --> 00:01:39,090
+found there are 122 definitions
+of open peer review. And these
+
+24
+00:01:40,140 --> 00:01:44,250
+22 distinct configurations of
+seven traits, there's quite a
+
+25
+00:01:44,250 --> 00:01:47,400
+lot of different ways that you
+can do a compare review. And you
+
+26
+00:01:47,400 --> 00:01:50,490
+always have to make sure you're
+talking about the same open peer
+
+27
+00:01:50,490 --> 00:01:54,300
+review system. So these are the
+seven traits. And I'm not gonna
+
+28
+00:01:54,300 --> 00:01:57,240
+go into all of them, because
+I've only got 10 minutes, I'm
+
+29
+00:01:57,240 --> 00:02:01,650
+gonna focus on these three. So
+open identities. This is the
+
+30
+00:02:01,650 --> 00:02:05,160
+idea that authors and reviewers
+are aware of each other is open
+
+31
+00:02:05,160 --> 00:02:08,280
+reports, having the review
+reports published alongside the
+
+32
+00:02:08,280 --> 00:02:11,880
+article for people to read. And
+the third one is open pre review
+
+33
+00:02:11,880 --> 00:02:14,460
+manuscripts. These are
+preprints. Essentially,
+
+34
+00:02:14,520 --> 00:02:18,600
+manuscripts are made immediately
+available before any formal peer
+
+35
+00:02:18,600 --> 00:02:22,530
+review procedures. So these are
+your bio archive met archives,
+
+36
+00:02:22,620 --> 00:02:25,890
+all the other archives, and also
+is incorporated into our peer
+
+37
+00:02:25,890 --> 00:02:32,280
+review model as well. So this is
+our peer review model. And it is
+
+38
+00:02:32,310 --> 00:02:36,150
+open pre review manuscripts,
+open report open identities. So
+
+39
+00:02:36,150 --> 00:02:39,000
+when you submit an article to
+us, it comes into our editorial
+
+40
+00:02:39,000 --> 00:02:42,990
+office, we do pre publication
+checks, like ethics, plagiarism
+
+41
+00:02:43,140 --> 00:02:46,500
+is a data there are the methods
+complete. And once we're happy
+
+42
+00:02:46,500 --> 00:02:50,790
+with it, and we send it to be
+professionally typeset. Then
+
+43
+00:02:50,790 --> 00:02:54,630
+within about two weeks, it's
+published online sites for the
+
+44
+00:02:54,630 --> 00:02:58,800
+Doa, indexed in Google Scholar.
+And this this point is like the
+
+45
+00:02:58,800 --> 00:03:01,890
+preprint side of it, because
+it's not been peer reviewed, but
+
+46
+00:03:01,890 --> 00:03:05,280
+it is available online. But you
+wouldn't be able to submit it
+
+47
+00:03:05,280 --> 00:03:09,420
+anywhere else, because you have
+committed to Apparently, the
+
+48
+00:03:09,450 --> 00:03:11,910
+publication of this article
+triggers the peer review
+
+49
+00:03:11,910 --> 00:03:16,500
+process. So we invite referees,
+most to agree to review the
+
+50
+00:03:16,500 --> 00:03:20,790
+article, have their name, their
+affiliation, a status for their
+
+51
+00:03:20,790 --> 00:03:23,670
+report, and their report will
+publish online as well. This is
+
+52
+00:03:23,670 --> 00:03:29,040
+the overall reports and identity
+side of it. The officers can go
+
+53
+00:03:29,040 --> 00:03:33,270
+away submit a second version of
+those articles that are based on
+
+54
+00:03:33,270 --> 00:03:36,360
+those reports from the
+reviewers. And that second
+
+55
+00:03:36,360 --> 00:03:39,030
+version is published October 1.
+So this is the loop that you can
+
+56
+00:03:39,030 --> 00:03:43,380
+see the open pair view and
+article revision loop here. And
+
+57
+00:03:43,380 --> 00:03:46,620
+once that article was to receive
+two approved statuses from the
+
+58
+00:03:46,620 --> 00:03:50,040
+reviewers, so two ticks, or one
+approved and two approves with
+
+59
+00:03:50,310 --> 00:03:54,060
+revisions, so a tip into
+question marks at that point,
+
+60
+00:03:54,090 --> 00:03:59,190
+it's past peer review. So it's
+indexed in European cpmc. And
+
+61
+00:03:59,190 --> 00:04:03,750
+all those bibliographic
+databases I want to take you
+
+62
+00:04:03,750 --> 00:04:06,480
+through so you can see a couple
+of examples of how this works.
+
+63
+00:04:06,990 --> 00:04:10,170
+So this is an article which has
+just been published is that the
+
+64
+00:04:10,170 --> 00:04:14,430
+preprint stage. So you can see
+in the title, it says version
+
+65
+00:04:14,430 --> 00:04:18,240
+one awaiting peer review, that's
+included in the citation so you
+
+66
+00:04:18,240 --> 00:04:22,080
+can see exactly what safeguards
+that you know that it's not past
+
+67
+00:04:22,080 --> 00:04:25,740
+peer review stage. And over here
+you can see the open peer review
+
+68
+00:04:25,740 --> 00:04:28,440
+box. That's where all the names
+of the peer reviewers and their
+
+69
+00:04:28,440 --> 00:04:32,700
+comments will come up. This
+articles had a peer review
+
+70
+00:04:32,700 --> 00:04:35,550
+comment, it's actually purchased
+a second version has received
+
+71
+00:04:35,550 --> 00:04:38,430
+two approved and you can see
+that the name the titles
+
+72
+00:04:38,460 --> 00:04:41,520
+updated, it says what version is
+and what's happened with the
+
+73
+00:04:41,520 --> 00:04:42,000
+peer review.
+
+74
+00:04:44,670 --> 00:04:48,000
+The review report, you can see
+the name of the affiliation, the
+
+75
+00:04:48,000 --> 00:04:53,760
+comments and behind my face
+here. You can see that clip and
+
+76
+00:04:53,760 --> 00:04:57,030
+respond to the most how many
+times invited. So this report
+
+77
+00:04:57,030 --> 00:05:00,270
+has a dry which means the
+reviewer gets credit for Well
+
+78
+00:05:00,570 --> 00:05:03,540
+done. Because you do put a lot
+of effort in when you do these
+
+79
+00:05:03,540 --> 00:05:05,820
+reports, it's nice to get
+credit, you can add it to orchid
+
+80
+00:05:05,820 --> 00:05:10,320
+IDs, you'll see these things
+like that. The whole idea of it
+
+81
+00:05:10,410 --> 00:05:13,560
+is really to create a nice
+constructive dialogue between
+
+82
+00:05:13,560 --> 00:05:16,710
+the reviewer and the author with
+both sides of the parties
+
+83
+00:05:16,740 --> 00:05:20,970
+standing by their comments. It's
+very open and transparent. This
+
+84
+00:05:20,970 --> 00:05:23,580
+review reports got four people
+on it, that's because it's been
+
+85
+00:05:23,580 --> 00:05:27,480
+co refereed. So this is really
+good. If you have early career
+
+86
+00:05:27,480 --> 00:05:30,000
+researcher who's writing
+reviews, and you want to get
+
+87
+00:05:30,000 --> 00:05:33,450
+credit for it. And you can ride
+it with a more senior colleague,
+
+88
+00:05:33,570 --> 00:05:36,450
+or because maybe it's something
+that you both need to work on,
+
+89
+00:05:36,540 --> 00:05:38,550
+you might have different
+expertise, you can work together
+
+90
+00:05:38,550 --> 00:05:42,210
+as well. And you can see the
+response from the author here.
+
+91
+00:05:42,330 --> 00:05:46,290
+So it's quite a collaborative
+process and very transparent.
+
+92
+00:05:47,280 --> 00:05:50,910
+Once the articles come through
+peer review, you can see here it
+
+93
+00:05:50,910 --> 00:05:54,000
+looks like with the two
+versions, the version one had to
+
+94
+00:05:54,000 --> 00:05:57,390
+approve reservations, the
+version twos got to approve up
+
+95
+00:05:57,390 --> 00:06:01,170
+to the referees have changed
+their status from approved for
+
+96
+00:06:01,170 --> 00:06:07,110
+the patients to approve. So
+hopefully, that's quite a quick
+
+97
+00:06:07,110 --> 00:06:10,740
+one. So you can see why open
+peer review can be good. It
+
+98
+00:06:10,740 --> 00:06:13,710
+minimizes bias. So the reviews
+have to stand by the comments.
+
+99
+00:06:13,980 --> 00:06:17,130
+And also the authors have to
+stand by that responses if they
+
+100
+00:06:17,130 --> 00:06:21,540
+want to clarify anything they
+can. And they don't have to
+
+101
+00:06:21,540 --> 00:06:25,200
+necessarily make everyone happy,
+because everyone can see it all
+
+102
+00:06:25,200 --> 00:06:28,680
+the reviewer reports, it's also
+really good information to have
+
+103
+00:06:28,680 --> 00:06:31,710
+turned anyway, having these
+reports open because you can use
+
+104
+00:06:31,710 --> 00:06:34,680
+it in training if you want to
+see how to write a good review
+
+105
+00:06:34,680 --> 00:06:39,360
+report and also not to write a
+review report. And it's if
+
+106
+00:06:39,360 --> 00:06:42,720
+you're new to the field, and you
+want to have a wider context of
+
+107
+00:06:42,720 --> 00:06:45,330
+that article, you can read those
+reports to see what other people
+
+108
+00:06:45,330 --> 00:06:48,930
+think of it as well. As I
+mentioned, the reviewers get
+
+109
+00:06:48,930 --> 00:06:52,740
+credit for it. And the last
+comment is better written, I
+
+110
+00:06:52,740 --> 00:06:55,140
+realize I should definitely have
+a citation here. But there is
+
+111
+00:06:55,140 --> 00:06:59,400
+some research to show that
+review reports to open tend to
+
+112
+00:06:59,400 --> 00:07:02,460
+be better written than those
+that are closed, see if I can
+
+113
+00:07:02,460 --> 00:07:07,650
+find a citation for that later.
+And also, they've been talking a
+
+114
+00:07:07,650 --> 00:07:09,990
+lot about reproducibility. So
+you have a lot of these
+
+115
+00:07:10,020 --> 00:07:13,200
+different article types, there
+tends to be an overemphasis on
+
+116
+00:07:13,200 --> 00:07:16,860
+research articles, we publish a
+lot of research output, so you
+
+117
+00:07:16,860 --> 00:07:19,050
+get credit for all these
+different article types,
+
+118
+00:07:19,080 --> 00:07:21,900
+including our results and
+reproducibility studies. And
+
+119
+00:07:21,900 --> 00:07:25,500
+this hopefully reduces research
+ways to increase efficiencies.
+
+120
+00:07:25,500 --> 00:07:27,750
+So there isn't someone else out
+there trying to do somewhere
+
+121
+00:07:27,750 --> 00:07:30,990
+that you know, is never gonna
+work. There are two things I
+
+122
+00:07:30,990 --> 00:07:33,930
+quickly want to point out. The
+first is study protocols,
+
+123
+00:07:33,930 --> 00:07:36,660
+because that's coming up later,
+we publish them as well. And the
+
+124
+00:07:36,660 --> 00:07:39,540
+second one, which you can't see,
+but it's registered reports.
+
+125
+00:07:40,200 --> 00:07:44,190
+Register report is basically a
+protocol that's published and
+
+126
+00:07:44,190 --> 00:07:48,720
+peer reviewed prior to any data
+being collected. So this enables
+
+127
+00:07:48,720 --> 00:07:52,560
+you to look at the rigor of the
+method. And to ensure that the
+
+128
+00:07:52,620 --> 00:07:56,580
+research asked which is
+published later, is linked back
+
+129
+00:07:56,580 --> 00:07:59,790
+to the best report and
+everything they said in that
+
+130
+00:07:59,790 --> 00:08:02,580
+mesh report was followed, and
+that the data justifies the
+
+131
+00:08:02,580 --> 00:08:06,720
+conclusions. So hopefully, this
+is the end of the SMA line
+
+132
+00:08:06,720 --> 00:08:10,920
+slide. You can see the F 1000
+research is quite open.
+
+133
+00:08:10,950 --> 00:08:14,610
+Hopefully it sort of increases
+the transparency of the way that
+
+134
+00:08:14,610 --> 00:08:17,340
+research has been published.
+It's really quick because we
+
+135
+00:08:17,340 --> 00:08:19,920
+combine the preprint process
+with the peer review process.
+
+136
+00:08:20,100 --> 00:08:23,670
+And because we asked for the
+data and software and also the
+
+137
+00:08:23,670 --> 00:08:30,060
+reports to be open is quite
+reproducible. And so that's it.
+
+138
+00:08:30,360 --> 00:08:32,760
+Any questions? This is all my my
+final slide.
+

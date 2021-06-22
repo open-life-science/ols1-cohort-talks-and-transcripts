@@ -1,0 +1,841 @@
+1
+00:00:00,000 --> 00:00:02,640
+Unknown: What we're going to be
+talking about is the open
+
+2
+00:00:02,640 --> 00:00:07,440
+canvas. And you say, What is an
+open Canvas? Well, I'm here to
+
+3
+00:00:07,440 --> 00:00:12,360
+tell you. So it is a short
+exercise that we'll be asking
+
+4
+00:00:12,360 --> 00:00:16,380
+you to look at after this call.
+It's basically a bunch of boxes
+
+5
+00:00:16,380 --> 00:00:20,310
+to fill out literally a box
+checking exercise. But I found
+
+6
+00:00:20,310 --> 00:00:23,970
+that it's actually really quite
+useful. It's in terms of, if
+
+7
+00:00:23,970 --> 00:00:25,800
+we're going to keep on going
+back to some of the same
+
+8
+00:00:25,800 --> 00:00:30,030
+sentences about how open project
+leaders behave. And in this
+
+9
+00:00:30,030 --> 00:00:33,420
+case, we're thinking about
+designing so open leaders design
+
+10
+00:00:33,420 --> 00:00:36,090
+and build projects that empower
+others to collaborate and
+
+11
+00:00:36,090 --> 00:00:40,770
+inclusive communities. And what
+I mean by this, if you remember
+
+12
+00:00:40,770 --> 00:00:43,050
+the framework, the open
+leadership framework that
+
+13
+00:00:43,080 --> 00:00:48,420
+malvika referenced in one of our
+earlier presentations. So we're
+
+14
+00:00:48,420 --> 00:00:51,420
+specifically looking at when we
+are thinking about our projects,
+
+15
+00:00:51,420 --> 00:00:55,170
+how do we design our project in
+a way that is good for
+
+16
+00:00:55,170 --> 00:00:58,560
+understanding so people can
+understand what's going on. And
+
+17
+00:00:58,560 --> 00:01:02,190
+so that people can interact with
+you effectively, we're designing
+
+18
+00:01:02,190 --> 00:01:05,190
+our project in a way that helps
+us to share things with people,
+
+19
+00:01:05,760 --> 00:01:10,020
+whether that be gifting some
+knowledge, or some ideas or some
+
+20
+00:01:10,320 --> 00:01:13,410
+software or hardware or whatever
+it may be that you are sharing
+
+21
+00:01:13,410 --> 00:01:16,860
+with people. And we're also
+looking at designing in ways
+
+22
+00:01:16,860 --> 00:01:20,220
+that allow people to
+participate. And by the way,
+
+23
+00:01:20,670 --> 00:01:23,370
+when I share my screen, you
+can't see the zoom window in
+
+24
+00:01:23,370 --> 00:01:27,720
+front of it, can you you can't
+see like a level video window. I
+
+25
+00:01:28,050 --> 00:01:32,250
+know Yes. No, I don't know.
+Okay, excellent. Right, because
+
+26
+00:01:32,250 --> 00:01:34,470
+I have a blocking half of
+screen. I didn't want to be
+
+27
+00:01:35,130 --> 00:01:37,440
+sorry about that. Yes. And the
+final thing about the open
+
+28
+00:01:37,440 --> 00:01:41,880
+Canvas, it helps us write down
+and specify our ideas in ways
+
+29
+00:01:41,880 --> 00:01:45,270
+that make it easy for people to
+participate and feel included in
+
+30
+00:01:45,270 --> 00:01:51,300
+part of the community. So if I
+move on to my next screen, that
+
+31
+00:01:51,300 --> 00:01:55,200
+too far, there we go. Right, the
+so this is what an open Canvas
+
+32
+00:01:55,200 --> 00:02:00,750
+is. And so basically, it is
+adapted from the lean canvas. So
+
+33
+00:02:00,750 --> 00:02:05,790
+if anyone's read, I think the
+lean startup, then it has some
+
+34
+00:02:05,790 --> 00:02:08,970
+ideas about filling out these
+boxes, writing down what exactly
+
+35
+00:02:08,970 --> 00:02:11,010
+it is that you've been thinking
+about in your project in terms
+
+36
+00:02:11,010 --> 00:02:13,800
+of who contributes, how they
+contribute, and so on. But I'll
+
+37
+00:02:13,800 --> 00:02:19,380
+drill down into this a little
+bit more in detail. Yeah, people
+
+38
+00:02:19,380 --> 00:02:24,150
+going to make slides. Okay,
+right. So if you see, on the
+
+39
+00:02:24,150 --> 00:02:26,640
+bottom left, there is
+information about the project
+
+40
+00:02:26,640 --> 00:02:29,310
+execution. And the idea that you
+sort of work through step by
+
+41
+00:02:29,310 --> 00:02:32,940
+step, you talk about who your
+contributions are, what they
+
+42
+00:02:32,940 --> 00:02:38,010
+look like, what your user
+profiles may be, so who are you
+
+43
+00:02:38,010 --> 00:02:41,700
+building your project for? You
+move along a bit further, how do
+
+44
+00:02:41,700 --> 00:02:45,480
+these people contribute
+contributed channels? So if you
+
+45
+00:02:45,480 --> 00:02:47,910
+say I'm thinking about who is
+going to be participating my
+
+46
+00:02:47,910 --> 00:02:51,570
+project? So they need to know,
+is this going to be as GitHub is
+
+47
+00:02:51,570 --> 00:02:56,010
+it going to be some other sort
+of platform that I use, and give
+
+48
+00:02:56,010 --> 00:02:59,580
+information like the unique
+value proposition? So why is the
+
+49
+00:02:59,580 --> 00:03:03,150
+thing that I'm doing interesting
+to other people? I'm sort of
+
+50
+00:03:03,150 --> 00:03:05,490
+hopping around here, I
+apologize. But I'll hop over
+
+51
+00:03:05,490 --> 00:03:07,950
+back for a bit, let's say to the
+problem as well. So what are we
+
+52
+00:03:07,950 --> 00:03:12,210
+solving here? And if so, once
+we've stated what the problem
+
+53
+00:03:12,210 --> 00:03:15,540
+is, what is the solution that's
+going to be providing to this
+
+54
+00:03:15,540 --> 00:03:16,050
+problem.
+
+55
+00:03:17,460 --> 00:03:19,260
+Apologies for hopping around a
+little bit.
+
+56
+00:03:21,510 --> 00:03:22,350
+We'll move on to the next
+
+57
+00:03:22,620 --> 00:03:26,130
+slide. So we'll walk through
+this in a bit more clear detail.
+
+58
+00:03:26,520 --> 00:03:28,530
+First of all, on the left, we
+have information about the
+
+59
+00:03:28,530 --> 00:03:30,810
+product. So this is sort of tech
+oriented. So what you may be
+
+60
+00:03:30,810 --> 00:03:34,170
+providing may not necessarily be
+a product, it may be a service
+
+61
+00:03:34,170 --> 00:03:36,150
+or protocol or something like
+that. But the end of the day,
+
+62
+00:03:36,150 --> 00:03:39,900
+it's a thing that you'll be
+sharing with other people. And
+
+63
+00:03:39,900 --> 00:03:42,900
+then on the other side of that
+the community is the people who
+
+64
+00:03:42,900 --> 00:03:45,450
+are going to be using and who
+are going to be contributing to
+
+65
+00:03:45,450 --> 00:03:51,630
+your product. So first of all,
+define your problem. So what is
+
+66
+00:03:51,630 --> 00:03:55,410
+it that you are trying to solve?
+And so hopefully, perhaps with
+
+67
+00:03:55,410 --> 00:03:58,260
+the vision and mission statement
+that you've been working on,
+
+68
+00:03:58,260 --> 00:04:01,110
+you've been thinking about what
+this problem is, for us, for
+
+69
+00:04:01,110 --> 00:04:03,120
+example, if I were to do this
+for open life science, the
+
+70
+00:04:03,120 --> 00:04:06,420
+problem is, science isn't always
+as open as I would like it to
+
+71
+00:04:06,420 --> 00:04:10,440
+be. And then next of all, the
+solution in our case will be
+
+72
+00:04:10,440 --> 00:04:13,440
+this program. I don't think it's
+going to solve science entirely.
+
+73
+00:04:15,000 --> 00:04:18,870
+But I think definitely it helps
+to create more people who are
+
+74
+00:04:18,870 --> 00:04:24,150
+able to work on sharing projects
+together. Moving along a bit
+
+75
+00:04:24,150 --> 00:04:26,820
+further, how will you measure
+this? And so again, thinking
+
+76
+00:04:26,820 --> 00:04:29,730
+through the example of the
+organization's program, metrics
+
+77
+00:04:29,730 --> 00:04:32,100
+might be how many people have
+retrained? How many people if we
+
+78
+00:04:32,100 --> 00:04:35,100
+run a second round? How many
+people then go on to be mentors
+
+79
+00:04:35,100 --> 00:04:37,500
+later on? So you might want to
+think about what metrics you can
+
+80
+00:04:37,500 --> 00:04:40,230
+apply to your project? How would
+I measure whether or not my
+
+81
+00:04:40,230 --> 00:04:45,030
+project is actually being
+successful in some way? And then
+
+82
+00:04:45,030 --> 00:04:50,070
+you think, Okay, so I've got my
+big idea. How do I go and create
+
+83
+00:04:50,070 --> 00:04:53,490
+it, you know, who do I need to
+speak to? Do I need to have
+
+84
+00:04:53,490 --> 00:04:56,850
+computer resources do I need to
+have a lab and so depending on
+
+85
+00:04:56,850 --> 00:04:58,800
+your project, there may be
+different things that you need
+
+86
+00:04:58,830 --> 00:05:01,620
+to start to get towards Working
+that project, it may be
+
+87
+00:05:01,620 --> 00:05:04,830
+networking connections, for
+example, I mean, networking
+
+88
+00:05:04,830 --> 00:05:07,290
+connections in the making
+friends with people and
+
+89
+00:05:07,290 --> 00:05:14,340
+definitely not in the cabling
+sense of. So then continuing on,
+
+90
+00:05:14,550 --> 00:05:18,990
+think about who's contributing,
+and what would an ideal
+
+91
+00:05:18,990 --> 00:05:22,590
+contribution look like? That's
+not physically but in terms of
+
+92
+00:05:22,590 --> 00:05:26,010
+their personalities, their
+behaviors. So I might say that a
+
+93
+00:05:26,010 --> 00:05:30,210
+contribution to open AI science
+is a mentor or an expert who can
+
+94
+00:05:30,210 --> 00:05:33,270
+share their knowledge. Another
+type of contributor would also
+
+95
+00:05:33,270 --> 00:05:36,630
+be the participants you without
+this without you, we wouldn't be
+
+96
+00:05:36,630 --> 00:05:42,240
+going anywhere. And then I say,
+whoops. Okay, this is an
+
+97
+00:05:42,240 --> 00:05:46,050
+overview slide. Sorry. So
+contribution profile should
+
+98
+00:05:46,050 --> 00:05:50,100
+fulfill the first woman windows
+covering things should fulfill
+
+99
+00:05:50,100 --> 00:05:53,790
+the needs required to build your
+product. Right? Yeah, that makes
+
+100
+00:05:53,790 --> 00:05:56,430
+sense. Okay, so basically, the
+people who are contributing
+
+101
+00:05:56,430 --> 00:05:58,890
+should be the people who can
+help you get those resources.
+
+102
+00:05:59,340 --> 00:06:04,650
+And that makes a lot of sense.
+Okay, user profiles. So this is
+
+103
+00:06:04,650 --> 00:06:07,050
+slightly different from your
+contributor profiles. So for
+
+104
+00:06:07,050 --> 00:06:11,010
+example, I suppose in this
+scenario, the participants for
+
+105
+00:06:11,010 --> 00:06:14,220
+open life science might also be
+the users. Or we might say that
+
+106
+00:06:14,250 --> 00:06:17,460
+our users are people who then
+learn about open science in the
+
+107
+00:06:17,460 --> 00:06:21,330
+future from you. So think about
+who the target audience for your
+
+108
+00:06:21,330 --> 00:06:25,530
+project is, and especially who
+the early adopters are. So if
+
+109
+00:06:25,530 --> 00:06:28,230
+you had success, if you said my
+project has been openly shared
+
+110
+00:06:28,230 --> 00:06:30,990
+with someone who would that
+person be trying to find that
+
+111
+00:06:31,920 --> 00:06:36,210
+and contributed channels? Next
+question, how do people actually
+
+112
+00:06:36,210 --> 00:06:40,380
+come to you? How did they
+contribute? So in our case, I,
+
+113
+00:06:40,410 --> 00:06:42,870
+we haven't actually surveyed
+you, but my guess would be a lot
+
+114
+00:06:42,870 --> 00:06:45,330
+of you heard of us through
+Twitter. Some of you might have
+
+115
+00:06:45,330 --> 00:06:49,500
+heard of us through mailing
+networks. I know we did some
+
+116
+00:06:49,500 --> 00:06:52,260
+talks, we did a webinar. So
+those will be the contributor
+
+117
+00:06:52,260 --> 00:06:55,860
+channels for open life science,
+and try to think about how you
+
+118
+00:06:55,860 --> 00:07:00,120
+might gain new contributions for
+your channels for your project
+
+119
+00:07:00,120 --> 00:07:04,650
+as well. And then finally, the
+channels for users. So how will
+
+120
+00:07:04,650 --> 00:07:07,380
+you gain new users that might be
+the same way that you gain new
+
+121
+00:07:07,380 --> 00:07:09,750
+contributions, or it might be a
+different way? Maybe you're
+
+122
+00:07:09,750 --> 00:07:13,140
+doing a training workshop? Try
+and think through these
+
+123
+00:07:13,140 --> 00:07:16,740
+exercises. And I know certainly
+when I did a lot of this
+
+124
+00:07:16,740 --> 00:07:19,560
+personally, I felt like, Okay,
+I'm filling this out. But I feel
+
+125
+00:07:19,560 --> 00:07:22,170
+like I've just been made to fill
+out a silly form. But then
+
+126
+00:07:22,170 --> 00:07:26,130
+afterwards, having filled out
+and thought about how I'm going
+
+127
+00:07:26,130 --> 00:07:29,610
+to fill all this out, I realize
+I thought very critically about
+
+128
+00:07:29,610 --> 00:07:32,880
+my project. And it made me think
+and define it in ways that
+
+129
+00:07:32,880 --> 00:07:37,380
+previously I might not have
+effectively done. And there's a
+
+130
+00:07:37,380 --> 00:07:43,680
+chat message. Okay. Hope
+himanshi forgot your laptop
+
+131
+00:07:43,710 --> 00:07:47,460
+cable. Oh, no. Okay, well, good
+luck to you. Hopefully, you can
+
+132
+00:07:47,460 --> 00:07:53,580
+find your power cable. Okay, and
+where was I in my slides? Oh,
+
+133
+00:07:53,580 --> 00:07:55,890
+yeah. Okay, so community
+engagement is talking about the
+
+134
+00:07:55,890 --> 00:07:59,160
+channels, the other channels and
+contributed channels. And
+
+135
+00:07:59,160 --> 00:08:02,610
+finally, we have our unique
+value propositions. So this is
+
+136
+00:08:02,610 --> 00:08:04,200
+saying, having thought about
+
+137
+00:08:04,350 --> 00:08:06,930
+whose contribution how they're
+contributing, what resources I
+
+138
+00:08:06,930 --> 00:08:10,350
+need, and what my problems are?
+What is the unique value, what
+
+139
+00:08:10,350 --> 00:08:14,400
+am I offering to the world that
+is useful and interesting. And I
+
+140
+00:08:14,400 --> 00:08:17,190
+like to hear what you offer and
+why you are different. I think
+
+141
+00:08:17,190 --> 00:08:20,910
+that's a really good way of
+thinking about that. And then we
+
+142
+00:08:20,910 --> 00:08:25,950
+have a small example here. This
+is for a Mozilla project called
+
+143
+00:08:25,950 --> 00:08:28,770
+contract contributors, badges
+for science, I think that
+
+144
+00:08:28,770 --> 00:08:32,490
+projects end up being called
+paper badger. And so it sort of
+
+145
+00:08:32,490 --> 00:08:35,190
+gives you a bit of an idea about
+how they fought through the
+
+146
+00:08:35,190 --> 00:08:38,940
+problems, and then added them in
+themselves. So saying, there's a
+
+147
+00:08:38,940 --> 00:08:41,790
+lack of recognition of certain
+contribution types and academic
+
+148
+00:08:41,790 --> 00:08:44,880
+papers, and that people weren't
+taking advantage of a web as a
+
+149
+00:08:44,880 --> 00:08:47,790
+medium, and then just sort of
+think through different ways to
+
+150
+00:08:47,790 --> 00:08:51,450
+solve that to measure that,
+basically, by providing budgets
+
+151
+00:08:51,510 --> 00:08:54,900
+of when people offer papers
+based on their contribution. So
+
+152
+00:08:54,930 --> 00:08:57,600
+someone worked on the software,
+someone did the editing, someone
+
+153
+00:08:57,600 --> 00:09:01,800
+wrote the words, someone did the
+lab protocols, and so on. And so
+
+154
+00:09:01,800 --> 00:09:04,320
+that's a really good example. I
+won't go through all of it now.
+
+155
+00:09:04,710 --> 00:09:08,700
+But the slides are available and
+linked to from the agenda. So
+
+156
+00:09:08,700 --> 00:09:12,000
+you can review it yourself. And
+I think that also the demo is in
+
+157
+00:09:12,000 --> 00:09:18,480
+our notes as well. And oh, but
+is that my last slide? No. Okay,
+
+158
+00:09:18,660 --> 00:09:23,070
+nearly masks. But so if you want
+to, this is the link where you
+
+159
+00:09:23,070 --> 00:09:26,910
+can actually go and access and
+open Canvas yourself. So make a
+
+160
+00:09:26,910 --> 00:09:29,970
+copy of the document, and then
+try and see if you can think
+
+161
+00:09:29,970 --> 00:09:32,490
+through and it's okay, if you
+don't feel every single box,
+
+162
+00:09:32,520 --> 00:09:36,210
+maybe you can't find any boxes,
+discuss it with a mental and
+
+163
+00:09:36,210 --> 00:09:38,010
+they can help you think through
+but the bits that you're
+
+164
+00:09:38,010 --> 00:09:41,430
+missing, but I definitely find
+it as a useful exercise to think
+
+165
+00:09:41,430 --> 00:09:45,720
+about things. And so thinking
+back to what we've been doing,
+
+166
+00:09:45,750 --> 00:09:49,170
+we're trying to empower
+researchers and academic leaders
+
+167
+00:09:49,170 --> 00:09:51,570
+to become Open Science
+ambassadors and hopefully this
+
+168
+00:09:51,570 --> 00:09:54,690
+will help you design and
+structure some of your plans for
+
+169
+00:09:54,690 --> 00:09:55,320
+further on.
+

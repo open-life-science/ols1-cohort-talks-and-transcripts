@@ -1,0 +1,798 @@
+1
+00:00:00,000 --> 00:00:04,650
+Unknown: This is the point of
+this presentations is to think
+
+2
+00:00:04,650 --> 00:00:08,250
+about kind of tools that you
+have to increase participation
+
+3
+00:00:08,280 --> 00:00:14,220
+in your projects. And the best
+way to increase participation is
+
+4
+00:00:14,220 --> 00:00:18,750
+to remove barriers to
+participation. And so there's
+
+5
+00:00:18,750 --> 00:00:24,000
+this prompt in the slides, which
+I really like to what will your
+
+6
+00:00:24,000 --> 00:00:27,720
+participation do for your
+contributed, it's very tempting
+
+7
+00:00:27,720 --> 00:00:30,660
+to think about what are the what
+are the contributors going to do
+
+8
+00:00:30,660 --> 00:00:34,770
+for me, but it's actually an
+easier and more effective way of
+
+9
+00:00:34,770 --> 00:00:38,460
+working to think about what you
+are in control of and what you
+
+10
+00:00:38,460 --> 00:00:42,630
+are able to deliver if you're
+contributing. So open leaders
+
+11
+00:00:42,630 --> 00:00:46,770
+design and build projects that
+empower others to collaborate
+
+12
+00:00:46,800 --> 00:00:49,680
+within an inclusive community.
+That's what we're all working
+
+13
+00:00:49,680 --> 00:00:56,130
+towards over this training
+program. And the goal is not to
+
+14
+00:00:56,130 --> 00:01:00,840
+ask what they can do for you,
+but more to ask what I or what
+
+15
+00:01:00,840 --> 00:01:05,220
+we in the leadership can do for
+them. And the reason that I
+
+16
+00:01:05,220 --> 00:01:11,250
+picked this this picture is, I
+love thinking about the emergent
+
+17
+00:01:11,250 --> 00:01:14,850
+properties of a system. So these
+are a bunch of ants, and they're
+
+18
+00:01:14,850 --> 00:01:18,180
+all working together. And each
+individual land is not
+
+19
+00:01:18,180 --> 00:01:21,780
+particularly strong, but
+together in when they are
+
+20
+00:01:21,780 --> 00:01:25,740
+coordinated, they are really,
+really powerful. And I think
+
+21
+00:01:25,740 --> 00:01:29,340
+that's what I find really
+exciting about an open and
+
+22
+00:01:29,340 --> 00:01:34,590
+inclusive collaboration. So this
+is I'm sure you've seen this in
+
+23
+00:01:34,620 --> 00:01:37,740
+lots and lots of your talks for
+the open leadership framework.
+
+24
+00:01:37,770 --> 00:01:41,820
+This is just sort of focusing
+for you on the top right corner,
+
+25
+00:01:41,820 --> 00:01:45,720
+focusing on participation and
+inclusion. Thinking about those
+
+26
+00:01:45,720 --> 00:01:49,650
+community interactions and
+thinking about the governance
+
+27
+00:01:49,650 --> 00:01:52,860
+governance is one of the things
+that people generally shy away
+
+28
+00:01:52,860 --> 00:01:57,090
+from, because they think that
+the adults in the room will make
+
+29
+00:01:57,090 --> 00:02:00,570
+the decisions. And actually you
+as the leader, even if there's
+
+30
+00:02:00,600 --> 00:02:05,250
+like literally nobody else in
+your community yet, you are now
+
+31
+00:02:05,280 --> 00:02:09,180
+the head of that community and
+you are in charge of decision
+
+32
+00:02:09,180 --> 00:02:12,540
+making. You're in charge of
+delegating and devolving some of
+
+33
+00:02:12,540 --> 00:02:16,650
+those responsibilities, and you
+are managing that governance.
+
+34
+00:02:16,650 --> 00:02:20,460
+And it's quite an uncomfortable
+space to step into. But it's
+
+35
+00:02:20,460 --> 00:02:25,620
+extremely powerful, and very,
+very rewarding when you do.
+
+36
+00:02:26,910 --> 00:02:32,130
+And it was a nice, concrete,
+really fun exercise. And
+
+37
+00:02:32,130 --> 00:02:35,850
+potentially a really fun
+exercise to just sort of have
+
+38
+00:02:35,850 --> 00:02:38,820
+conversations with people, as
+you're talking about your
+
+39
+00:02:38,820 --> 00:02:44,280
+project is a description of an
+imaginary person, who might be a
+
+40
+00:02:44,280 --> 00:02:47,610
+member of your community, they
+might be users, they might be
+
+41
+00:02:47,730 --> 00:02:51,060
+contributors, they might be
+funders, this all of those
+
+42
+00:02:51,060 --> 00:02:55,140
+different people that sort of
+enable your community in your
+
+43
+00:02:55,140 --> 00:03:00,240
+project to thrive. And they
+recommend that it's not a real
+
+44
+00:03:00,240 --> 00:03:03,690
+person, it gets a little bit too
+sort of personal to have like,
+
+45
+00:03:04,170 --> 00:03:07,830
+lots of conversations about
+specific individuals, but you
+
+46
+00:03:07,830 --> 00:03:13,290
+can absolutely use conversations
+with real individuals to inspire
+
+47
+00:03:13,320 --> 00:03:19,200
+a general persona. Now, that is
+not to say that your personas
+
+48
+00:03:19,590 --> 00:03:23,910
+should be general, it's actually
+very powerful to draw a specific
+
+49
+00:03:23,940 --> 00:03:27,270
+and in this case, obviously,
+literally draw but and then draw
+
+50
+00:03:27,270 --> 00:03:32,100
+in a figurative sense, specific
+imagined people. So you've got
+
+51
+00:03:32,100 --> 00:03:36,690
+cat and Tom, here in the
+examples, put a name on there,
+
+52
+00:03:36,690 --> 00:03:38,970
+because it just makes them a
+little bit more human little bit
+
+53
+00:03:38,970 --> 00:03:43,470
+more relatable, give them an
+age, give them an ethnicity,
+
+54
+00:03:43,470 --> 00:03:47,700
+give them a job, or maybe other
+responsibilities. Give them some
+
+55
+00:03:47,700 --> 00:03:50,250
+skills, a level of knowledge,
+think about what their
+
+56
+00:03:50,250 --> 00:03:55,530
+background has been. And once
+you've done that, think about
+
+57
+00:03:55,530 --> 00:03:59,790
+their needs, their motivations
+and their barriers. And you're
+
+58
+00:03:59,790 --> 00:04:03,930
+really trying to consider this
+person as as a whole and multi
+
+59
+00:04:03,930 --> 00:04:08,220
+dimensional persona. So you're
+not just dreaming up. Somebody
+
+60
+00:04:08,220 --> 00:04:11,370
+who's going to come along and
+format your website, you're
+
+61
+00:04:11,370 --> 00:04:15,360
+thinking about a whole person
+who may happen to have some
+
+62
+00:04:15,360 --> 00:04:18,420
+skills or be interested in
+developing skills to for
+
+63
+00:04:18,420 --> 00:04:23,460
+example, format your website,
+and what can you give to them
+
+64
+00:04:23,730 --> 00:04:29,010
+that is beneficial. So just as
+some examples here, you've got
+
+65
+00:04:29,010 --> 00:04:33,210
+cast, who is an undergraduate,
+an intern is really interested
+
+66
+00:04:33,210 --> 00:04:37,920
+in science, and he doesn't have
+very much money. And Tom is 50
+
+67
+00:04:37,920 --> 00:04:42,090
+years old. He's a humanitarian.
+He has a PhD. He has nine cats.
+
+68
+00:04:42,390 --> 00:04:45,120
+And he's got more of a
+difficulty around time
+
+69
+00:04:45,120 --> 00:04:50,760
+constraints. And so the the
+question the exercises, how can
+
+70
+00:04:50,760 --> 00:04:55,800
+they be part of your project? So
+this is an example persona. I'm
+
+71
+00:04:55,800 --> 00:04:58,290
+not going to read through it
+because you have the slides for
+
+72
+00:04:58,290 --> 00:05:02,760
+yourself but this is an example
+Of how long the persona might be
+
+73
+00:05:02,970 --> 00:05:07,470
+to three paragraphs, something
+like that. And I have to say,
+
+74
+00:05:07,530 --> 00:05:10,110
+one of the difficulties that I
+find with writing personas is
+
+75
+00:05:10,110 --> 00:05:13,770
+that I tend to just write about
+myself. So this slight line at
+
+76
+00:05:13,770 --> 00:05:16,890
+the bottom of cat also suffers
+from a lack of self esteem,
+
+77
+00:05:17,130 --> 00:05:20,850
+essentially, like every persona
+that I come up with says, she
+
+78
+00:05:20,850 --> 00:05:24,090
+doesn't feel like she has enough
+knowledge to contribute or
+
+79
+00:05:24,120 --> 00:05:28,260
+something along those lines, is
+very helpful to actually engage
+
+80
+00:05:28,290 --> 00:05:32,700
+a diverse and inclusive group of
+people in helping you build the
+
+81
+00:05:32,700 --> 00:05:35,880
+personas in the first place.
+Otherwise, you will continue to
+
+82
+00:05:35,880 --> 00:05:38,760
+just manifest like, different
+versions of you with different
+
+83
+00:05:38,760 --> 00:05:44,910
+names. And so how are people
+getting to join your open
+
+84
+00:05:44,910 --> 00:05:50,550
+project, and the personas are
+fun, they're pretty interesting.
+
+85
+00:05:50,820 --> 00:05:54,960
+The pathways are the real sort
+of powerhouse. So you need the
+
+86
+00:05:54,960 --> 00:05:58,950
+persona, in order to think about
+the journey that people will
+
+87
+00:05:58,950 --> 00:06:04,260
+take to contribute to the
+project. And I love this picture
+
+88
+00:06:04,530 --> 00:06:09,570
+of it is your responsibility, in
+my opinion, as the leader of the
+
+89
+00:06:09,570 --> 00:06:14,430
+project to remove the barriers
+to make it a nice, clear, easy
+
+90
+00:06:14,430 --> 00:06:16,380
+path, the cat can walk along.
+
+91
+00:06:18,330 --> 00:06:22,800
+So this is sort of going back to
+thinking about that mountain of
+
+92
+00:06:22,800 --> 00:06:26,460
+engagement that malvika was
+talking about, somebody has to
+
+93
+00:06:26,460 --> 00:06:29,490
+discover that your project
+exists in the first place. So
+
+94
+00:06:29,490 --> 00:06:33,180
+how are they going to do that,
+then they will come into contact
+
+95
+00:06:33,180 --> 00:06:37,020
+with it in some way they might
+see you give a talk, they might
+
+96
+00:06:37,020 --> 00:06:40,230
+hear about it on social media,
+they might have somebody else
+
+97
+00:06:40,230 --> 00:06:43,860
+reach out to them, what does
+that look like, then they might
+
+98
+00:06:43,920 --> 00:06:48,390
+participate, hopefully, some of
+them will participate. Sustained
+
+99
+00:06:48,390 --> 00:06:51,270
+participation means that they
+keep coming back, they keep
+
+100
+00:06:51,300 --> 00:06:55,140
+participate. Network
+participation means that they
+
+101
+00:06:55,140 --> 00:06:58,590
+are starting to bring in other
+people and they're starting to
+
+102
+00:06:58,590 --> 00:07:05,340
+bring in other sort of linked up
+projects, resources and other
+
+103
+00:07:05,340 --> 00:07:08,520
+communities that you start to
+kind of link everyone together.
+
+104
+00:07:08,970 --> 00:07:12,210
+And then leadership is really
+have sort of being part of that
+
+105
+00:07:12,210 --> 00:07:14,640
+kind of holding that
+responsibility for the health of
+
+106
+00:07:14,640 --> 00:07:21,150
+the community. And, and thinking
+about directing the ship as it
+
+107
+00:07:21,150 --> 00:07:26,310
+goes forwards. And here's just
+an example of a pathway for cat.
+
+108
+00:07:26,310 --> 00:07:30,030
+So she might see a tweet about
+Brazil as festival, buy a ticket
+
+109
+00:07:30,420 --> 00:07:35,490
+and take part in a training
+program, turn up to a hackathon.
+
+110
+00:07:35,520 --> 00:07:38,970
+There'll be afterwards, right?
+So if she hosted her first
+
+111
+00:07:38,970 --> 00:07:43,890
+Mozilla sprint hackathon, the
+very discovery point, well, that
+
+112
+00:07:43,890 --> 00:07:46,440
+doesn't make sense, because she
+can't discover on that level,
+
+113
+00:07:46,680 --> 00:07:49,980
+but she could potentially
+participate first. And so you're
+
+114
+00:07:49,980 --> 00:07:52,680
+thinking about what each of
+these levels means for this
+
+115
+00:07:52,680 --> 00:07:57,180
+individual person. And their
+leadership is starting to go
+
+116
+00:07:57,180 --> 00:08:02,400
+into that, that mentorship and
+that support and role. Now, I've
+
+117
+00:08:02,400 --> 00:08:06,120
+taken just two slides, I think
+from another slide deck, which
+
+118
+00:08:06,120 --> 00:08:09,600
+is available for you to look at,
+because I I probably have gone
+
+119
+00:08:09,600 --> 00:08:14,820
+over time already. And there are
+lots of different ideas for ways
+
+120
+00:08:14,820 --> 00:08:17,430
+of people to come in. And I
+think the best thing that you
+
+121
+00:08:17,430 --> 00:08:20,730
+can do is you can just ask
+people, why they contribute to
+
+122
+00:08:20,730 --> 00:08:23,610
+other projects, or why they
+don't contribute to other
+
+123
+00:08:23,610 --> 00:08:27,300
+projects, what their challenges
+are, but mentored issues as a
+
+124
+00:08:27,300 --> 00:08:32,160
+really, really nice way of
+getting started. So writing an
+
+125
+00:08:32,190 --> 00:08:36,660
+issue on GitHub should be a good
+first issue or an issue that is
+
+126
+00:08:36,660 --> 00:08:40,740
+reserved for first timers should
+take longer to write than it
+
+127
+00:08:40,740 --> 00:08:44,160
+would do for you to address. And
+that feels really
+
+128
+00:08:44,160 --> 00:08:47,400
+counterintuitive, unless you
+start to think about this, Pat
+
+129
+00:08:47,400 --> 00:08:51,870
+these pathways in this mountain
+of engagement. So if you spend
+
+130
+00:08:51,870 --> 00:08:58,830
+time writing really good,
+accessible, easy to achieve easy
+
+131
+00:08:58,830 --> 00:09:02,970
+to kind of draw a line and say I
+haven't I have completed this
+
+132
+00:09:02,970 --> 00:09:07,980
+issue. issues. You can put your
+name as a mentor or you can find
+
+133
+00:09:07,980 --> 00:09:11,550
+other people in your community
+to say that they will kind of
+
+134
+00:09:11,550 --> 00:09:16,560
+particularly Shepherd this task
+along and they are available for
+
+135
+00:09:16,560 --> 00:09:22,290
+answering questions, those folks
+and try very hard to reserve
+
+136
+00:09:22,290 --> 00:09:27,420
+those issues, try really hard to
+kind of keep them only for the
+
+137
+00:09:27,420 --> 00:09:32,400
+newest members if you can. And
+if you have a good issue, we'll
+
+138
+00:09:32,400 --> 00:09:35,040
+have some information on how to
+get started, where to find helps
+
+139
+00:09:35,040 --> 00:09:38,370
+and clear requirements. And then
+making sure that it's got the
+
+140
+00:09:38,370 --> 00:09:45,270
+resources that votes and so you
+can make sure to try and stay as
+
+141
+00:09:45,360 --> 00:09:51,150
+be as friendly as possible and
+say thank you, welcome them and
+
+142
+00:09:51,180 --> 00:09:55,830
+give good consistent and helpful
+feedback as best you can. So
+
+143
+00:09:56,190 --> 00:09:59,790
+rather than be tempted to
+complete the task for someone
+
+144
+00:10:01,680 --> 00:10:06,420
+Try and solicit the challenges
+that they're having, in order to
+
+145
+00:10:07,080 --> 00:10:10,170
+guide them to completion, it
+feels amazing when you complete
+
+146
+00:10:10,170 --> 00:10:13,020
+a piece of work. And if you've
+had someone support you along
+
+147
+00:10:13,020 --> 00:10:17,520
+that journey, it's a really
+sticky in a good way, way of
+
+148
+00:10:17,910 --> 00:10:23,880
+joining in staying unity. Try
+and think about just as sort of
+
+149
+00:10:23,880 --> 00:10:28,560
+some other examples from a
+mentorship point of view. If
+
+150
+00:10:28,590 --> 00:10:31,260
+people are going to discover the
+project, they're going to
+
+151
+00:10:31,260 --> 00:10:34,620
+participate for the first time.
+And we're going to have first
+
+152
+00:10:34,620 --> 00:10:37,290
+contact them, they'll
+participate. And then you need
+
+153
+00:10:37,290 --> 00:10:40,530
+them to stay or you would
+ideally like a lot of them to
+
+154
+00:10:40,530 --> 00:10:44,430
+stay, to think about what you
+need, what people will need from
+
+155
+00:10:44,430 --> 00:10:47,310
+you in order to stick around.
+And these are just some of the
+
+156
+00:10:47,310 --> 00:10:53,880
+examples. Think about your
+projects. And so working open is
+
+157
+00:10:53,880 --> 00:10:59,010
+being responsibly responsive
+your community needs and there's
+
+158
+00:10:59,070 --> 00:11:06,420
+a bunch of different solutions
+here. And I am going to finish
+
+159
+00:11:06,420 --> 00:11:11,790
+and let you kind of think about
+how you would like your project
+
+160
+00:11:11,880 --> 00:11:13,140
+to succeed going forward.
+

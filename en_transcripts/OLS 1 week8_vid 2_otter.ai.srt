@@ -1,0 +1,489 @@
+1
+00:00:00,000 --> 00:00:04,080
+Unknown: Let's just get into
+open education and really, open
+
+2
+00:00:04,080 --> 00:00:10,320
+education encompasses
+everything, resources to
+
+3
+00:00:10,590 --> 00:00:14,700
+practices. But I play a
+framework of open sharing. So
+
+4
+00:00:14,910 --> 00:00:18,480
+when you get to those all the
+tools that facilitate the
+
+5
+00:00:18,480 --> 00:00:27,090
+sharing of resources sharing the
+application for access
+
+6
+00:00:27,120 --> 00:00:33,420
+worldwide, is the main concept
+of framework around open. Is it
+
+7
+00:00:33,450 --> 00:00:41,040
+audible? You, you have a bit of
+a background noise, but if an
+
+8
+00:00:41,040 --> 00:00:42,180
+echo but we can hear you.
+
+9
+00:00:51,810 --> 00:01:01,410
+So open educational resources,
+which is now the materials for
+
+10
+00:01:01,410 --> 00:01:05,850
+the conduct of slides, training
+materials curricula, that has
+
+11
+00:01:05,850 --> 00:01:13,020
+been shared openly must be
+talking about credibility,
+
+12
+00:01:13,020 --> 00:01:17,490
+accessibility, interoperability,
+and reusability. And I'll focus
+
+13
+00:01:17,490 --> 00:01:23,010
+more on the concept of
+reusability, which, if you make
+
+14
+00:01:23,070 --> 00:01:27,420
+resources available online, make
+your slides available online
+
+15
+00:01:27,450 --> 00:01:30,930
+curricula available online. That
+is not really open educational
+
+16
+00:01:30,930 --> 00:01:35,100
+resources, unless there is a
+license that allows us to be
+
+17
+00:01:35,100 --> 00:01:38,430
+able to make use of that
+resource, we motivate people to
+
+18
+00:01:38,730 --> 00:01:45,090
+share to adopt it for the kids,
+that's really important for open
+
+19
+00:01:45,090 --> 00:01:49,800
+educational resources. So when
+it comes to open sense, a
+
+20
+00:01:51,360 --> 00:01:56,250
+community of scientists that
+mostly by politicians that came
+
+21
+00:01:56,250 --> 00:02:00,240
+together to promote Open Science
+within the bioinformatics
+
+22
+00:02:00,240 --> 00:02:04,380
+community, and the main premise
+for this is that you can really
+
+23
+00:02:04,380 --> 00:02:08,130
+be an efficient scientist, when
+you are near collaborators are
+
+24
+00:02:08,130 --> 00:02:12,990
+not aware, and equipped with
+open sales tools. So you know,
+
+25
+00:02:12,990 --> 00:02:16,800
+as much as you could be well
+equipped yourself with common
+
+26
+00:02:16,800 --> 00:02:21,450
+sense to have the benefits of
+science, as a scientist, you
+
+27
+00:02:21,450 --> 00:02:24,840
+don't work in a silo, you need
+to collaborate with other
+
+28
+00:02:24,900 --> 00:02:27,720
+scientists. But then if your
+collaborators are not equipped,
+
+29
+00:02:27,750 --> 00:02:32,130
+then you will not be able to
+make the full use of the power
+
+30
+00:02:32,130 --> 00:02:38,520
+of open science as a whole. And
+that's why within the open sense
+
+31
+00:02:38,550 --> 00:02:44,550
+key, we had a model, which will
+sensitize us sensitize your
+
+32
+00:02:44,550 --> 00:02:48,750
+community whereby you make them
+aware of the benefits, what's
+
+33
+00:02:48,750 --> 00:02:51,900
+available out there that they
+can make use of, to make them
+
+34
+00:02:51,900 --> 00:02:55,050
+better scientists to make them
+more efficient with a more
+
+35
+00:02:56,820 --> 00:03:01,290
+productive dimension. Every
+study is reproducible, useful,
+
+36
+00:03:01,290 --> 00:03:05,280
+direct community, and without we
+use the model of seminars,
+
+37
+00:03:05,460 --> 00:03:08,880
+various universities, research
+institutions, and then after
+
+38
+00:03:08,880 --> 00:03:13,560
+that now, having met them aware,
+the concept of training, equip
+
+39
+00:03:13,560 --> 00:03:17,880
+them with the tools, and that's
+where workshops are important.
+
+40
+00:03:18,510 --> 00:03:23,010
+Having done that, to be able to
+solidify those caves and Dr.
+
+41
+00:03:23,010 --> 00:03:27,060
+Liquid open sense and practice
+these hacking like coming
+
+42
+00:03:27,060 --> 00:03:31,500
+together to work together to
+collaborate with somebody, this
+
+43
+00:03:31,560 --> 00:03:37,440
+is really important to be able
+to see open scientific practice
+
+44
+00:03:37,440 --> 00:03:41,340
+to be able to see what you've
+trained them in, in practice.
+
+45
+00:03:42,060 --> 00:03:45,090
+After that, now the
+collaborative aspect, so these
+
+46
+00:03:45,660 --> 00:03:51,600
+are not Sprint's useful here for
+the collaborative, to be writing
+
+47
+00:03:51,630 --> 00:03:54,990
+to be put to the wayside and so
+forth. And the main thing in
+
+48
+00:03:54,990 --> 00:03:58,950
+theory is that build a community
+around that, to learn from each
+
+49
+00:03:58,950 --> 00:04:02,970
+other for to working together. I
+think that's what open license
+
+50
+00:04:03,000 --> 00:04:10,440
+is also also being models of
+justice. So this was during one
+
+51
+00:04:10,440 --> 00:04:15,480
+of our campaigns, which we are
+the letter B. And so within the
+
+52
+00:04:15,480 --> 00:04:19,380
+hackathon, you will see we had
+the hackers and we had a number
+
+53
+00:04:19,380 --> 00:04:25,410
+of projects we have three
+projects but various with
+
+54
+00:04:25,680 --> 00:04:30,240
+various said today as well. So
+one other project would be just
+
+55
+00:04:30,240 --> 00:04:34,830
+understand what's the open
+census to begin with our daily
+
+56
+00:04:34,860 --> 00:04:38,400
+data mining all the templates
+published by authors and be able
+
+57
+00:04:38,400 --> 00:04:41,100
+to figure out our they
+collaborate. they collaborate
+
+58
+00:04:41,280 --> 00:04:44,400
+internally or externally when it
+comes to making use of
+
+59
+00:04:44,430 --> 00:04:50,370
+preprints. our day to day visit
+driven by the local researchers
+
+60
+00:04:50,370 --> 00:04:54,630
+or by their collaborators. And
+looking at the Open Sans face.
+
+61
+00:04:54,630 --> 00:04:59,790
+You could see this agenda prior
+to us being more open which was
+
+62
+00:05:07,140 --> 00:05:15,210
+To the collaborative work all of
+them. So I'll move to other open
+
+63
+00:05:15,480 --> 00:05:18,780
+educational resources are
+available. I'll talk about the
+
+64
+00:05:18,780 --> 00:05:22,680
+pathological left of the by
+informatics training within the
+
+65
+00:05:22,710 --> 00:05:29,430
+s3 Africa consortia. So, within
+that consortia, they raise the
+
+66
+00:05:29,430 --> 00:05:31,950
+use of a blend and money
+approach whereby all the
+
+67
+00:05:31,950 --> 00:05:39,570
+materials available and then the
+lectures are pre recorded by the
+
+68
+00:05:39,570 --> 00:05:45,360
+lecturers or the trainers. And
+then they are shared on wood to
+
+69
+00:05:45,360 --> 00:05:49,740
+the local classrooms, which
+which have a look at, say,
+
+70
+00:05:49,740 --> 00:05:52,440
+teaching assistants. So, the
+teaching assistants would
+
+71
+00:05:52,860 --> 00:05:57,840
+facilitate in class training and
+learning, under trainers will be
+
+72
+00:05:57,840 --> 00:06:01,140
+available online to train. So,
+the blended learning approach,
+
+73
+00:06:01,140 --> 00:06:06,810
+of course, ensure that, even if
+the internet may not be stable,
+
+74
+00:06:06,840 --> 00:06:09,210
+they can still and could still
+continue, and they are number of
+
+75
+00:06:09,420 --> 00:06:13,020
+training activities. And what's
+really nice is that we
+
+76
+00:06:13,020 --> 00:06:18,150
+introduced the modular and open
+science is coming to study in
+
+77
+00:06:18,150 --> 00:06:21,630
+late. So it is really, really
+cool. And we have also received
+
+78
+00:06:21,630 --> 00:06:25,800
+training as well. And within
+that all those we make use of
+
+79
+00:06:25,800 --> 00:06:28,800
+open educational resources, we
+encouraging all trainers to put
+
+80
+00:06:28,800 --> 00:06:33,060
+their resources on GitHub, we
+create a report for each of the
+
+81
+00:06:33,060 --> 00:06:40,020
+modules. But just going to ask
+my number of questions that I
+
+82
+00:06:40,020 --> 00:06:43,530
+keep reflecting on most of my
+projects are some of the
+
+83
+00:06:43,530 --> 00:06:46,350
+discussions and we look at
+bioinformatics is an
+
+84
+00:06:46,620 --> 00:06:52,110
+interdisciplinary course. But
+then, how do we strike a
+
+85
+00:06:52,110 --> 00:06:55,140
+collaboration between computer
+science and biomedical research
+
+86
+00:06:55,140 --> 00:06:59,340
+as the weakness that I've
+observed within my country by
+
+87
+00:06:59,700 --> 00:07:03,030
+majority of the bioinformatics
+consider biologists come from a
+
+88
+00:07:03,030 --> 00:07:07,830
+biomedical background, and very
+few, very few actually would
+
+89
+00:07:07,830 --> 00:07:12,450
+come from the bio, the computer
+science field always spike that
+
+90
+00:07:12,510 --> 00:07:15,900
+collaboration. And you can see
+there is lack of shared tools,
+
+91
+00:07:16,530 --> 00:07:18,930
+the computer scientists, they
+have different tools that
+
+92
+00:07:18,930 --> 00:07:22,530
+balances the tools, we need to
+be able to bridge that gap. And
+
+93
+00:07:22,530 --> 00:07:25,950
+then training curricula to
+ensure it meets current research
+
+94
+00:07:25,980 --> 00:07:30,630
+recently is building a curricula
+that is useful and also within
+
+95
+00:07:30,630 --> 00:07:35,550
+the bio net we creating some of
+those curricula which are being
+
+96
+00:07:35,550 --> 00:07:41,010
+adapted to the various
+institutions with Africa. Then,
+
+97
+00:07:41,160 --> 00:07:45,330
+what does open science mean for
+those African researchers can
+
+98
+00:07:46,260 --> 00:07:50,370
+already be sure what is the
+important question to answer
+

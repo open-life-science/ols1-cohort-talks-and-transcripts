@@ -1,0 +1,1486 @@
+1
+00:00:00,030 --> 00:00:04,560
+Unknown: open licensing and more
+generally, is a fantastic way to
+
+2
+00:00:04,590 --> 00:00:08,610
+make your your work available to
+people to collaborate,
+
+3
+00:00:08,670 --> 00:00:13,590
+collaborate, especially across
+institutions. I've worked inside
+
+4
+00:00:13,590 --> 00:00:16,860
+of companies that used open
+source licensing, just so that
+
+5
+00:00:16,860 --> 00:00:19,770
+they could collaborate with
+other subsidiaries seamlessly.
+
+6
+00:00:21,090 --> 00:00:24,150
+And so it's it's kind of
+incredible the boundaries that
+
+7
+00:00:24,180 --> 00:00:30,750
+open source allows us to, to
+work across. Are these are just
+
+8
+00:00:30,750 --> 00:00:35,040
+a quick check. Josh, should we
+be seeing slides? I think so.
+
+9
+00:00:35,040 --> 00:00:39,000
+Let me Okay, let me try this
+again.
+
+10
+00:00:41,850 --> 00:00:44,820
+So we can see the cohort called
+notes right now.
+
+11
+00:00:46,740 --> 00:00:51,960
+What that is, I see, I selected
+the wrong cat. I'm so sorry.
+
+12
+00:00:53,460 --> 00:00:56,040
+We see them. Brilliant. Whoo.
+Okay.
+
+13
+00:00:56,369 --> 00:01:02,279
+So this, this is, uh, this is
+what I said, This is me. Okay.
+
+14
+00:01:03,869 --> 00:01:06,419
+So yeah, the the fantastic thing
+is, once you've got open
+
+15
+00:01:06,419 --> 00:01:09,419
+licensing on something, it makes
+it so much easier to collaborate
+
+16
+00:01:09,419 --> 00:01:13,409
+with people, and for people to
+build on your work. But I think
+
+17
+00:01:13,619 --> 00:01:16,949
+largely the folks here, I think
+I'm probably preaching to the
+
+18
+00:01:16,949 --> 00:01:24,659
+choir with that. So I'm going to
+move merrily along. So one of
+
+19
+00:01:24,659 --> 00:01:27,539
+the things that we spoke about
+in our breakout session briefly
+
+20
+00:01:27,539 --> 00:01:31,289
+was that, you know, I may be
+specializing and specialized in
+
+21
+00:01:31,289 --> 00:01:38,549
+open source. And ostensibly, I
+have sort of a sense of like
+
+22
+00:01:38,549 --> 00:01:41,129
+best practices for how to build
+a project that's open from the
+
+23
+00:01:41,129 --> 00:01:46,529
+very beginning. But there are,
+but even even given the
+
+24
+00:01:46,529 --> 00:01:50,639
+expertise that I have, I have
+struggled to build open
+
+25
+00:01:50,639 --> 00:01:55,649
+projects, often time that they
+take a little take more
+
+26
+00:01:55,649 --> 00:02:00,239
+forethought and planning either
+than they might otherwise. And
+
+27
+00:02:00,269 --> 00:02:04,109
+particularly when you're working
+on deadlines, sometimes it's
+
+28
+00:02:04,109 --> 00:02:07,769
+it's, you know, in tech, it's
+really unfortunate that often,
+
+29
+00:02:08,069 --> 00:02:10,679
+you know, things like
+accessibility and security, or
+
+30
+00:02:10,679 --> 00:02:15,299
+open sourcing often end up being
+afterthoughts. And so like, my
+
+31
+00:02:15,299 --> 00:02:19,199
+own experience has shown that to
+be true, despite my expertise.
+
+32
+00:02:20,489 --> 00:02:26,009
+So I think I really just want to
+implore people to plan ahead of
+
+33
+00:02:26,009 --> 00:02:32,189
+time to, to take the time to
+think about these things so that
+
+34
+00:02:32,189 --> 00:02:36,029
+you can build for an open
+project from the very beginning.
+
+35
+00:02:36,719 --> 00:02:39,869
+Because ultimately, the reason
+we do open source and open
+
+36
+00:02:39,869 --> 00:02:46,019
+licensing is because the values
+outweigh the the the costs of
+
+37
+00:02:46,019 --> 00:02:50,669
+doing that planning. But we just
+need to sort of Route ourselves
+
+38
+00:02:50,669 --> 00:02:54,449
+in our commitment to being open,
+so that we do take that time
+
+39
+00:02:54,449 --> 00:02:55,529
+upfront to make it happen.
+
+40
+00:03:03,150 --> 00:03:08,670
+So a huge when people talk about
+open source, they're often it's
+
+41
+00:03:08,670 --> 00:03:12,300
+a term that's a little
+overloaded. Open Source
+
+42
+00:03:13,380 --> 00:03:17,910
+tactically, just speaks to
+licensing, right? An open source
+
+43
+00:03:17,910 --> 00:03:20,640
+license is a license that
+conforms to the Open Source
+
+44
+00:03:20,640 --> 00:03:25,440
+Definition, talk a little bit
+more about that later. And so
+
+45
+00:03:25,470 --> 00:03:29,400
+there are open source projects
+that are out there, that people
+
+46
+00:03:29,400 --> 00:03:32,430
+will just put an open license on
+it. But they may not actually
+
+47
+00:03:32,460 --> 00:03:35,130
+accept the interested in
+collaborating with people, maybe
+
+48
+00:03:35,130 --> 00:03:39,360
+they just wanted to share it. Or
+maybe they they are interested
+
+49
+00:03:39,360 --> 00:03:41,400
+in collaborating with people,
+but only people within their
+
+50
+00:03:41,400 --> 00:03:46,410
+organization. And so often, when
+I think about open source, I
+
+51
+00:03:46,410 --> 00:03:49,410
+think about three really
+important aspects of it. First
+
+52
+00:03:49,410 --> 00:03:52,620
+is the licensing. And because
+that everything sort of flows
+
+53
+00:03:52,620 --> 00:03:58,380
+from from that. But the second
+is the sort of the collaboration
+
+54
+00:03:58,380 --> 00:04:02,070
+model. When people think about
+open source, it's, they're often
+
+55
+00:04:02,610 --> 00:04:05,790
+implying something about the way
+that people collaborate around a
+
+56
+00:04:05,790 --> 00:04:09,780
+project. That is that the source
+code and the assets are freely
+
+57
+00:04:09,780 --> 00:04:13,230
+available and inspectable. And
+that anybody can open a pull
+
+58
+00:04:13,230 --> 00:04:16,590
+request or raise an issue, and
+then that'll be triage and
+
+59
+00:04:16,590 --> 00:04:21,120
+accepted from the community. The
+last component is not just open
+
+60
+00:04:21,120 --> 00:04:25,530
+collaboration, but open
+governance. And this is this is
+
+61
+00:04:25,530 --> 00:04:30,600
+one of the more tricky aspects.
+But you know, for instance,
+
+62
+00:04:30,810 --> 00:04:34,290
+let's look at the Google's
+Android open source project.
+
+63
+00:04:34,620 --> 00:04:37,500
+It's an open source project, it
+is under an open source license.
+
+64
+00:04:38,430 --> 00:04:41,760
+But it does not use the open
+collaboration model, because
+
+65
+00:04:41,760 --> 00:04:44,010
+they don't accept pull requests
+or issues from people outside of
+
+66
+00:04:44,010 --> 00:04:48,990
+the company. And it's not openly
+governed, because well, it's it
+
+67
+00:04:48,990 --> 00:04:51,570
+is a Google project and they
+decide everything that goes on
+
+68
+00:04:51,570 --> 00:04:56,910
+with it. You compare that to
+projects like NumPy or Sai pi,
+
+69
+00:04:57,360 --> 00:05:00,840
+where these are projects that
+are under open source licenses,
+
+70
+00:05:01,440 --> 00:05:06,360
+they are owned, or they have an
+open collaboration model. And
+
+71
+00:05:06,360 --> 00:05:09,930
+they're also governed by
+foundations and nonprofits, that
+
+72
+00:05:10,020 --> 00:05:14,070
+has like an open governance
+scaffolding. So there are ways
+
+73
+00:05:14,070 --> 00:05:17,730
+to not just be a contributor,
+but ultimately to join the
+
+74
+00:05:17,730 --> 00:05:22,590
+technical steering committee or
+participate in decisions about
+
+75
+00:05:22,590 --> 00:05:25,740
+the outcomes of the project. So
+I just want to unpack open
+
+76
+00:05:25,740 --> 00:05:28,260
+source broadly, because it means
+a lot of different things to
+
+77
+00:05:28,260 --> 00:05:31,980
+different people. And you can
+see how those three facets can
+
+78
+00:05:31,980 --> 00:05:35,280
+contribute to sometimes the
+misunderstandings, and it's
+
+79
+00:05:35,280 --> 00:05:37,800
+really important for us to
+understand what our intent is
+
+80
+00:05:37,800 --> 00:05:41,100
+what level of openness we're
+working towards, when we're
+
+81
+00:05:41,280 --> 00:05:45,990
+building a project. Suffice it
+to say, a successful open source
+
+82
+00:05:45,990 --> 00:05:49,020
+project is a lot more than just
+an open source license. And
+
+83
+00:05:49,350 --> 00:05:51,900
+there are a lot of details here
+that are included. Like, you
+
+84
+00:05:51,900 --> 00:05:53,700
+know, at the beginning of the
+call, we mentioned the code of
+
+85
+00:05:53,700 --> 00:05:58,020
+conduct. You know, I've been
+planning and there's so much
+
+86
+00:05:58,020 --> 00:06:02,250
+that goes into it. But let's
+not, let's not get overwhelmed
+
+87
+00:06:02,250 --> 00:06:04,740
+with it is you know, one step at
+a time as we build open
+
+88
+00:06:04,740 --> 00:06:10,320
+projects. So all open licenses
+share these three things in
+
+89
+00:06:10,320 --> 00:06:14,580
+common. The Free Software
+Foundation has like the four
+
+90
+00:06:14,580 --> 00:06:19,200
+freedoms, the Open Source
+Definition has the the tin, tin
+
+91
+00:06:19,200 --> 00:06:22,350
+clauses that things must be
+compliant with to become open
+
+92
+00:06:22,350 --> 00:06:25,530
+source. But ultimately, they all
+share three things in common.
+
+93
+00:06:25,980 --> 00:06:29,610
+Anyone can use the word for any
+purpose, that anyone can modify
+
+94
+00:06:29,610 --> 00:06:33,420
+the work, and people can share
+that work freely as well.
+
+95
+00:06:39,600 --> 00:06:44,160
+In any license, there are both
+the rights that you get, as well
+
+96
+00:06:44,160 --> 00:06:47,880
+as the responsibilities, no
+matter how simple or brief the
+
+97
+00:06:47,880 --> 00:06:54,240
+licenses any effective license.
+Certainly any OSI approved
+
+98
+00:06:54,300 --> 00:06:58,680
+license is going to have both of
+those sections, there are there
+
+99
+00:06:58,680 --> 00:07:02,370
+are open style licenses out
+there, like the beer ware
+
+100
+00:07:02,370 --> 00:07:10,260
+license or the WTF Pl miticides,
+do whatever the you want. And
+
+101
+00:07:10,260 --> 00:07:16,620
+those are essentially considered
+to be like the WTF PL license is
+
+102
+00:07:16,620 --> 00:07:19,710
+considered to most likely be
+most similar to like a public
+
+103
+00:07:19,710 --> 00:07:24,690
+domain commitment. And
+interestingly, public domain is
+
+104
+00:07:24,690 --> 00:07:28,110
+not open source. There's an
+interesting literature around
+
+105
+00:07:28,110 --> 00:07:34,800
+that. And that cc zero is also
+not open source. But it's but
+
+106
+00:07:34,800 --> 00:07:36,690
+it's a good, it's a good thing.
+So I'm never gonna dissuade
+
+107
+00:07:36,690 --> 00:07:41,070
+people from using it, the
+history there's complex. But as
+
+108
+00:07:41,070 --> 00:07:45,210
+I was saying, there are rights
+and responsibilities. And often
+
+109
+00:07:45,210 --> 00:07:48,270
+one of the responsibilities that
+comes with an open license is
+
+110
+00:07:48,270 --> 00:07:53,040
+the responsibility of
+attribution. So that means, you
+
+111
+00:07:53,040 --> 00:07:56,640
+know, declaring who the who the
+original author was, or where
+
+112
+00:07:56,640 --> 00:08:02,790
+you got it from and linking back
+to that you'll often notice in
+
+113
+00:08:03,180 --> 00:08:06,930
+particularly like in your
+software applications, that
+
+114
+00:08:09,990 --> 00:08:12,270
+question I'll get to that in
+just a moment, you'll often
+
+115
+00:08:12,270 --> 00:08:16,140
+notice if if you in the software
+that you use, there's there's
+
+116
+00:08:16,140 --> 00:08:19,020
+usually like, you know, an about
+screen. And in that about
+
+117
+00:08:19,020 --> 00:08:22,530
+screen, there's often a
+declaration of attribute of open
+
+118
+00:08:22,530 --> 00:08:25,800
+source licenses and attribution.
+And so that is where that
+
+119
+00:08:25,830 --> 00:08:30,900
+software maker is honoring their
+responsibility to, to attribute
+
+120
+00:08:32,460 --> 00:08:38,910
+CC by is a license. In fact, all
+of the all of the Creative
+
+121
+00:08:38,910 --> 00:08:43,860
+Commons licenses are licenses,
+even cc zero, which is in, in
+
+122
+00:08:43,860 --> 00:08:46,620
+practice, effectively, a
+commitment to the public domain
+
+123
+00:08:46,920 --> 00:08:51,780
+is also a copyright license. So
+all of these are licenses that
+
+124
+00:08:51,780 --> 00:09:02,070
+are spelling out your rights,
+and all but cc zero really, also
+
+125
+00:09:02,070 --> 00:09:05,370
+spell out your responsibilities.
+Because cc zero is sort of a
+
+126
+00:09:05,370 --> 00:09:08,190
+commitment to the public domain,
+there is no responsibility,
+
+127
+00:09:08,220 --> 00:09:11,070
+there is no requirement for
+attribution. There is no
+
+128
+00:09:11,070 --> 00:09:14,520
+copyright holder, they've sort
+of disclaimed their ownership at
+
+129
+00:09:14,520 --> 00:09:17,610
+that point. But But again, these
+are all copyright licenses,
+
+130
+00:09:17,640 --> 00:09:23,160
+they're they're hacks on the
+copyright system. And so, you
+
+131
+00:09:23,160 --> 00:09:26,400
+know, even the copyleft things
+or the public domain cc zero
+
+132
+00:09:26,400 --> 00:09:29,010
+things, though, they're
+copyright licenses, there's
+
+133
+00:09:29,040 --> 00:09:36,360
+they're explicitly about just
+claiming the copyright. So I
+
+134
+00:09:36,360 --> 00:09:42,720
+mentioned copyleft. And broadly
+speaking, in open source, there
+
+135
+00:09:42,720 --> 00:09:47,520
+are two broad subsets of
+licenses. There are the
+
+136
+00:09:47,520 --> 00:09:50,370
+permissive licenses are non
+reciprocal, and there are
+
+137
+00:09:50,370 --> 00:09:53,130
+definitely different words used
+here. Sometimes the words have
+
+138
+00:09:53,130 --> 00:09:57,780
+baggage. So I try to be pretty
+even handed in how I describe
+
+139
+00:09:57,780 --> 00:10:05,070
+them. permissive licenses like
+MIT BSD, the Apache License 2.0.
+
+140
+00:10:06,000 --> 00:10:11,280
+They don't require. So say you
+take a piece of software, and
+
+141
+00:10:11,280 --> 00:10:16,560
+you make a derivative work from
+it, you modify it. In a
+
+142
+00:10:16,560 --> 00:10:19,920
+permissive license, you are not
+required to share your
+
+143
+00:10:19,920 --> 00:10:24,360
+modifications under that same
+license, you can license them
+
+144
+00:10:24,360 --> 00:10:28,380
+differently, you can license
+them under proprietary license.
+
+145
+00:10:28,680 --> 00:10:31,050
+That's, that's totally up to
+you. And it's, it's your
+
+146
+00:10:31,050 --> 00:10:35,070
+prerogative to decide what you
+want to do there. On the other
+
+147
+00:10:35,070 --> 00:10:38,250
+side, we have copyleft licenses.
+And even in this category,
+
+148
+00:10:38,250 --> 00:10:43,590
+there's a continuum from from
+weak to strong copyleft. And
+
+149
+00:10:43,620 --> 00:10:47,190
+these are sometimes called
+reciprocal licenses, because I,
+
+150
+00:10:47,250 --> 00:10:51,270
+as someone who has authored,
+say, a GPL, v3 software that you
+
+151
+00:10:51,270 --> 00:10:54,480
+are now using, and you are now
+modifying and creating
+
+152
+00:10:54,480 --> 00:10:59,670
+derivative works with, because
+it's under the GPL, v3, you are
+
+153
+00:10:59,700 --> 00:11:04,140
+have a responsibility to provide
+your modifications under that
+
+154
+00:11:04,140 --> 00:11:09,990
+very same license. And there's
+things out there like the A GPL,
+
+155
+00:11:09,990 --> 00:11:13,980
+which is a strong copyleft
+license that specifically speaks
+
+156
+00:11:13,980 --> 00:11:19,980
+to software that operates over a
+network. Ultimately, these are
+
+157
+00:11:19,980 --> 00:11:25,620
+all valid and good licenses and
+picking one. Don't worry, it
+
+158
+00:11:25,620 --> 00:11:29,490
+doesn't need to be too
+complicated. But ultimately, you
+
+159
+00:11:29,490 --> 00:11:33,150
+will need to make a decision
+about depending on the use case
+
+160
+00:11:33,150 --> 00:11:36,210
+of your project, what what is
+appropriate for you.
+
+161
+00:11:41,670 --> 00:11:48,030
+So open source is really all
+about copyright. It's not about
+
+162
+00:11:48,030 --> 00:11:53,310
+trademark. And, of course, there
+are at least three areas of
+
+163
+00:11:53,310 --> 00:11:55,260
+intellectual property law,
+there's there's copyright,
+
+164
+00:11:55,260 --> 00:11:58,500
+there's trademark, and then
+there's also patents. Largely
+
+165
+00:11:58,530 --> 00:12:03,600
+open source licenses don't say
+much about patents. Some of them
+
+166
+00:12:03,600 --> 00:12:08,610
+do explicitly, this explicitly
+include a patent grant, to the
+
+167
+00:12:08,610 --> 00:12:14,760
+people who are using that
+software. The precedent that the
+
+168
+00:12:14,760 --> 00:12:18,330
+whole industry is operating
+under right now is that even if
+
+169
+00:12:18,330 --> 00:12:22,020
+an open source license doesn't
+explicitly include a patent
+
+170
+00:12:22,020 --> 00:12:26,460
+grant, the operating assumption
+is that there is an implicit
+
+171
+00:12:26,460 --> 00:12:34,620
+patent grant, at the very least.
+So I know that patents and
+
+172
+00:12:34,620 --> 00:12:37,590
+especially in context of
+academia, there's a question of
+
+173
+00:12:37,590 --> 00:12:40,950
+tech transfer translation. How
+does this technology How does
+
+174
+00:12:40,950 --> 00:12:45,630
+this work that get translated
+to, to do industry or to
+
+175
+00:12:45,630 --> 00:12:50,400
+something that will drive
+impact. And I know that I was
+
+176
+00:12:50,400 --> 00:12:54,150
+recently at Johns Hopkins,
+trying to help help some of
+
+177
+00:12:54,150 --> 00:12:56,250
+their good people in their
+library, persuade their tech
+
+178
+00:12:56,250 --> 00:13:00,300
+tech transfer people that, you
+know, open licensing is not,
+
+179
+00:13:01,500 --> 00:13:06,480
+there's not to be feared. And so
+anywho patents are often one of
+
+180
+00:13:06,480 --> 00:13:10,080
+the things that people get a
+little, you know, people who are
+
+181
+00:13:10,080 --> 00:13:13,710
+not used to open licensing, they
+can be sort of afraid of the
+
+182
+00:13:13,710 --> 00:13:19,530
+prospects here. But suffice it
+to say, patents, there's an
+
+183
+00:13:19,530 --> 00:13:22,830
+implicit if not an explicit
+patent grant, when you put an
+
+184
+00:13:22,830 --> 00:13:25,770
+open license on something, it
+doesn't mean that you can't
+
+185
+00:13:25,770 --> 00:13:28,770
+patent things, it just means
+that you're there's there's a
+
+186
+00:13:28,770 --> 00:13:36,390
+grant that's flowing through
+that license. So there are
+
+187
+00:13:36,420 --> 00:13:40,560
+happily tools and resources out
+there to help you navigate
+
+188
+00:13:40,560 --> 00:13:44,760
+choosing a license. Choose a
+licensed calm is pretty great.
+
+189
+00:13:44,760 --> 00:13:47,520
+Creative Commons has a lot of
+really plain language,
+
+190
+00:13:48,270 --> 00:13:53,220
+explanations of the different
+licenses that they have. The
+
+191
+00:13:53,220 --> 00:13:57,810
+number one thing that I would
+recommend is looking not only
+
+192
+00:13:57,810 --> 00:14:03,630
+looking at these resources, but
+if you are creating a project or
+
+193
+00:14:03,660 --> 00:14:06,840
+you know writing some code to to
+analyze some results, or
+
+194
+00:14:06,840 --> 00:14:11,880
+whatever the case may be. Look
+at the licenses that are common
+
+195
+00:14:11,910 --> 00:14:15,990
+in the community you're
+releasing the code into. So in
+
+196
+00:14:15,990 --> 00:14:20,460
+the JavaScript ecosystem, it's
+often the NIT or the BSD
+
+197
+00:14:20,460 --> 00:14:27,090
+license. In the PHP ecosystem,
+or in Java, it's often the
+
+198
+00:14:27,090 --> 00:14:31,680
+Apache License. And like there's
+no value judgment on those
+
+199
+00:14:31,680 --> 00:14:34,350
+things. It just happens to be
+sort of common practice within
+
+200
+00:14:34,350 --> 00:14:38,790
+those communities to use a given
+license. And so if you're
+
+201
+00:14:38,790 --> 00:14:43,620
+looking for collaboration and
+participation from people in
+
+202
+00:14:43,620 --> 00:14:46,470
+that community, you know,
+abiding the community norms is a
+
+203
+00:14:46,470 --> 00:14:51,150
+pretty, pretty solid way to
+start engaging with them. So
+
+204
+00:14:51,150 --> 00:14:55,020
+consider both what is typical in
+that community, as well as what
+
+205
+00:14:55,020 --> 00:14:58,500
+the specific constraints and
+goals are of your project, and
+
+206
+00:14:58,500 --> 00:15:01,410
+these resources will help you
+narrow data, there's decisions.
+
+207
+00:15:04,560 --> 00:15:10,530
+So open source is really, really
+just about code, which is, you
+
+208
+00:15:10,530 --> 00:15:13,860
+know, obviously, the work that
+we all do is so much bigger than
+
+209
+00:15:13,860 --> 00:15:18,660
+just software. We deal with
+data, we deal with imagery, we
+
+210
+00:15:18,660 --> 00:15:21,420
+deal with other all manner of
+assets, we deal with hardware.
+
+211
+00:15:22,020 --> 00:15:26,550
+There are open source hardware
+licenses. In the Creative
+
+212
+00:15:26,550 --> 00:15:31,290
+Commons does a fantastic job of
+providing licenses for open open
+
+213
+00:15:31,290 --> 00:15:34,980
+data and sort of open content.
+So whether it's for the white
+
+214
+00:15:34,980 --> 00:15:39,330
+paper, or the textbook, or the
+data set that goes along with a
+
+215
+00:15:39,330 --> 00:15:43,470
+project, Creative Commons is
+really, really fantastic sort of
+
+216
+00:15:43,470 --> 00:15:48,750
+catch all set of licenses. And
+of course, there are variations
+
+217
+00:15:48,750 --> 00:15:54,090
+that include, you know, require
+attribution, or require you to
+
+218
+00:15:54,090 --> 00:15:58,830
+share your code, the derivative
+works in the same way. And then
+
+219
+00:15:58,830 --> 00:16:02,010
+there are ones that even our
+have a non commercial clause, of
+
+220
+00:16:02,010 --> 00:16:04,800
+course, once we add non
+commercial classes, well, that
+
+221
+00:16:04,800 --> 00:16:07,020
+gets even further from open
+source and open licensing,
+
+222
+00:16:07,020 --> 00:16:09,300
+because then we're making
+judgments and putting
+
+223
+00:16:09,300 --> 00:16:15,540
+restrictions on who can who can
+really use it. So there's a
+
+224
+00:16:15,540 --> 00:16:19,590
+question here about what happens
+when we import multiple
+
+225
+00:16:19,620 --> 00:16:25,830
+libraries from other projects,
+and which licenses apply to the
+
+226
+00:16:25,830 --> 00:16:29,160
+work that we're creating? So
+this is a really good question.
+
+227
+00:16:30,510 --> 00:16:36,210
+There are two triggers, in
+licenses, generally, to be aware
+
+228
+00:16:36,210 --> 00:16:36,450
+of
+
+229
+00:16:37,770 --> 00:16:42,240
+one trigger is distribution,
+which is like the moment that
+
+230
+00:16:42,240 --> 00:16:45,870
+you are distributing the
+software, whether that's, you
+
+231
+00:16:45,870 --> 00:16:48,480
+know, I'm running it on a web
+server, and you're using it or,
+
+232
+00:16:50,700 --> 00:16:54,960
+or I'm sending you software
+that's on a disk, or I'm sending
+
+233
+00:16:54,960 --> 00:16:58,170
+you a little robot or a little
+sensor that has software I built
+
+234
+00:16:58,170 --> 00:17:02,910
+on it, those all count is forms
+of distribution. And the
+
+235
+00:17:02,910 --> 00:17:08,190
+distribution. Usually, that's
+where some of the
+
+236
+00:17:08,190 --> 00:17:13,590
+responsibilities kick in, like
+the attribution, or the
+
+237
+00:17:13,590 --> 00:17:21,960
+requirement to share your work
+in the same way. When you
+
+238
+00:17:21,960 --> 00:17:26,670
+inevitably end up using software
+that's licensed multiple
+
+239
+00:17:26,670 --> 00:17:34,110
+different ways. The one that
+applies to you. No, apologies
+
+240
+00:17:34,110 --> 00:17:37,020
+only backup. So first
+distribution, second is the
+
+241
+00:17:37,020 --> 00:17:40,680
+derivative works. And then copy
+and copy left, the moment you
+
+242
+00:17:40,680 --> 00:17:43,710
+make a derivative work. And that
+means really modifying that
+
+243
+00:17:43,710 --> 00:17:49,710
+software. So if you look at the
+Linux operating system, there's
+
+244
+00:17:49,710 --> 00:17:53,280
+broad agreement under and
+understanding that if I modify
+
+245
+00:17:53,280 --> 00:17:56,520
+the Linux operating system
+itself, that's me creating a
+
+246
+00:17:56,520 --> 00:18:00,330
+derivative work. And therefore,
+the software because it's under
+
+247
+00:18:00,330 --> 00:18:03,810
+a copyleft license, the software
+I create needs to be shared
+
+248
+00:18:04,020 --> 00:18:07,560
+under that same license.
+However, if I'm building an
+
+249
+00:18:07,560 --> 00:18:11,760
+application on top of Linux, you
+know, similar to like, Okay, I'm
+
+250
+00:18:11,760 --> 00:18:14,760
+not modifying windows, but I'm
+building software for people who
+
+251
+00:18:14,760 --> 00:18:19,200
+use Windows, same thing, Linux,
+Mac OS, what have you. If I'm
+
+252
+00:18:19,200 --> 00:18:22,080
+building something in the user
+space on Linux, that's not a
+
+253
+00:18:22,080 --> 00:18:26,730
+derivative work. And so I'm not
+required to distribute my work
+
+254
+00:18:26,730 --> 00:18:30,210
+under the license that that
+Linux is under, which is GPL,
+
+255
+00:18:30,210 --> 00:18:35,400
+v2. So the most restrictive
+license isn't necessarily the
+
+256
+00:18:35,400 --> 00:18:38,190
+one apply that applies to your
+work, you have to ask yourself
+
+257
+00:18:38,190 --> 00:18:43,170
+two questions. What are you
+distributing? And what are you
+
+258
+00:18:43,200 --> 00:18:49,230
+deriving your work from? And
+those are obviously like, not
+
+259
+00:18:49,230 --> 00:18:53,070
+always trivial questions to come
+up with answers with. But there
+
+260
+00:18:53,070 --> 00:18:56,190
+are lots of good people in the
+community who are happy to
+
+261
+00:18:56,190 --> 00:19:00,480
+provide advice on these things.
+Obviously, always recommend
+
+262
+00:19:00,480 --> 00:19:03,390
+speaking to legal counsel. But I
+will also say that the Open
+
+263
+00:19:03,390 --> 00:19:06,570
+Source Initiative does a lot of
+low key consulting for people.
+
+264
+00:19:07,800 --> 00:19:12,420
+You know, whether it's the, you
+know, the EU in their copyright
+
+265
+00:19:12,420 --> 00:19:16,950
+directive or the US and their
+Federal Open Source policy, are
+
+266
+00:19:16,950 --> 00:19:18,720
+various agencies trying to
+figure out how to use open
+
+267
+00:19:18,720 --> 00:19:24,210
+source or universities doing the
+same. There are we exist, and
+
+268
+00:19:24,210 --> 00:19:33,330
+we're happy to help provide
+guidance. So here are a number
+
+269
+00:19:33,330 --> 00:19:36,930
+of resources that I think there
+are a few that were already
+
+270
+00:19:36,930 --> 00:19:41,460
+included here. I added a couple,
+a few myself. These are
+
+271
+00:19:41,490 --> 00:19:45,060
+excellent resources for getting
+more information, both about the
+
+272
+00:19:45,060 --> 00:19:48,030
+licensing, and more generally
+building open source
+
+273
+00:19:48,030 --> 00:19:52,470
+communities. Open Source guide
+is one that I've added here
+
+274
+00:19:52,470 --> 00:19:56,370
+that's specific that includes
+questions of licensing, but also
+
+275
+00:19:56,370 --> 00:19:59,490
+like okay, how do I build a
+community around this? What are
+
+276
+00:19:59,490 --> 00:20:02,580
+really the key components of the
+community Code of Conduct is a
+
+277
+00:20:02,580 --> 00:20:05,940
+great start. But what about the
+governance? How do we recognize
+
+278
+00:20:05,940 --> 00:20:10,710
+our contributors? How do I set
+expectations with the community?
+
+279
+00:20:10,830 --> 00:20:13,470
+What expectations do they need
+me to set? You know, all of
+
+280
+00:20:13,470 --> 00:20:18,600
+these questions, I'm happy to
+say are like not new. And so
+
+281
+00:20:18,600 --> 00:20:22,080
+there's a lot of prior art out
+there to help provide guidance
+
+282
+00:20:22,080 --> 00:20:27,420
+on these matters. For your
+future with open source, I
+
+283
+00:20:27,420 --> 00:20:29,970
+apologize. That's that's a
+that's a book. It's not open
+
+284
+00:20:29,970 --> 00:20:35,250
+source book either. And further
+apologies disclaimer is written
+
+285
+00:20:35,250 --> 00:20:38,880
+by a good friend of mine. But it
+is a really, it's it is the only
+
+286
+00:20:38,880 --> 00:20:42,240
+book that is written
+specifically for newcomers to
+
+287
+00:20:42,240 --> 00:20:47,610
+open source. And I think it has
+a lot of really useful
+
+288
+00:20:47,610 --> 00:20:52,140
+information in that regard.
+Producing OSS is a book that is
+
+289
+00:20:52,140 --> 00:20:55,740
+open source from Karl Fogel when
+the former directors of the Open
+
+290
+00:20:55,740 --> 00:21:00,840
+Source Initiative, incredibly
+useful information. And I'd be
+
+291
+00:21:00,840 --> 00:21:04,050
+remiss if I didn't underscore
+the Open Source Definition there
+
+292
+00:21:04,050 --> 00:21:07,260
+at the top. That is, of course,
+the definition of the
+
+293
+00:21:07,260 --> 00:21:11,040
+organization and a part of
+stewards and uses to judge
+
+294
+00:21:11,040 --> 00:21:13,050
+whether a new license is open
+source or not.
+
+295
+00:21:15,810 --> 00:21:16,860
+So I think
+
+296
+00:21:18,990 --> 00:21:20,970
+I think that's the extent of
+what I've got for you. And I
+
+297
+00:21:20,970 --> 00:21:23,460
+apologize, I think I might have
+gone over time, but I hope that
+
+298
+00:21:23,460 --> 00:21:23,970
+was useful.
+

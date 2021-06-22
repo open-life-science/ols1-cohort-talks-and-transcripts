@@ -1,0 +1,705 @@
+1
+00:00:00,000 --> 00:00:02,280
+Unknown: Hello, I will be
+talking about the readme files
+
+2
+00:00:02,670 --> 00:00:08,370
+and how we can implement or
+like, how can you write the
+
+3
+00:00:08,370 --> 00:00:11,550
+written files for your project.
+But first of all, like why, why
+
+4
+00:00:11,550 --> 00:00:16,950
+would you and what is the role
+of the readme files? And, but no
+
+5
+00:00:16,950 --> 00:00:23,400
+icons? Yeah. Okay. So actually,
+I look as the same as Josh. And
+
+6
+00:00:23,670 --> 00:00:26,550
+so I already introduced myself,
+but briefly, my name is Manish
+
+7
+00:00:26,550 --> 00:00:29,250
+Kozak. I work in the Netherlands
+Science Center. And actually,
+
+8
+00:00:29,910 --> 00:00:33,090
+quite a lot of my work is
+involved in training and around
+
+9
+00:00:33,090 --> 00:00:38,460
+software best practices, and
+where we also teach how to run
+
+10
+00:00:38,460 --> 00:00:41,880
+open source projects. So
+creating reading files is one of
+
+11
+00:00:41,880 --> 00:00:45,570
+the things that we teach.
+Actually, whenever I talk about
+
+12
+00:00:45,570 --> 00:00:49,470
+open source, I say you should
+start with when you're starting
+
+13
+00:00:49,470 --> 00:00:52,770
+open source project to actually
+start with open sourcing it from
+
+14
+00:00:52,770 --> 00:00:55,440
+day one, but then start with the
+readme file, this should be the
+
+15
+00:00:55,440 --> 00:00:59,340
+first thing that you are
+actually writing. And so I will
+
+16
+00:00:59,340 --> 00:01:03,930
+talk about how to use read me to
+communicate your project
+
+17
+00:01:03,930 --> 00:01:08,280
+effectively, and learn how to
+write the description of your
+
+18
+00:01:08,280 --> 00:01:13,590
+project. I will list some
+examples where you can find more
+
+19
+00:01:13,620 --> 00:01:16,890
+so you can follow the links, you
+can look at different examples,
+
+20
+00:01:17,460 --> 00:01:21,990
+but also some more resources
+about how to write a readme
+
+21
+00:01:21,990 --> 00:01:26,910
+file. And, and then after I
+stopped talking, you will
+
+22
+00:01:26,910 --> 00:01:30,510
+actually create your or revise
+your README files or project
+
+23
+00:01:30,510 --> 00:01:35,310
+descriptions. And so I believe
+this is where we are in the oil
+
+24
+00:01:35,310 --> 00:01:39,840
+LS project. So the readme file
+touches upon communication and
+
+25
+00:01:39,960 --> 00:01:46,260
+people understanding what your
+project is about. And actually,
+
+26
+00:01:46,290 --> 00:01:51,360
+so this is the I guess, the
+motto of the open leaders. Yeah,
+
+27
+00:01:51,360 --> 00:01:53,970
+open sciences project. But
+actually, I like it because it
+
+28
+00:01:53,970 --> 00:01:56,730
+fits very well with their what
+why do we need README files
+
+29
+00:01:56,730 --> 00:02:01,260
+because you want to empower
+others to collaborate? And if
+
+30
+00:02:01,290 --> 00:02:04,770
+the readme file is there to
+actually empower them, so the to
+
+31
+00:02:04,770 --> 00:02:09,120
+give them tools and to give them
+channels and to give them the
+
+32
+00:02:09,120 --> 00:02:13,800
+reasons to collaborate with you.
+Yeah. And, and then the readme
+
+33
+00:02:13,800 --> 00:02:17,280
+file is a bit like a like a
+doormat where people see it
+
+34
+00:02:17,280 --> 00:02:21,570
+before they even enter the
+project. Yeah, they, this is the
+
+35
+00:02:21,570 --> 00:02:26,520
+first thing they see. And so
+what is the readme file there?
+
+36
+00:02:27,330 --> 00:02:31,770
+You're already mentioned that
+this project, like we do use a
+
+37
+00:02:31,770 --> 00:02:35,670
+GitHub as an example of, or
+like, we use it for other
+
+38
+00:02:35,670 --> 00:02:43,380
+collaboration platform. So the
+GitHub uses README files, as I
+
+39
+00:02:43,380 --> 00:02:48,300
+like the first thing that people
+see as a description of the
+
+40
+00:02:48,300 --> 00:02:51,810
+product. So README is in
+principle, a file, which is
+
+41
+00:02:51,810 --> 00:02:57,630
+called README, uppercase,
+README, it could be readme.md,
+
+42
+00:02:57,630 --> 00:03:02,940
+because usually, an especially
+on GitHub, the format, or the
+
+43
+00:03:02,940 --> 00:03:06,540
+language that you would write
+the readme in, would be
+
+44
+00:03:06,540 --> 00:03:11,190
+markdown. So that's why it's
+readme.md, for markdown. But
+
+45
+00:03:11,190 --> 00:03:14,940
+it's cool. If you don't use
+GitHub, if you have some use
+
+46
+00:03:14,940 --> 00:03:18,240
+some other platform, the readme
+could be a web page, like the
+
+47
+00:03:18,240 --> 00:03:22,320
+front page of your project
+describing your project. And,
+
+48
+00:03:23,010 --> 00:03:28,140
+and so as I mentioned, if you if
+you read me is a file, and in
+
+49
+00:03:28,140 --> 00:03:31,890
+this file, you describe what
+your project is about. And then
+
+50
+00:03:31,890 --> 00:03:36,240
+if you put this file in the root
+of your project on GitHub, then
+
+51
+00:03:36,270 --> 00:03:38,370
+this will be the first thing
+people see when they go to
+
+52
+00:03:38,370 --> 00:03:44,130
+GitHub, on GitHub, to your
+project. And so this is really
+
+53
+00:03:44,130 --> 00:03:47,610
+the first opportunity, and often
+the only opportunity because if
+
+54
+00:03:47,610 --> 00:03:51,120
+you lose this opportunity, and
+people get discouraged, or don't
+
+55
+00:03:51,120 --> 00:03:55,650
+get interested in your project,
+they might not come back. So you
+
+56
+00:03:55,650 --> 00:04:00,540
+should like, seize this
+opportunity and describe your
+
+57
+00:04:00,540 --> 00:04:05,850
+project well. And so what should
+go into the written describe
+
+58
+00:04:05,850 --> 00:04:08,880
+what you're doing on what the
+project is doing? Who is the
+
+59
+00:04:08,880 --> 00:04:11,790
+audience of the project, why
+people should be using your
+
+60
+00:04:11,790 --> 00:04:15,360
+project or like the the tools
+that you're developing? And so
+
+61
+00:04:15,360 --> 00:04:20,310
+on why people would care? How
+does this project differ from
+
+62
+00:04:20,310 --> 00:04:26,730
+other similar projects, and
+maybe why people would like to
+
+63
+00:04:26,760 --> 00:04:32,070
+get involved in this project,
+and how to get started, which
+
+64
+00:04:32,070 --> 00:04:35,760
+could mean how to get started
+with using the things that the
+
+65
+00:04:35,760 --> 00:04:39,270
+project is about or how to get
+started as a contributor. And I
+
+66
+00:04:39,270 --> 00:04:42,510
+think this is something that you
+have to keep in mind that README
+
+67
+00:04:42,510 --> 00:04:45,810
+often will be for both types of
+audience, it will be to the
+
+68
+00:04:45,810 --> 00:04:48,510
+people who will use the things
+that your your project is about,
+
+69
+00:04:48,690 --> 00:04:51,480
+or people who would like to
+contribute or collaborate on
+
+70
+00:04:51,480 --> 00:05:00,270
+that. And then also list the
+resources and so this is the The
+
+71
+00:05:00,270 --> 00:05:05,490
+example of the of the readme
+file, how it's can be found on
+
+72
+00:05:05,490 --> 00:05:07,860
+GitHub. This is project by QC
+Whitaker.
+
+73
+00:05:09,000 --> 00:05:11,430
+And you can see here like,
+there's the welcome message, you
+
+74
+00:05:11,430 --> 00:05:15,000
+want to want to welcome people
+who come see your project,
+
+75
+00:05:15,150 --> 00:05:19,380
+there's a description. And there
+are links, description, how to
+
+76
+00:05:19,470 --> 00:05:23,670
+also links to the documents on
+how to contribute or how to get
+
+77
+00:05:23,670 --> 00:05:26,820
+involved, what is the license,
+what is the code of conduct. So
+
+78
+00:05:26,820 --> 00:05:34,710
+this is also like a place, which
+will have a map to your project.
+
+79
+00:05:34,740 --> 00:05:37,320
+So people will find all the
+links that are relevant for your
+
+80
+00:05:37,320 --> 00:05:40,230
+project. So they should be able
+to find all those things from
+
+81
+00:05:40,230 --> 00:05:45,480
+the readme file. And so what
+else? I think I believe it's
+
+82
+00:05:45,480 --> 00:05:48,510
+very important that in the
+readme file, you communicate
+
+83
+00:05:48,510 --> 00:05:51,570
+expectations about the readiness
+of your project, you don't want
+
+84
+00:05:51,570 --> 00:05:57,660
+people to start using the
+project. Or Yeah, a to before
+
+85
+00:05:57,660 --> 00:06:00,690
+it's ready, or at least, like
+they can use it, but they should
+
+86
+00:06:00,690 --> 00:06:05,460
+understand that it may be it's
+not ready yet. And you should
+
+87
+00:06:05,460 --> 00:06:09,060
+communicate expectations for and
+manage contribution to your
+
+88
+00:06:09,060 --> 00:06:13,950
+project as a how people can
+contribute. And also what are
+
+89
+00:06:13,950 --> 00:06:20,010
+the communication channels. And
+then I didn't like the use the
+
+90
+00:06:20,010 --> 00:06:22,560
+budgets in the readme files,
+this is a nice way to
+
+91
+00:06:22,560 --> 00:06:25,860
+communicate things around your
+project. So you can say, if you
+
+92
+00:06:25,860 --> 00:06:28,470
+would like to cite myself for
+this is the goi if you would
+
+93
+00:06:28,500 --> 00:06:32,370
+like to download, this is the
+link to the release. This is the
+
+94
+00:06:32,370 --> 00:06:36,960
+license and so on. And so these
+things are called badges or
+
+95
+00:06:36,960 --> 00:06:41,970
+shields, I believe. That's the
+sheets, I open the project. So
+
+96
+00:06:41,970 --> 00:06:45,570
+you can put it at the top of
+your README file, which is nice.
+
+97
+00:06:46,800 --> 00:06:52,680
+Yo, how am I doing with time,
+you're okay. But faster rather
+
+98
+00:06:52,680 --> 00:06:53,850
+than slower is probably
+
+99
+00:06:55,410 --> 00:06:58,020
+I can speak very fast, you know
+that but maybe
+
+100
+00:06:58,050 --> 00:06:59,220
+medium fast, maybe
+
+101
+00:07:00,840 --> 00:07:01,350
+you can.
+
+102
+00:07:02,700 --> 00:07:06,090
+So you can add emojis actually,
+I think emojis are very nice way
+
+103
+00:07:06,120 --> 00:07:13,440
+of making your README less dry
+and more inviting and more
+
+104
+00:07:14,250 --> 00:07:18,480
+friendly in expression. Since we
+are like, people are reading it,
+
+105
+00:07:18,480 --> 00:07:22,560
+it's very difficult to express
+friendliness for the, for the
+
+106
+00:07:22,560 --> 00:07:27,660
+text itself. So I really advise
+using emojis. And you can also
+
+107
+00:07:27,660 --> 00:07:30,570
+use animated gifs, which
+actually I was struggling if I
+
+108
+00:07:30,570 --> 00:07:34,500
+should say that, but at the same
+time. So I think it's very good
+
+109
+00:07:34,500 --> 00:07:41,490
+way to communicate very, in an
+easy way describe what your tool
+
+110
+00:07:41,490 --> 00:07:44,460
+is doing without a lot of text,
+people can just see what the
+
+111
+00:07:44,460 --> 00:07:49,950
+tool is doing. At the same time.
+I think that does decrease the
+
+112
+00:07:49,950 --> 00:07:53,580
+accessibility or your of your of
+your README. At the same time if
+
+113
+00:07:53,580 --> 00:07:59,010
+someone if if things about your
+tool or project are visual, then
+
+114
+00:07:59,040 --> 00:08:02,970
+they they're visual anyway, so
+I'm not sure I'm actually
+
+115
+00:08:02,970 --> 00:08:08,940
+interested in this, hearing your
+opinion on that. And so it's
+
+116
+00:08:08,940 --> 00:08:13,350
+very important that you use
+accessible language is simple
+
+117
+00:08:13,350 --> 00:08:18,300
+language, don't use the jargon.
+It's very easy to expect like
+
+118
+00:08:18,330 --> 00:08:22,140
+you're in your domain, you're
+describing the tool maybe or a
+
+119
+00:08:22,140 --> 00:08:26,640
+project which is within your
+domain. So it's easy to like
+
+120
+00:08:26,640 --> 00:08:29,910
+stay in this bubble and and use
+a lot of jargon that you think
+
+121
+00:08:29,910 --> 00:08:33,330
+everyone should look towards
+everyone should be known. So
+
+122
+00:08:33,330 --> 00:08:39,840
+it's very nice example with the
+you may be familiar with XKCD
+
+123
+00:08:39,840 --> 00:08:48,900
+comic and the outer was Randall
+Munroe, I think and then he also
+
+124
+00:08:48,930 --> 00:08:52,050
+wrote the book, which is called
+things explainer, where he only
+
+125
+00:08:52,050 --> 00:08:58,230
+uses the most common 10 100
+words, to explain things. Here's
+
+126
+00:08:58,230 --> 00:09:01,380
+the rocket, which is actually
+it's not rocket up color,
+
+127
+00:09:01,380 --> 00:09:05,520
+because the rocket is no not one
+of the 10 100 most popular
+
+128
+00:09:05,520 --> 00:09:12,090
+words. And so he he This is like
+an exercise of like really being
+
+129
+00:09:12,090 --> 00:09:15,660
+able to explain in very plain
+wares, complicated things, which
+
+130
+00:09:15,690 --> 00:09:21,060
+actually turns out to be
+possible. And also, don't use
+
+131
+00:09:21,120 --> 00:09:26,580
+acronyms, or at least explain
+them if you if you do. And you
+
+132
+00:09:26,580 --> 00:09:28,920
+can. So we're not going to try
+it now. But I think after my
+
+133
+00:09:28,920 --> 00:09:31,890
+talk will have a breakout, and
+you're going to try out there is
+
+134
+00:09:31,890 --> 00:09:36,930
+an online editor which allows
+you to do the same. So use the
+
+135
+00:09:36,960 --> 00:09:41,760
+only 1010 100 words, most common
+10 100 words to describe your
+
+136
+00:09:41,760 --> 00:09:45,300
+project. So we will work on your
+project description and the
+
+137
+00:09:45,300 --> 00:09:46,950
+readme file. And
+
+138
+00:09:47,250 --> 00:09:48,750
+there are some more resources.
+
+139
+00:09:49,470 --> 00:09:53,490
+And I actually really like the
+list of awesome reasons. There's
+
+140
+00:09:53,520 --> 00:09:57,510
+not only the list of reasons but
+there's also a lot of resources
+
+141
+00:09:57,510 --> 00:10:00,390
+that are listed that you can use
+to learn more about how write
+
+142
+00:10:00,390 --> 00:10:04,860
+code really fast. And yeah and
+that's me
+
