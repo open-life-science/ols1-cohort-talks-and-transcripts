@@ -4,31 +4,26 @@
 
 This repository aims to make the Open Life Science (OLS-1) videos and captions accessible, re-useable, and encourage further translation in other languages beyond English and Arabic. All original videos are available in [Open LifeSci YouTube channel](https://www.youtube.com/channel/UCs12-ZgnDJOWIWN3Vo1XHXA). This project was initiated by [Talarify](https://twitter.com/talarify?lang=en) and [Open Science Community in Saudi Arabia](https://twitter.com/OpenSciSaudi) to facilitate learning of Open science practices to novice learners.
 
-|                                        Title                                       	|          Speaker          	| English Transcript 	|  Arabic Transcript 	|
-|:----------------------------------------------------------------------------------:	|:-------------------------:	|:------------------:	|:------------------:	|
-|                           Open Life Sciences Introduction                          	|       Malvika Sharan      	| :heavy_check_mark: 	| :heavy_check_mark: 	|
-|                          Open Canvas for Project Strategy                          	|         Yo Yehudi         	| :heavy_check_mark: 	|                    	|
-|                    Roadmapping for Open Projects: Open by design                   	|       Berenice Batut      	| :heavy_check_mark: 	|                    	|
-|                          Project Structure: Open Licensing                         	|            Josh           	| :heavy_check_mark: 	|                    	|
-|                             README's for Open Projects                             	|       Mateusz Kuzak       	| :heavy_check_mark: 	|                    	|
-|           Contributing Guidelines and Codes of Conduct for Open Projects           	| Malvika and Karin Lagesen 	| :heavy_check_mark: 	|                    	|
-|                    Agile & Iterative Project Management Methods                    	|         Yo Yehudi         	| :heavy_check_mark: 	|                    	|
-|                                Open Science Hardware                               	|      Julieta Arancio      	| :heavy_check_mark: 	|                    	|
-|                              Open Software in Research                             	|       Andrew Stewart      	| :heavy_check_mark: 	|                    	|
-|                           Open Data in the Life Sciences                           	|       Lilly Winfree       	| :heavy_check_mark: 	|                    	|
-|                    Citizen Science using your own personal data                    	| Bastian Greshake Tzovaras 	| :heavy_check_mark: 	|                    	|
-|                             Open Education and Training                            	|           Caleb           	| :heavy_check_mark: 	|                    	|
-|                           Preprints and open peer review                           	|       Demitra Ellina      	| :heavy_check_mark: 	|                    	|
-|     Open Protocols:creating, editing, and getting credit for scientific methods    	|      Anita Brollochs      	| :heavy_check_mark: 	|                    	|
-|                         Inclusion can't be an afterthought                         	|         Alex Chan         	| :heavy_check_mark: 	|                    	|
-| Mountain of engagement:Discovering pathways & patterns of engagement in your work. 	|       Malvika Sharan      	| :heavy_check_mark: 	|                    	|
-|                              Open Life Sciences Tools                              	|      Kirstie Whitaker     	| :heavy_check_mark: 	|                    	|
-|                              Career Guidance: Academia                             	|       Andrew Stewart      	| :heavy_check_mark: 	|                    	|
-|                                  Career Guidance                                   	|       Ekin Bolukbasi      	| :heavy_check_mark: 	|                    	|
-|                   Open Leadership: Academia, Industry and beyond!                  	|    David Selassie Opoku   	| :heavy_check_mark: 	|                    	|
-|                         Inclusion can't be an afterthought                         	|         Alex Chan         	| :heavy_check_mark: 	|                    	|
-|                   Mountain of Engagements: Community Interactions                  	|        Tania Allard       	| :heavy_check_mark: 	|                    	|
-|                    Using Persona and Pathways to Build Community                   	|        Ben Krikler        	| :heavy_check_mark: 	|                    	|
+
+|                                         Title                                         	|                                                      YouTube                                                     	|          Speaker          	| English Transcript 	|  Arabic Transcript 	|
+|:-------------------------------------------------------------------------------------:	|:----------------------------------------------------------------------------------------------------------------:	|:-------------------------:	|:------------------:	|:------------------:	|
+|                          [Open Life Sciences Introduction]()                          	| [<img src ='https://www.online-tech-tips.com/wp-content/uploads/2019/07/youtube-1.png'  width=35 height=15 />]() 	|       Malvika Sharan      	| :heavy_check_mark: 	| :heavy_check_mark: 	|
+|                          [Open Canvas for Project Strategy]()                         	| [<img src ='https://www.online-tech-tips.com/wp-content/uploads/2019/07/youtube-1.png'  width=35 height=15 />]() 	|         Yo Yehudi         	| :heavy_check_mark: 	|                    	|
+|                   [Roadmapping for Open Projects: Open by design]()                   	| [<img src ='https://www.online-tech-tips.com/wp-content/uploads/2019/07/youtube-1.png'  width=35 height=15 />]() 	|       Berenice Batut      	| :heavy_check_mark: 	|                    	|
+|                         [Project Structure: Open Licensing]()                         	| [<img src ='https://www.online-tech-tips.com/wp-content/uploads/2019/07/youtube-1.png'  width=35 height=15 />]() 	|            Josh           	| :heavy_check_mark: 	|                    	|
+|                             [README's for Open Projects]()                            	| [<img src ='https://www.online-tech-tips.com/wp-content/uploads/2019/07/youtube-1.png'  width=35 height=15 />]() 	|       Mateusz Kuzak       	| :heavy_check_mark: 	|                    	|
+|           [Contributing Guidelines and Codes of Conduct for Open Projects]()          	| [<img src ='https://www.online-tech-tips.com/wp-content/uploads/2019/07/youtube-1.png'  width=35 height=15 />]() 	| Malvika and Karin Lagesen 	| :heavy_check_mark: 	|                    	|
+|                    [Agile & Iterative Project Management Methods]()                   	| [<img src ='https://www.online-tech-tips.com/wp-content/uploads/2019/07/youtube-1.png'  width=35 height=15 />]() 	|         Yo Yehudi         	| :heavy_check_mark: 	|                    	|
+|                               [Open Science Hardware]()                               	| [<img src ='https://www.online-tech-tips.com/wp-content/uploads/2019/07/youtube-1.png'  width=35 height=15 />]() 	|      Julieta Arancio      	| :heavy_check_mark: 	|                    	|
+|                             [Open Software in Research]()                             	| [<img src ='https://www.online-tech-tips.com/wp-content/uploads/2019/07/youtube-1.png'  width=35 height=15 />]() 	|       Andrew Stewart      	| :heavy_check_mark: 	|                    	|
+|                           [Open Data in the Life Sciences]()                          	| [<img src ='https://www.online-tech-tips.com/wp-content/uploads/2019/07/youtube-1.png'  width=35 height=15 />]() 	|       Lilly Winfree       	| :heavy_check_mark: 	|                    	|
+|                    [Citizen Science using your own personal data]()                   	| [<img src ='https://www.online-tech-tips.com/wp-content/uploads/2019/07/youtube-1.png'  width=35 height=15 />]() 	| Bastian Greshake Tzovaras 	| :heavy_check_mark: 	|                    	|
+|                            [Open Education and Training]()                            	| [<img src ='https://www.online-tech-tips.com/wp-content/uploads/2019/07/youtube-1.png'  width=35 height=15 />]() 	|           Caleb           	| :heavy_check_mark: 	|                    	|
+|                           [Preprints and open peer review]()                          	| [<img src ='https://www.online-tech-tips.com/wp-content/uploads/2019/07/youtube-1.png'  width=35 height=15 />]() 	|       Demitra Ellina      	| :heavy_check_mark: 	|                    	|
+|    [Open Protocols:creating, editing, and getting credit for scientific methods]()    	| [<img src ='https://www.online-tech-tips.com/wp-content/uploads/2019/07/youtube-1.png'  width=35 height=15 />]() 	|      Anita Brollochs      	| :heavy_check_mark: 	|                    	|
+|                         [Inclusion can't be an afterthought]()                        	| [<img src ='https://www.online-tech-tips.com/wp-content/uploads/2019/07/youtube-1.png'  width=35 height=15 />]() 	|         Alex Chan         	| :heavy_check_mark: 	|                    	|
+| [Mountain of engagement:Discovering pathways & patterns of engagement in your work]() 	| [<img src ='https://www.online-tech-tips.com/wp-content/uploads/2019/07/youtube-1.png'  width=35 height=15 />]() 	|       Malvika Sharan      	| :heavy_check_mark: 	|                    	|
+|                              [Open Life Sciences Tools]()                             	| [<img src ='https://www.online-tech-tips.com/wp-content/uploads/2019/07/youtube-1.png'  width=35 height=15 />]() 	|      Kirstie Whitaker     	| :heavy_check_mark: 	|                    	|
 
 > You can also find the videos and captions associated with [cohort 2 (OLS-2)](https://github.com/open-life-science/ols2-cohort-talks-and-transcripts) and [cohort 3 (OLS-3)](https://github.com/open-life-science/ols3-cohort-talks-and-transcripts) in their respective repositories.
 
