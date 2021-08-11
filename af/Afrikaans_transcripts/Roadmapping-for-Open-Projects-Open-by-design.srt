@@ -1,0 +1,588 @@
+1
+00:00:00,000 --> 00:00:02,970
+Unknown: I will talk now about
+road mapping for open project.
+
+2
+00:00:03,420 --> 00:00:09,660
+And that's wrong one. So what we
+will do is what we will see how
+
+3
+00:00:09,660 --> 00:00:13,380
+we can use a road map to plan
+your walk in contribution for a
+
+4
+00:00:13,380 --> 00:00:17,130
+project for your project for
+your project, and look at some
+
+5
+00:00:17,160 --> 00:00:22,290
+examples, and do during at the
+end of the course, we will give
+
+6
+00:00:22,290 --> 00:00:25,890
+you an assignment to create or
+revise your, your roadmap for
+
+7
+00:00:25,890 --> 00:00:30,420
+your project. But I will first
+introduce you to the roadmap.
+
+8
+00:00:31,950 --> 00:00:35,520
+So, same as you mentioned, so,
+it's the same introduction to
+
+9
+00:00:35,520 --> 00:00:39,870
+open EDA design and build
+project that empower others to
+
+10
+00:00:39,870 --> 00:00:43,710
+collaborate. And I will talk a
+bit now about the collaboration
+
+11
+00:00:43,710 --> 00:00:46,890
+part and our the roadmap can
+help you to empower others to
+
+12
+00:00:46,890 --> 00:00:51,480
+collaborate within inclusive
+communities to your project.
+
+13
+00:00:53,790 --> 00:00:57,570
+Again, with nice tables of
+designing, building and pouring
+
+14
+00:00:57,630 --> 00:01:01,740
+and for understanding sharing
+and participation. And now with
+
+15
+00:01:01,740 --> 00:01:06,960
+the roadmap will focus on this
+the part on the top right,
+
+16
+00:01:07,710 --> 00:01:11,700
+participation and inclusion. So
+how you design your project to
+
+17
+00:01:11,730 --> 00:01:19,200
+add participation and
+inclusions. So the idea is to to
+
+18
+00:01:19,200 --> 00:01:22,680
+develop a welcoming space that
+make a good first impression
+
+19
+00:01:22,710 --> 00:01:26,520
+that you you are new
+contributors are in the right
+
+20
+00:01:26,520 --> 00:01:30,270
+place to contribute that they
+feel welcome. And that they can
+
+21
+00:01:30,270 --> 00:01:35,490
+be they can get involved in one
+project. But for that you let
+
+22
+00:01:35,520 --> 00:01:38,850
+you need to let them know what's
+going on what's happening, what,
+
+23
+00:01:39,330 --> 00:01:43,230
+what is the current status of a
+project, what you what you as a
+
+24
+00:01:43,230 --> 00:01:47,250
+leader of a project, you want to
+what is your vision, so you
+
+25
+00:01:47,250 --> 00:01:51,630
+already write your visions, that
+you can detail it a bit more
+
+26
+00:01:51,630 --> 00:01:57,540
+with the roadmap. And so a
+roadmap will be a summary of a
+
+27
+00:01:57,540 --> 00:02:02,190
+project welcoming people to
+contribute welcoming people, and
+
+28
+00:02:02,250 --> 00:02:06,420
+how they can get involved. And
+usually you have a timeline. So
+
+29
+00:02:06,420 --> 00:02:11,130
+it's a three main main parts in
+the roadmap, these three parts.
+
+30
+00:02:12,720 --> 00:02:17,760
+The first part of the project
+summary and welcome will make
+
+31
+00:02:17,760 --> 00:02:21,210
+people we are welcome people
+orient people to your to your
+
+32
+00:02:21,210 --> 00:02:24,240
+project. So usually there has
+been linked to your map
+
+33
+00:02:24,240 --> 00:02:27,630
+directly. So they never maybe
+never heard about your project.
+
+34
+00:02:27,630 --> 00:02:30,990
+They they went directly to your
+roadmap. So it's important to
+
+35
+00:02:30,990 --> 00:02:34,740
+end them understanding where
+they are, what is your project?
+
+36
+00:02:34,980 --> 00:02:39,450
+What is it about what is your
+visions, and that they
+
+37
+00:02:39,690 --> 00:02:44,400
+understand their vision, their
+the big idea about the project.
+
+38
+00:02:45,660 --> 00:02:50,370
+And to give them a clear focus,
+it also helps you to give a
+
+39
+00:02:50,370 --> 00:02:53,010
+focus when writing the rest of
+the roadmap, if you already
+
+40
+00:02:53,010 --> 00:02:58,230
+wrote write the visions. So the
+project summary first is the
+
+41
+00:02:58,230 --> 00:03:02,940
+first thing that you will have
+in your roadmap. And then the
+
+42
+00:03:02,940 --> 00:03:06,060
+second step is out to get
+involved. So some new
+
+43
+00:03:06,060 --> 00:03:09,840
+contributors may want to just
+jump right away, they want to
+
+44
+00:03:09,840 --> 00:03:13,830
+contribute directly. But though,
+then you need to point them were
+
+45
+00:03:13,920 --> 00:03:19,500
+out to some documentations to
+how they can contribute. Maybe
+
+46
+00:03:19,500 --> 00:03:25,290
+you have some easy to contribute
+issues or something, it's
+
+47
+00:03:25,290 --> 00:03:29,670
+important to do that in your in
+your in your roadmap, you will
+
+48
+00:03:29,670 --> 00:03:33,390
+need to do that too, to tell
+them how they can get involved.
+
+49
+00:03:34,680 --> 00:03:37,980
+and point them to important part
+two, the different part of your
+
+50
+00:03:37,980 --> 00:03:43,650
+project. The third part and the
+more the more important part of
+
+51
+00:03:43,650 --> 00:03:45,840
+your roadmap will be the
+timeline. So you need to
+
+52
+00:03:45,840 --> 00:03:49,500
+organize tasks to complete your
+project around different
+
+53
+00:03:49,500 --> 00:03:54,660
+milestones and that it will map
+what you are working on and what
+
+54
+00:03:54,660 --> 00:03:58,140
+is going next. So what is your
+currently tasks that you need to
+
+55
+00:03:58,140 --> 00:04:02,940
+achieve what end what is your
+visions, maybe on short term,
+
+56
+00:04:03,210 --> 00:04:10,770
+meters and long term. And so you
+define different milestones that
+
+57
+00:04:10,770 --> 00:04:13,110
+can be turning point a
+significant turning point or
+
+58
+00:04:13,110 --> 00:04:16,380
+event that we move your your
+project for what it can be
+
+59
+00:04:16,380 --> 00:04:19,320
+statues. So for example, you
+have a feature release plan, you
+
+60
+00:04:19,320 --> 00:04:24,480
+have a minimal, minimal viable
+product that you want to
+
+61
+00:04:24,480 --> 00:04:27,360
+release. It can be also an
+event. So for example, you
+
+62
+00:04:27,360 --> 00:04:29,940
+organize a hackathon and you
+have different milestones you
+
+63
+00:04:29,940 --> 00:04:33,210
+want to achieve these things
+before the hackathon or during
+
+64
+00:04:33,210 --> 00:04:38,100
+the hackathon or you have a
+deadline for submission of a
+
+65
+00:04:38,100 --> 00:04:41,400
+paper somewhere or for
+conference for example, and you
+
+66
+00:04:41,400 --> 00:04:45,480
+want to achieve things before it
+can be sorts of timeframe. So as
+
+67
+00:04:45,480 --> 00:04:51,210
+I mentioned, oh, there is a
+mistakes. And beside the
+
+68
+00:04:51,210 --> 00:04:54,990
+timeframe, the short time is a
+short term, medium term and long
+
+69
+00:04:54,990 --> 00:04:55,470
+terms.
+
+70
+00:04:57,600 --> 00:05:03,360
+frame for your project. So it's
+important to when you write
+
+71
+00:05:03,360 --> 00:05:09,300
+your, you're going to have to
+pick 123 milestones for your
+
+72
+00:05:09,300 --> 00:05:13,650
+timeline. And then once you have
+them, you can list some tasks to
+
+73
+00:05:13,650 --> 00:05:16,380
+complete for each of the
+milestones that will include
+
+74
+00:05:16,380 --> 00:05:19,920
+information to make to help
+people to contribute to know
+
+75
+00:05:19,920 --> 00:05:25,890
+what has to be done, what will
+be successful, what will be a
+
+76
+00:05:25,890 --> 00:05:30,000
+successful fifth tasks out
+should look like how you can get
+
+77
+00:05:30,000 --> 00:05:33,480
+started. So maybe point to some
+documentation or some part of
+
+78
+00:05:33,480 --> 00:05:37,980
+your code to say, Okay, how can
+I do that, and why this task is
+
+79
+00:05:37,980 --> 00:05:42,210
+important. So on finalize that
+to make sure that you relate
+
+80
+00:05:42,210 --> 00:05:48,270
+that to your vision. And the
+question is how you can share
+
+81
+00:05:48,270 --> 00:05:52,440
+now this will map how you store
+your roadmap. And we were
+
+82
+00:05:52,440 --> 00:05:55,650
+discussing quickly with my
+weekend, you're in the beginning
+
+83
+00:05:55,650 --> 00:06:00,870
+of the course. And that's, and
+it's moving quite short, it's
+
+84
+00:06:00,870 --> 00:06:05,490
+changing a lot. So the way you
+can do it is before I will say,
+
+85
+00:06:06,120 --> 00:06:09,120
+until recently, it was you have
+a separate file called
+
+86
+00:06:09,120 --> 00:06:13,170
+roadmap.md. And if you go to
+this link, they're open
+
+87
+00:06:13,170 --> 00:06:16,530
+discovery. I don't know if I
+can, Oh, do you see my screen?
+
+88
+00:06:16,530 --> 00:06:21,360
+If I open it? Nope. Still your
+slides. Okay, sorry. So you can
+
+89
+00:06:21,360 --> 00:06:26,220
+go through the links later. But
+you can store in a roadmap find
+
+90
+00:06:26,250 --> 00:06:30,120
+attendee for Zeppelin, if you
+have a GitHub repository, where
+
+91
+00:06:30,120 --> 00:06:34,440
+you storing this remap, then
+that people can find later, you
+
+92
+00:06:34,440 --> 00:06:38,610
+can also put that in the readme
+file. But I must admit that I
+
+93
+00:06:38,610 --> 00:06:41,580
+didn't find a good example,
+recent example up to date
+
+94
+00:06:41,580 --> 00:06:45,540
+example of a readme file with a
+roadmap inside, because
+
+95
+00:06:45,570 --> 00:06:49,320
+nowadays, I would say most of
+the people use an issue. So you
+
+96
+00:06:49,320 --> 00:06:53,190
+have an issue too, with a
+roadmap, for example, for the
+
+97
+00:06:53,190 --> 00:06:57,720
+open life science applications.
+So I think it was Yeah, when we
+
+98
+00:06:57,810 --> 00:07:03,360
+saw in for the last trimester.
+So we have this roadmap, what we
+
+99
+00:07:03,360 --> 00:07:07,770
+need to do for the applications
+for our program here. And we
+
+100
+00:07:07,770 --> 00:07:12,240
+wrote a roadmap for that. But
+also, if you're using GitHub to
+
+101
+00:07:12,270 --> 00:07:17,820
+for your project, you have this
+nice project tabs in GitHub. And
+
+102
+00:07:17,820 --> 00:07:21,990
+that is you can see in the top
+of your of the project, which is
+
+103
+00:07:21,990 --> 00:07:26,100
+really nice to organize your
+roadmap there. For example, the
+
+104
+00:07:26,100 --> 00:07:30,390
+galaxy project, they use that
+and it's quite powerful, because
+
+105
+00:07:30,390 --> 00:07:32,970
+you can really move things
+forward. In the end, it's
+
+106
+00:07:33,000 --> 00:07:39,390
+totally open so people can see
+it. But then you need to be sure
+
+107
+00:07:39,390 --> 00:07:47,760
+that your vision and things are
+clear before and I was it was
+
+108
+00:07:47,760 --> 00:07:50,550
+just a global overview of what
+is a roadmap, I will recommend
+
+109
+00:07:50,550 --> 00:07:54,510
+you to go through the different
+the different examples that I
+
+110
+00:07:54,510 --> 00:07:57,870
+show you because they are
+they're quite okay. quite nice.
+
+111
+00:07:58,350 --> 00:08:03,600
+And and to try to draft your
+roadmap for your project. It
+
+112
+00:08:03,600 --> 00:08:08,370
+doesn't have to be a final one.
+It's just a first version of
+
+113
+00:08:08,370 --> 00:08:13,800
+your offshore roadmap. And it
+will help you to know what you
+
+114
+00:08:13,800 --> 00:08:17,970
+want to do and which steps you
+want to achieve. And also the
+
+115
+00:08:17,970 --> 00:08:23,730
+timing for that. And yeah, when
+coming new contributors, and on
+
+116
+00:08:23,730 --> 00:08:27,120
+that, I would like to thank you
+for listening for that. And to
+
+117
+00:08:27,120 --> 00:08:32,430
+that. And yeah, again, sharing
+the same idea of our programs
+
+118
+00:08:32,490 --> 00:08:34,530
+and Yep, thank you.
+
