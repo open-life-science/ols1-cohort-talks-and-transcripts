@@ -1,0 +1,837 @@
+1
+00:00:00,390 --> 00:00:03,810
+Unknown: So I'm going to talk
+about, I guess, the rise in open
+
+2
+00:00:03,810 --> 00:00:08,310
+software, in academic research
+that's really sort of
+
+3
+00:00:08,460 --> 00:00:13,350
+transformed how we do research
+has done so over the last few
+
+4
+00:00:13,350 --> 00:00:18,150
+years. So let's just sort of
+start by asking why why would we
+
+5
+00:00:18,150 --> 00:00:21,750
+want to use and promote open
+source software in the first
+
+6
+00:00:21,750 --> 00:00:25,890
+place. And I guess, partly its
+response to the so called
+
+7
+00:00:26,610 --> 00:00:29,970
+reproducibility replication
+crisis in the biomedical
+
+8
+00:00:29,970 --> 00:00:33,060
+sciences for over the last
+decade or so, there's been an
+
+9
+00:00:33,060 --> 00:00:36,840
+increasing realization that much
+of the published literature
+
+10
+00:00:36,870 --> 00:00:41,910
+findings can't actually be
+replicated by other people. And
+
+11
+00:00:41,910 --> 00:00:45,690
+that's caused a lot of problems,
+particularly in psychology,
+
+12
+00:00:45,720 --> 00:00:50,430
+which is my area. And in a
+sense, recognizing that there's
+
+13
+00:00:50,430 --> 00:00:53,310
+a crisis in terms of
+reproducibility. And
+
+14
+00:00:53,310 --> 00:00:57,120
+replication, has encouraged
+people to go out there and look
+
+15
+00:00:57,180 --> 00:01:01,650
+at various tools, and new ways
+of doing research so that they
+
+16
+00:01:01,650 --> 00:01:06,960
+can adopt them and actually
+reduce the chances of these
+
+17
+00:01:07,560 --> 00:01:12,330
+reproducibility problems
+occurring in the future. And as
+
+18
+00:01:12,330 --> 00:01:15,570
+an academic, I've seen huge
+changes over the last, you know,
+
+19
+00:01:15,570 --> 00:01:21,150
+four or five years alone, and I
+saw this really nice tweet, but
+
+20
+00:01:21,150 --> 00:01:24,330
+six months or so ago from
+somebody who attended one of the
+
+21
+00:01:24,600 --> 00:01:29,820
+brain hacks summer schools, who,
+you know, was it a great
+
+22
+00:01:30,780 --> 00:01:37,110
+research lab, which, you know,
+is kind of doing research, I
+
+23
+00:01:37,140 --> 00:01:41,880
+guess, along the lines of how
+they've always done research. In
+
+24
+00:01:41,880 --> 00:01:44,880
+parallel to the kind of the
+traditional way of doing
+
+25
+00:01:44,880 --> 00:01:48,600
+research, there's been this
+explosion and the adoption of
+
+26
+00:01:48,600 --> 00:01:52,920
+open computational tools, such
+as coding languages, such as
+
+27
+00:01:52,920 --> 00:01:59,010
+Python, and R. binder. And the
+world and academia is kind of
+
+28
+00:01:59,010 --> 00:02:02,190
+splitting ensues, people are
+still stuck in their kind of
+
+29
+00:02:02,190 --> 00:02:05,730
+closed systems way of doing
+things. And those younger
+
+30
+00:02:05,730 --> 00:02:09,540
+academics are kind of really
+embracing the full range of
+
+31
+00:02:09,630 --> 00:02:14,130
+computational tools that are
+available to them. And I guess
+
+32
+00:02:14,130 --> 00:02:17,370
+this is partly in response to a
+lot of work that people like
+
+33
+00:02:17,370 --> 00:02:22,290
+brand new sec, engaged with when
+he and colleagues established
+
+34
+00:02:22,290 --> 00:02:26,700
+the Center for Open Science,
+which puts it at center has
+
+35
+00:02:26,700 --> 00:02:30,330
+mentioned, the idea that we need
+to be transparent in our
+
+36
+00:02:30,330 --> 00:02:33,690
+research practices. And if we're
+transparent in our research
+
+37
+00:02:33,690 --> 00:02:38,700
+practices, if we use software
+that other people can reuse,
+
+38
+00:02:39,030 --> 00:02:42,240
+we're going to do a lot better
+in terms of populating the
+
+39
+00:02:42,240 --> 00:02:45,510
+academic literature with journal
+articles are likely to be
+
+40
+00:02:45,510 --> 00:02:51,450
+reporting correct results rather
+than false positives. The Center
+
+41
+00:02:51,450 --> 00:02:55,650
+for Science has had a huge role
+in terms of advocating the
+
+42
+00:02:55,650 --> 00:03:00,060
+adoption of open research
+practices. They were involved in
+
+43
+00:03:00,060 --> 00:03:04,770
+developing the transparency and
+openness promotion guidelines,
+
+44
+00:03:04,950 --> 00:03:08,550
+which over 5000 academic
+academic journals of my life
+
+45
+00:03:08,550 --> 00:03:12,060
+signed up to, which kind of
+highlights the need for openness
+
+46
+00:03:12,060 --> 00:03:16,350
+at all stages of the research
+cycle, including, importantly,
+
+47
+00:03:16,620 --> 00:03:20,790
+at the level of the schools in
+requiring, and verifying shared
+
+48
+00:03:20,790 --> 00:03:25,680
+code that's used in the analysis
+behind journal articles, always
+
+49
+00:03:25,680 --> 00:03:30,480
+like this. visualization
+developed by Roger Pang, which
+
+50
+00:03:30,480 --> 00:03:36,750
+really highlights the full range
+of steps in the research cycles
+
+51
+00:03:36,780 --> 00:03:41,430
+require reproducibility, where
+ultimately link in your
+
+52
+00:03:41,640 --> 00:03:44,910
+software, your data, and your
+competition environment is the
+
+53
+00:03:44,910 --> 00:03:49,500
+gold standard in terms of spin
+gauging and freely reproducible
+
+54
+00:03:49,530 --> 00:03:54,240
+work. One of the risks of using
+close code, these are clear
+
+55
+00:03:54,270 --> 00:03:57,990
+examples you might have come
+across previously is that very
+
+56
+00:03:58,200 --> 00:04:01,800
+often things can happen to your
+data, because of the way the
+
+57
+00:04:01,800 --> 00:04:05,820
+closed code is working, that can
+fundamentally make your results
+
+58
+00:04:05,850 --> 00:04:09,120
+non reproducible if there was a
+case a few years ago with
+
+59
+00:04:09,120 --> 00:04:12,450
+Microsoft Excel, which was
+automatically converting the
+
+60
+00:04:12,450 --> 00:04:17,400
+some genes to the UPS,
+misidentified them as calendar
+
+61
+00:04:17,400 --> 00:04:22,230
+dates, and ended up producing
+our kind of garbled, you know,
+
+62
+00:04:22,260 --> 00:04:25,950
+files that really, really lost
+important information because of
+
+63
+00:04:25,950 --> 00:04:26,430
+this.
+
+64
+00:04:28,050 --> 00:04:33,870
+Similarly, few years ago, and
+the height of the global
+
+65
+00:04:33,870 --> 00:04:37,860
+financial crisis, the US
+government, and a number of
+
+66
+00:04:37,860 --> 00:04:40,230
+other governments, including the
+British government decided to
+
+67
+00:04:40,230 --> 00:04:44,280
+implement austerity. And this
+was partly as a function of work
+
+68
+00:04:44,280 --> 00:04:49,020
+that economists had carried out,
+showing that austerity wasn't
+
+69
+00:04:49,020 --> 00:04:52,350
+necessarily going to cause
+growth problems in the world.
+
+70
+00:04:52,620 --> 00:04:56,520
+And a student was actually given
+as homework, the challenge of
+
+71
+00:04:56,520 --> 00:05:01,260
+recreating these findings and he
+couldn't So he emailed the
+
+72
+00:05:01,860 --> 00:05:06,840
+economists who are working on
+this project and asked them for
+
+73
+00:05:06,840 --> 00:05:10,500
+their data and code, he found
+out that during due to coding
+
+74
+00:05:10,500 --> 00:05:15,210
+errors, and Excel, they had
+actually excluded some really
+
+75
+00:05:15,210 --> 00:05:19,140
+important subsets of the data,
+which if they hadn't played, it
+
+76
+00:05:19,140 --> 00:05:22,410
+wouldn't have led them through
+adopting the same conclusion
+
+77
+00:05:22,440 --> 00:05:27,000
+that they had done. So the risks
+behind closed code, whereas open
+
+78
+00:05:27,000 --> 00:05:30,360
+code and software that loads for
+transparency in terms of what
+
+79
+00:05:30,360 --> 00:05:33,270
+you're doing in terms of your
+data processing pipeline, in
+
+80
+00:05:33,270 --> 00:05:36,360
+terms of your modeling,
+pipeline, etc. but crucially, it
+
+81
+00:05:36,360 --> 00:05:40,020
+also allows others to be able to
+spot mistakes that might be
+
+82
+00:05:40,020 --> 00:05:43,230
+cropping up. A few months ago,
+there was this nice article in
+
+83
+00:05:43,230 --> 00:05:47,460
+Ars Technica, which highlighted
+an issue with some competition
+
+84
+00:05:47,460 --> 00:05:50,640
+software and chemistry, which
+actually works slightly
+
+85
+00:05:50,640 --> 00:05:53,670
+differently depending on the
+operating system that the script
+
+86
+00:05:53,820 --> 00:05:57,420
+was running in. And it has to do
+with the way in which files were
+
+87
+00:05:57,420 --> 00:06:01,410
+ordered. And there have been a
+number of papers published,
+
+88
+00:06:01,920 --> 00:06:07,440
+that, you know, had produced,
+you know, arguably, less than
+
+89
+00:06:07,440 --> 00:06:11,490
+perfect results on the basis of
+this problem. But because all
+
+90
+00:06:11,490 --> 00:06:14,610
+the code was open, it meant that
+somebody could spot it, somebody
+
+91
+00:06:14,610 --> 00:06:18,750
+could craft it. And that problem
+won't persist in future, it's
+
+92
+00:06:18,750 --> 00:06:21,240
+not really focused on the fact
+that, you know, when you're
+
+93
+00:06:21,240 --> 00:06:25,740
+engaged in using other people's
+open source software, creating
+
+94
+00:06:25,740 --> 00:06:28,380
+your own, you're actually
+engaged with community, which I
+
+95
+00:06:28,380 --> 00:06:31,050
+think something that's very
+important, there are more eyes
+
+96
+00:06:31,050 --> 00:06:34,320
+than yours on your DSL on code
+when you could learn the open
+
+97
+00:06:34,320 --> 00:06:38,340
+rates. In my own area of
+psycholinguistics. The mixed
+
+98
+00:06:38,340 --> 00:06:41,370
+models approach developed
+primarily for research and
+
+99
+00:06:41,370 --> 00:06:44,850
+psychology and ecology has
+really had a massive influence
+
+100
+00:06:44,850 --> 00:06:48,750
+over the last few years, with
+the guilty package for mixed
+
+101
+00:06:48,780 --> 00:06:53,460
+models analysis in our being the
+element four package. And what's
+
+102
+00:06:53,460 --> 00:06:57,300
+nice about this example is that
+the elemi four package is
+
+103
+00:06:57,300 --> 00:07:01,110
+updated on a very regular basis
+to reflect the latest
+
+104
+00:07:01,110 --> 00:07:04,710
+developments in statistical
+research and statistical
+
+105
+00:07:04,710 --> 00:07:07,740
+modeling. So the kind of
+packages for doing your
+
+106
+00:07:07,740 --> 00:07:13,650
+analysis, published in an open
+way, allow other researchers to
+
+107
+00:07:13,710 --> 00:07:16,380
+update them and to contribute.
+So that means when you're
+
+108
+00:07:16,380 --> 00:07:18,870
+building your statistical
+models, you really are using the
+
+109
+00:07:18,870 --> 00:07:21,810
+latest knowledge the
+statisticians have about these
+
+110
+00:07:21,810 --> 00:07:25,620
+kind of, sort of model
+constructions, or so for using
+
+111
+00:07:25,620 --> 00:07:29,430
+proxy software such as SPSS, you
+really using models were
+
+112
+00:07:29,430 --> 00:07:32,250
+developed probably quite a few
+years ago, and you're never
+
+113
+00:07:32,250 --> 00:07:35,430
+quite sure under the hood, what
+algorithms actually work in
+
+114
+00:07:35,460 --> 00:07:39,030
+what's going on when the data
+when the results of the analysis
+
+115
+00:07:39,270 --> 00:07:44,100
+are being generated. We can also
+make our workflows open as well
+
+116
+00:07:44,130 --> 00:07:48,780
+using, you know, our standard
+workflow approach, which again,
+
+117
+00:07:48,810 --> 00:07:52,800
+allows and encourages others to
+look at the various stages of
+
+118
+00:07:52,800 --> 00:07:57,450
+your workflow, to kind of
+contribute to your code, and to
+
+119
+00:07:57,450 --> 00:08:02,520
+help make it better. Ultimately,
+we want to publish our software
+
+120
+00:08:02,520 --> 00:08:05,880
+and code we're working on
+ourselves. There are a number of
+
+121
+00:08:06,840 --> 00:08:10,440
+really nice ways in which we can
+do that, which up to a few years
+
+122
+00:08:10,440 --> 00:08:13,770
+ago, just wasn't possible
+because traditional discipline
+
+123
+00:08:13,770 --> 00:08:17,460
+specific journals rarely
+published, open source software.
+
+124
+00:08:17,460 --> 00:08:21,420
+So the journals, journals, open
+research software and journal is
+
+125
+00:08:21,420 --> 00:08:24,150
+open source software are both
+great, because they're very
+
+126
+00:08:24,330 --> 00:08:30,330
+developer friendly journals that
+make sure that the software that
+
+127
+00:08:30,330 --> 00:08:34,050
+you're publishing has had expert
+eyes looking at, you've got,
+
+128
+00:08:34,470 --> 00:08:37,830
+it's been properly tested, and
+whatnot. So when it goes out
+
+129
+00:08:37,830 --> 00:08:42,180
+there in the world, it's kind of
+got, you know, a good sort of
+
+130
+00:08:42,390 --> 00:08:49,020
+BSS behind in terms of a set of
+set of reviews. Going to just
+
+131
+00:08:49,020 --> 00:08:52,170
+mention binder very, very
+briefly, I know kind of running
+
+132
+00:08:52,170 --> 00:08:55,710
+out of time, binders, a really
+nice way of actually doing the
+
+133
+00:08:55,710 --> 00:08:59,400
+Roger Pang sort of gold
+standard, reproducible research
+
+134
+00:08:59,400 --> 00:09:02,790
+by bundling your data, your
+code, under competition
+
+135
+00:09:02,790 --> 00:09:07,470
+environments, all together to
+allow others to basically run
+
+136
+00:09:07,500 --> 00:09:09,840
+your analysis
+
+137
+00:09:12,900 --> 00:09:16,680
+on the date that you actually
+carried the date, there's a link
+
+138
+00:09:16,770 --> 00:09:21,570
+here to a nice talk by jj
+allaire from the RCD conference
+
+139
+00:09:21,600 --> 00:09:24,570
+a few weeks ago, which I think
+you might find interesting to
+
+140
+00:09:24,570 --> 00:09:28,740
+watch later. Finally, it's
+really important to make your
+
+141
+00:09:28,740 --> 00:09:31,860
+software if you're developing
+software, include yourself to
+
+142
+00:09:31,860 --> 00:09:36,510
+make it suitable. And you can do
+that probably most easily with
+
+143
+00:09:36,750 --> 00:09:41,040
+sudo. And GitHub, as the noodle
+aligns your GitHub repository to
+
+144
+00:09:41,040 --> 00:09:45,630
+get a DUI. And if it's got a DUI
+at sizable by others, it can
+
+145
+00:09:45,630 --> 00:09:50,280
+also be picked up by Google
+Scholar. figshare is another
+
+146
+00:09:50,280 --> 00:09:53,670
+option as well, where you can
+actually have different releases
+
+147
+00:09:53,670 --> 00:09:58,740
+on GitHub, kind of captured
+within within figshare. It's
+
+148
+00:09:58,740 --> 00:10:01,740
+really important when you're
+using other people's open source
+
+149
+00:10:01,740 --> 00:10:06,150
+software that he cited, it's
+important for reproducibility
+
+150
+00:10:06,150 --> 00:10:09,630
+reasons you need to know. You
+need to tell people what
+
+151
+00:10:09,630 --> 00:10:12,630
+versions of different packages
+you were using, do your
+
+152
+00:10:12,630 --> 00:10:15,960
+analysis, there been some
+changes in the context of our
+
+153
+00:10:16,320 --> 00:10:19,830
+and the way that some of the
+sample functions worked, which
+
+154
+00:10:19,830 --> 00:10:25,710
+means that our 3.6 doesn't work
+in the same way that are 3.5 or
+
+155
+00:10:25,710 --> 00:10:31,140
+3.4. That because of the
+randomization procedures, and
+
+156
+00:10:31,140 --> 00:10:34,710
+ultimately, you would never use
+somebody else's research
+
+157
+00:10:34,710 --> 00:10:37,860
+findings without citing the
+paper, which defines the code.
+
+158
+00:10:38,130 --> 00:10:40,710
+So obviously, we wouldn't want
+to be reusing somebody else's
+
+159
+00:10:40,710 --> 00:10:44,340
+software without citing it to.
+For better and worse,
+
+160
+00:10:44,520 --> 00:10:48,420
+researchers. RFCs are often
+measured in academia by their
+
+161
+00:10:48,420 --> 00:10:51,720
+search Association count. So we
+need to recognize the software
+
+162
+00:10:51,870 --> 00:10:55,350
+that people are developing as
+well. And finally, I just wanted
+
+163
+00:10:55,350 --> 00:10:58,950
+to finish by giving a bit of a
+sort of shout out to the
+
+164
+00:10:58,950 --> 00:11:01,860
+cheering way, which was a
+phenomenal handbook and lots of
+
+165
+00:11:01,860 --> 00:11:04,890
+people sort of in this call have
+been involved in it. And that's
+
+166
+00:11:04,890 --> 00:11:07,800
+a good handbook covering
+covering the full range of
+
+167
+00:11:07,800 --> 00:11:12,960
+reproducibility. Not just open
+software, but open data and
+
+168
+00:11:12,960 --> 00:11:13,770
+everything else.
+
