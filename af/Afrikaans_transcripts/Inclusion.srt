@@ -1,0 +1,1129 @@
+1
+00:00:00,000 --> 00:00:03,090
+Unknown: What I am going to talk
+about today is more about
+
+2
+00:00:03,150 --> 00:00:05,820
+inclusive design, the importance
+of thinking about inclusion in
+
+3
+00:00:05,820 --> 00:00:08,880
+design, and a bit about
+unconscious bias and how that
+
+4
+00:00:08,880 --> 00:00:12,480
+seeped into my work. So like I
+said, I'm a software developer,
+
+5
+00:00:12,480 --> 00:00:15,180
+that's what my day job. But
+these ideas are broadly
+
+6
+00:00:15,180 --> 00:00:17,400
+applicable, and they apply to
+science just as much as anything
+
+7
+00:00:17,400 --> 00:00:22,350
+else. So we've already talked
+about it a bit already. On the
+
+8
+00:00:22,350 --> 00:00:25,530
+call cycle, I can, but let's
+just make sure I'm in sort of
+
+9
+00:00:25,560 --> 00:00:28,710
+define what I mean by inclusion.
+Because I think it's one of
+
+10
+00:00:28,710 --> 00:00:31,560
+these words, that means a lot of
+different things. We hear it in
+
+11
+00:00:31,560 --> 00:00:34,710
+all the context, it's next
+diversity accessibility. Let's
+
+12
+00:00:34,710 --> 00:00:38,490
+break down and make sure we're
+on the same page. So imagine you
+
+13
+00:00:38,490 --> 00:00:42,180
+were holding a party. And I want
+you to imagine, and please don't
+
+14
+00:00:42,180 --> 00:00:44,850
+do it. Because if you can't tell
+I wrote this slide more than a
+
+15
+00:00:44,850 --> 00:00:48,510
+week ago. If you send
+invitations far and wide, then
+
+16
+00:00:48,510 --> 00:00:51,210
+that's diversity, you're
+inviting a wide range of people
+
+17
+00:00:51,210 --> 00:00:53,820
+to participate, but not really
+giving them any reason why they
+
+18
+00:00:53,820 --> 00:00:58,350
+might enjoy your party.
+Inclusion is about making sure
+
+19
+00:00:58,350 --> 00:01:01,170
+people actually have a good time
+at the party. And that might
+
+20
+00:01:01,170 --> 00:01:04,290
+mean things like making sure you
+have a range of drinks
+
+21
+00:01:04,290 --> 00:01:07,140
+available, making sure there's
+food that everybody can eat,
+
+22
+00:01:07,680 --> 00:01:10,050
+making sure you spend time with
+somebody who travel a long way
+
+23
+00:01:10,080 --> 00:01:14,040
+out of town to come and see you.
+It's making the effort to ensure
+
+24
+00:01:14,040 --> 00:01:18,060
+that people feel included and
+welcomed. And when people feel
+
+25
+00:01:18,060 --> 00:01:19,950
+more included and they feel
+welcomed, then they're more
+
+26
+00:01:19,950 --> 00:01:22,740
+comfortable to share their
+experiences, their ideas, their
+
+27
+00:01:22,740 --> 00:01:26,310
+fears, their concerns, to
+challenge the status quo. And of
+
+28
+00:01:26,310 --> 00:01:29,610
+course, those all have benefits
+for our communities. To pick you
+
+29
+00:01:29,610 --> 00:01:32,280
+looking at a world, for example,
+like science, obviously,
+
+30
+00:01:32,280 --> 00:01:36,270
+science, we care about having
+lots of good ideas. But we don't
+
+31
+00:01:36,270 --> 00:01:38,610
+know if an idea is going to be
+good until we until you know
+
+32
+00:01:38,610 --> 00:01:40,440
+until after the fact so we need
+to get as many ideas as
+
+33
+00:01:40,440 --> 00:01:42,900
+possible. And making sure we
+have a really diverse range of
+
+34
+00:01:42,900 --> 00:01:46,950
+people contributing is one way
+to do that. That's what
+
+35
+00:01:46,950 --> 00:01:49,170
+inclusion is include. That's why
+inclusion is important. And I
+
+36
+00:01:49,170 --> 00:01:53,550
+think we'd all agree, inclusion
+is a nice thing to have. But it
+
+37
+00:01:53,550 --> 00:01:55,230
+doesn't always happen in
+practice, right? in many
+
+38
+00:01:55,230 --> 00:01:58,230
+communities, in many groups,
+people feel excluded, they feel
+
+39
+00:01:58,230 --> 00:02:01,980
+unsafe, they feel forgotten,
+they feel ignored. And so
+
+40
+00:02:01,980 --> 00:02:04,230
+assuming this isn't malice,
+assuming people don't want to do
+
+41
+00:02:04,230 --> 00:02:07,830
+this, why does this happen? So
+one of the reasons One of the
+
+42
+00:02:07,830 --> 00:02:10,290
+things malvehy cook wanted me to
+talk about is this idea of
+
+43
+00:02:10,290 --> 00:02:14,100
+unconscious bias. Now, I
+personally don't actually love
+
+44
+00:02:14,100 --> 00:02:17,580
+the term, because I think it has
+quite a negative stigma. It can
+
+45
+00:02:17,580 --> 00:02:20,130
+feel very negative, very
+critical. You know, it feels
+
+46
+00:02:20,130 --> 00:02:22,890
+like it's a criticism of us that
+we have unconscious biases that
+
+47
+00:02:22,890 --> 00:02:25,680
+makes us bad people. And
+obviously, yo was asking, you
+
+48
+00:02:25,680 --> 00:02:28,140
+know, do anyone feel slightly
+uncomfortable at the results,
+
+49
+00:02:28,140 --> 00:02:31,980
+the unconscious bias test? I
+think it's a shame because I
+
+50
+00:02:31,980 --> 00:02:35,370
+think there is a useful idea
+here. But often it gets lost in
+
+51
+00:02:35,370 --> 00:02:39,840
+the in the stigma and the
+criticism. So let's just talk
+
+52
+00:02:39,840 --> 00:02:42,840
+about pattern matching. Okay,
+humans are very good at pattern
+
+53
+00:02:42,840 --> 00:02:46,860
+matching, we look at the way we
+use it to construct rules about
+
+54
+00:02:46,860 --> 00:02:52,410
+how we think the world works.
+Everything is a or b, if P then
+
+55
+00:02:52,410 --> 00:02:57,690
+Q, either x or y, and so on. And
+the rules we imagine are always
+
+56
+00:02:57,690 --> 00:03:00,330
+correct, right, we might learn
+something's a trial of the world
+
+57
+00:03:00,330 --> 00:03:02,580
+behaves in simple way, and then
+grow up and we discover the
+
+58
+00:03:02,580 --> 00:03:04,650
+world actually is a bit more
+complicated than that. And the
+
+59
+00:03:04,650 --> 00:03:08,760
+rules need adaptation. So the
+more of the world we see, the
+
+60
+00:03:08,760 --> 00:03:10,950
+more we have to update our rules
+based on new ideas and
+
+61
+00:03:10,950 --> 00:03:15,180
+information. And that's just
+part of being human. Now, can we
+
+62
+00:03:15,180 --> 00:03:17,610
+come up with these rules,
+subconsciously, you know, we're
+
+63
+00:03:17,610 --> 00:03:19,590
+very good at bringing optimize
+to coming up with these
+
+64
+00:03:19,590 --> 00:03:22,890
+patterns, we don't realize how
+many we've internalized, we
+
+65
+00:03:22,890 --> 00:03:25,230
+don't notice we've adopted a
+rule until something breaks it.
+
+66
+00:03:25,440 --> 00:03:28,740
+And that's what unconscious
+biases, it's when we imagine the
+
+67
+00:03:28,740 --> 00:03:31,740
+world follows a particular rule.
+don't even realize we're
+
+68
+00:03:31,740 --> 00:03:35,100
+following that rule. And that
+rule is inadvertently excluding
+
+69
+00:03:35,130 --> 00:03:38,490
+or overlooking somebody. And
+when we act upon those rules,
+
+70
+00:03:38,910 --> 00:03:41,190
+these incorrect rules, we can do
+things that make people feel
+
+71
+00:03:41,190 --> 00:03:45,720
+excluded. So having unconscious
+bias, I don't see as a moral
+
+72
+00:03:45,720 --> 00:03:49,440
+judgment on us. It's just as
+innate pattern magic logic
+
+73
+00:03:49,470 --> 00:03:52,560
+that's gone a bit wrong. So
+let's look at a couple of
+
+74
+00:03:52,560 --> 00:03:56,370
+examples. First of all,
+smartphones, so we've all got
+
+75
+00:03:56,370 --> 00:03:59,490
+smartphones, I imagine many of
+you use them to record video.
+
+76
+00:03:59,490 --> 00:04:01,620
+And if you're recording video,
+while you might be uploading it
+
+77
+00:04:01,620 --> 00:04:05,100
+to YouTube. So if you go back
+about five or six years, when
+
+78
+00:04:05,100 --> 00:04:09,030
+YouTube released their first
+upload app for the iPhone, they
+
+79
+00:04:09,030 --> 00:04:11,580
+discovered about five or 10% of
+their users were uploading the
+
+80
+00:04:11,580 --> 00:04:16,860
+video wrong, the wrong way up.
+And you know, was this some sort
+
+81
+00:04:16,860 --> 00:04:20,010
+of design trend? Was it a
+fashion statement? Was it a Was
+
+82
+00:04:20,010 --> 00:04:23,550
+it a mistake, actually was none
+of those things, it was a
+
+83
+00:04:23,550 --> 00:04:26,250
+misunderstanding on the part of
+the YouTube Developers how
+
+84
+00:04:26,250 --> 00:04:29,070
+people use their phones. So if
+you look at the picture, we can
+
+85
+00:04:29,070 --> 00:04:31,890
+see the person is holding the
+phone in their left hand. And
+
+86
+00:04:31,890 --> 00:04:34,140
+that means their right hand free
+to come along and actually
+
+87
+00:04:34,140 --> 00:04:38,730
+interact with the controls. Now
+imagine so we could imagine that
+
+88
+00:04:38,730 --> 00:04:41,820
+this person probably their right
+hand dominant, this is probably
+
+89
+00:04:41,820 --> 00:04:45,270
+a right handed user. Now imagine
+that a left handed user is
+
+90
+00:04:45,270 --> 00:04:47,520
+trying to shoot video. Well,
+they to hold the phone in their
+
+91
+00:04:47,520 --> 00:04:48,270
+right hand
+
+92
+00:04:48,450 --> 00:04:51,300
+and manipulate it with their
+left hand, meaning they'd be
+
+93
+00:04:51,300 --> 00:04:55,200
+holding the phone the other way
+up. And YouTube's mostly right
+
+94
+00:04:55,200 --> 00:04:57,600
+handed development team hadn't
+thought of this use case they've
+
+95
+00:04:57,600 --> 00:04:59,850
+never considered that somebody
+might be holding their phone,
+
+96
+00:04:59,880 --> 00:05:03,180
+the Otherwise, when they tried
+to record videos, they'd
+
+97
+00:05:03,180 --> 00:05:07,080
+internalize the incorrect rule.
+If somebody is recording video,
+
+98
+00:05:07,380 --> 00:05:10,350
+then they hold their phone in
+this orientation. It wasn't
+
+99
+00:05:10,350 --> 00:05:12,390
+until they have left handed
+users, they realized their
+
+100
+00:05:12,390 --> 00:05:12,990
+mistake.
+
+101
+00:05:14,370 --> 00:05:18,120
+That's one example. That's
+another. So I know the Okay,
+
+102
+00:05:18,120 --> 00:05:20,190
+you've done a bunch of these
+calls, I know you've done some
+
+103
+00:05:20,190 --> 00:05:21,000
+work with
+
+104
+00:05:21,060 --> 00:05:24,060
+Git and GitHub are both very
+widely used piece of software, I
+
+105
+00:05:24,060 --> 00:05:27,390
+use them all day. And one of the
+great features of Git is that
+
+106
+00:05:27,390 --> 00:05:30,510
+gives gives us an immutable
+record of our changes, it's
+
+107
+00:05:30,510 --> 00:05:34,710
+impossible to change history and
+get without it being obvious,
+
+108
+00:05:34,740 --> 00:05:37,500
+very disruptive. And this is a
+good thing creates an audit
+
+109
+00:05:37,500 --> 00:05:41,970
+trail, create stable history,
+and so on and so forth. That
+
+110
+00:05:41,970 --> 00:05:45,330
+immutable history includes your
+code, your commit message, the
+
+111
+00:05:45,330 --> 00:05:50,220
+date, and your name, the
+committee's name is permanently
+
+112
+00:05:50,220 --> 00:05:53,760
+baked into the history of a git
+repository. And this can cause
+
+113
+00:05:53,760 --> 00:05:56,010
+problems when people change
+their names, because now their
+
+114
+00:05:56,010 --> 00:05:58,470
+old name is preserved forever in
+this good history. And it's
+
+115
+00:05:58,470 --> 00:06:02,400
+incredibly disruptive to change
+it. And so, you know, I've got
+
+116
+00:06:02,400 --> 00:06:05,430
+trans friends who've changed
+their name. And they have to
+
+117
+00:06:05,430 --> 00:06:08,940
+choose between abandoning a
+large body of work, and no
+
+118
+00:06:08,940 --> 00:06:11,700
+longer associated with the
+project that they worked on. Or
+
+119
+00:06:11,700 --> 00:06:14,070
+accepting that the get history
+forever going to outnumbers
+
+120
+00:06:14,070 --> 00:06:17,430
+crowns. Okay, there's this on
+effect, unintended side effect
+
+121
+00:06:17,460 --> 00:06:20,520
+of get making the name and
+immutable part of the history
+
+122
+00:06:20,640 --> 00:06:24,420
+that has this format down the
+line. Now, again, I don't think
+
+123
+00:06:24,420 --> 00:06:27,000
+this was malice from the get
+developers, they just
+
+124
+00:06:27,000 --> 00:06:30,780
+internalized an incorrect rule.
+Nobody ever changed their name.
+
+125
+00:06:31,980 --> 00:06:34,320
+It didn't occur to them, this
+design choice might exclude
+
+126
+00:06:34,320 --> 00:06:39,960
+users. But now 10 years later,
+we're all stuck with it. Second
+
+127
+00:06:39,960 --> 00:06:44,850
+example. Next, the second
+example from my workplace. I
+
+128
+00:06:44,850 --> 00:06:47,640
+work at wellcome collection,
+which is a Museum and Library
+
+129
+00:06:47,640 --> 00:06:50,100
+about the history of human
+health and medicine. And one of
+
+130
+00:06:50,100 --> 00:06:52,170
+the things we have is we have
+this wonderful collection of
+
+131
+00:06:52,170 --> 00:06:53,520
+digital historical images.
+
+132
+00:06:58,920 --> 00:07:02,130
+These images to make them easier
+for people to find, maybe an
+
+133
+00:07:02,130 --> 00:07:05,100
+algorithm could tell us that
+these pictures are a man, a
+
+134
+00:07:05,100 --> 00:07:09,150
+mountain, a market or a mole.
+Maybe you could do all that
+
+135
+00:07:09,150 --> 00:07:12,690
+tagging for us and say the human
+the work. But we got to be
+
+136
+00:07:12,690 --> 00:07:15,690
+careful because machine
+learning. It's good for many
+
+137
+00:07:15,690 --> 00:07:18,360
+things. But one of the things it
+does is it takes our pattern
+
+138
+00:07:18,360 --> 00:07:22,500
+matching rules, our unconscious
+biases, and it tiles from up to
+
+139
+00:07:22,500 --> 00:07:26,910
+a level. If humans are good at
+pattern matching machines are
+
+140
+00:07:26,910 --> 00:07:30,690
+amazing. And there are plenty of
+stories about algorithms
+
+141
+00:07:30,690 --> 00:07:34,620
+replicating unconscious biases
+in the training sets in the
+
+142
+00:07:34,620 --> 00:07:37,530
+training set of images they're
+given. So a couple of years
+
+143
+00:07:37,530 --> 00:07:40,140
+back, Google got in hot water
+because they tagged images of
+
+144
+00:07:40,140 --> 00:07:44,010
+black users as gorillas, which
+is incredibly insensitive.
+
+145
+00:07:44,430 --> 00:07:47,460
+Microsoft and others companies
+had similar issues where their
+
+146
+00:07:47,460 --> 00:07:52,440
+motion capture software doesn't
+attach to people. And again, you
+
+147
+00:07:52,440 --> 00:07:56,640
+sort of they've internalized
+these bad rules about what does
+
+148
+00:07:56,640 --> 00:07:59,430
+a collection of images look like
+all people have light colored
+
+149
+00:07:59,430 --> 00:08:03,630
+skin, obviously not correct. But
+that's how that that can end up
+
+150
+00:08:03,630 --> 00:08:07,890
+having implications that we
+don't realize. Finally, let's
+
+151
+00:08:07,890 --> 00:08:11,070
+move out of the digital realm
+and look at a physical examples,
+
+152
+00:08:11,130 --> 00:08:15,480
+motor cars. So modern cars are
+extremely safe, they're subject
+
+153
+00:08:15,480 --> 00:08:17,520
+to rigorous crash testing,
+they're packed with safety
+
+154
+00:08:17,520 --> 00:08:20,820
+features, we can see here two
+cars being tested. pretty
+
+155
+00:08:20,820 --> 00:08:23,580
+serious impact here, but the
+passenger compartment in both
+
+156
+00:08:23,580 --> 00:08:30,300
+cars remains relatively intact.
+So very safe. But repeated
+
+157
+00:08:30,300 --> 00:08:33,390
+studies showed that women are
+more likely to die in car
+
+158
+00:08:33,390 --> 00:08:37,290
+accidents. And the reason for
+that is because fairly recent
+
+159
+00:08:37,290 --> 00:08:39,840
+until fairly recently, crash
+tests only featured male body
+
+160
+00:08:39,900 --> 00:08:43,020
+test dummies, they're actually
+based on a 50th percentile
+
+161
+00:08:43,020 --> 00:08:45,810
+American man, that was the exact
+body shape and size that was
+
+162
+00:08:45,810 --> 00:08:50,190
+used in all crash tests, safety
+testing. And so that was the
+
+163
+00:08:50,190 --> 00:08:53,670
+basis on which safety features
+were designed. Now women,
+
+164
+00:08:53,670 --> 00:08:56,970
+especially smaller women, have a
+different size and shape to a
+
+165
+00:08:56,970 --> 00:09:00,660
+lot of to this 50th percentile
+man. And so they experienced the
+
+166
+00:09:00,660 --> 00:09:04,530
+forces in a collision in quite a
+more severe way. And the car
+
+167
+00:09:04,530 --> 00:09:07,320
+industry is now using a wide
+variety of crash test dummies,
+
+168
+00:09:07,320 --> 00:09:10,140
+but but obviously it doesn't
+hurt to help anyone who's
+
+169
+00:09:10,170 --> 00:09:12,600
+already been injured in an
+accident. And it's gonna take
+
+170
+00:09:12,630 --> 00:09:16,620
+years before that inequality is
+worked out of the of the pool of
+
+171
+00:09:16,620 --> 00:09:22,860
+existing cars. So what's the
+message here? inclusion has to
+
+172
+00:09:22,860 --> 00:09:26,280
+be part of our design process.
+It's not something we can add
+
+173
+00:09:26,280 --> 00:09:28,980
+later. It's not something we
+sprinkle on top like icing
+
+174
+00:09:28,980 --> 00:09:32,370
+sugar. It has to be something we
+think about throughout our works
+
+175
+00:09:32,400 --> 00:09:36,090
+throughout our design process.
+You know, you look at some of
+
+176
+00:09:36,090 --> 00:09:39,390
+those examples. They're all
+embarrassing, or annoying, but
+
+177
+00:09:39,390 --> 00:09:42,480
+in some cut, but it was hard to
+impossible to fix some of those,
+
+178
+00:09:43,350 --> 00:09:46,830
+you know, YouTube, they've got a
+bug, they ship it a fix, they
+
+179
+00:09:46,830 --> 00:09:51,150
+updated. People forget about it
+fairly quickly. But those cars,
+
+180
+00:09:51,150 --> 00:09:54,240
+those cars with the incorrect
+safety features, they're going
+
+181
+00:09:54,240 --> 00:09:58,530
+to take years or decades to
+filter out and with something
+
+182
+00:09:58,530 --> 00:10:01,710
+like get that is permanently
+baked in forever, we can never
+
+183
+00:10:01,710 --> 00:10:05,460
+change that. So we need to think
+about inclusion throughout. And
+
+184
+00:10:05,460 --> 00:10:07,560
+it's got to be part of our
+design process can be something
+
+185
+00:10:07,560 --> 00:10:10,110
+we're thinking about throughout
+whatever piece of work we're
+
+186
+00:10:10,110 --> 00:10:14,400
+doing whenever we're building
+something. How do you actually
+
+187
+00:10:14,400 --> 00:10:17,850
+do that? How do you actually
+design to this more inclusion,
+
+188
+00:10:17,850 --> 00:10:20,430
+we talked about a bunch of them
+already on this call, which is
+
+189
+00:10:20,430 --> 00:10:23,430
+great. I want to talk about some
+of the more general pattern for
+
+190
+00:10:23,580 --> 00:10:26,700
+how you can get better at
+inclusion. And so let's get back
+
+191
+00:10:26,700 --> 00:10:30,990
+to this idea of rules of pattern
+matching. we exclude people
+
+192
+00:10:30,990 --> 00:10:33,630
+because we internalize rules
+that don't accommodate them that
+
+193
+00:10:33,630 --> 00:10:36,660
+don't include them. So how do we
+spot those bad rules? How do we
+
+194
+00:10:36,660 --> 00:10:39,870
+know that we're doing something
+wrong? Particularly if we're not
+
+195
+00:10:39,870 --> 00:10:42,690
+aware that this is a rule we've
+even internalized? This is just
+
+196
+00:10:42,720 --> 00:10:47,250
+how the world is and exists in
+our subconscious. And why we do
+
+197
+00:10:47,250 --> 00:10:49,890
+this, as we widen our worldview,
+we go out and we listen to
+
+198
+00:10:49,890 --> 00:10:53,880
+people who have different
+experiences to us. Because we're
+
+199
+00:10:53,880 --> 00:10:56,760
+not going to know rule is bad
+until we see a counterexample
+
+200
+00:10:56,760 --> 00:10:59,520
+until we see something that
+challenges it. And then we run.
+
+201
+00:11:00,240 --> 00:11:03,900
+That doesn't feel right. Oh,
+that's because I think all x's
+
+202
+00:11:03,900 --> 00:11:09,540
+are y. But actually, this x is a
+Zed. We need to we need to be
+
+203
+00:11:09,540 --> 00:11:11,550
+able going out and finding lots
+of counterexample, finding
+
+204
+00:11:11,550 --> 00:11:13,770
+people who look different to us,
+and listening to their
+
+205
+00:11:13,770 --> 00:11:16,260
+experiences listening to how
+they experienced the world.
+
+206
+00:11:17,130 --> 00:11:20,130
+Personally, I love Twitter for
+this. It's a great medium for
+
+207
+00:11:20,130 --> 00:11:22,320
+interact, listening to lots of
+different people listen to their
+
+208
+00:11:22,320 --> 00:11:25,020
+worldview. Listen to people who
+are different to me. And they
+
+209
+00:11:25,020 --> 00:11:27,690
+will explain the challenges they
+face. And then I register those
+
+210
+00:11:27,690 --> 00:11:32,220
+numbers are that's a thing I've
+never thought about before. And
+
+211
+00:11:32,220 --> 00:11:34,230
+that affects my view of that
+informs my work, you'll do well
+
+212
+00:11:34,230 --> 00:11:36,450
+and hopefully means the next
+time I can find involved with
+
+213
+00:11:36,450 --> 00:11:38,550
+somebody like them. I'm not
+going to do something might be
+
+214
+00:11:38,550 --> 00:11:42,240
+exclusionary. And certainly not
+the only way to do this, you can
+
+215
+00:11:42,240 --> 00:11:44,730
+find any plenty of mediums let
+you talk to people who don't
+
+216
+00:11:44,730 --> 00:11:49,770
+look like you. That's the one
+that works for me. So I actually
+
+217
+00:11:49,770 --> 00:11:51,540
+know how long I've been going I
+have not got overtime. But I
+
+218
+00:11:51,540 --> 00:11:54,540
+hope that just gives you a
+little flavor of why inclusion
+
+219
+00:11:54,540 --> 00:11:56,670
+samples and for design, why it's
+something we have to think about
+
+220
+00:11:56,670 --> 00:11:57,330
+throughout.
+
+221
+00:11:57,660 --> 00:12:00,990
+It's not an afterthought. And
+hopefully a new framing of
+
+222
+00:12:00,990 --> 00:12:03,990
+unconscious bias the idea of
+spotting patterns that we don't
+
+223
+00:12:03,990 --> 00:12:07,560
+even realize with we're forming,
+and maybe thinking about that as
+
+224
+00:12:07,560 --> 00:12:11,940
+ways to avoid excluding pieces
+in the future. slides and notes
+
+225
+00:12:11,940 --> 00:12:14,820
+we have the link are at the link
+nurse, you can go and get the
+
+226
+00:12:14,820 --> 00:12:18,090
+Notes and references and so on
+from that. And I think that's
+
+227
+00:12:18,090 --> 00:12:19,230
+probably my turn up.
+
