@@ -1,9 +1,9 @@
 # OLS-1 Cohort Talks and Transcripts
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
-[![Crowdin](https://badges.crowdin.net/ols3/localized.svg)](https://crowdin.com/project/ols3)
+[![Crowdin](https://badges.crowdin.net/ols1/localized.svg)](https://crowdin.com/project/ols1)
 
-This repository aims to make the Open Life Science (OLS-3) videos and captions accessible, re-useable, and encourage further translation in other languages beyond English and Arabic. All original videos are available in [Open LifeSci YouTube channel](https://www.youtube.com/channel/UCs12-ZgnDJOWIWN3Vo1XHXA). This project was initiated by [Talarify](https://twitter.com/talarify?lang=en) and [Open Science Community in Saudi Arabia](https://twitter.com/OpenSciSaudi) to facilitate learning of Open science practices to novice learners. 
+This repository aims to make the Open Life Science (OLS-1) videos and captions accessible, re-useable, and encourage further translation in other languages beyond English and Arabic. All original videos are available in [Open LifeSci YouTube channel](https://www.youtube.com/channel/UCs12-ZgnDJOWIWN3Vo1XHXA). This project was initiated by [Talarify](https://twitter.com/talarify?lang=en) and [Open Science Community in Saudi Arabia](https://twitter.com/OpenSciSaudi) to facilitate learning of Open science practices to novice learners. 
 
 > **You can you to explore important Open Science concepts and topics in no more than 10-15 minutes.**
 
