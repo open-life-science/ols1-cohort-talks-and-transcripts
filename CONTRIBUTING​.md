@@ -19,7 +19,7 @@ We welcome all contributions to this project. There are many ways to contribute 
 
 - At the moment, the adjusted transcripts are uploaded manually from GitHub to YouTube. Help us to build a CI to integrate YouTube with GitHub and improve the workflow of this project.
 
-- This repository only contains the videos for OLS3. Help us to improve the repository of [OLS2](https://github.com/open-life-science/ols2-cohort-talks-and-transcripts) and [OLS1](https://github.com/open-life-science/ols1-cohort-talks-and-transcripts).
+- This repository only contains the videos for OLS1. Help us to improve the repository of [OLS2](https://github.com/open-life-science/ols2-cohort-talks-and-transcripts) and [OLS3](https://github.com/open-life-science/ols3-cohort-talks-and-transcripts).
 
 - If you find any typo, don't hesitate to open an issue.
 
