@@ -11,7 +11,7 @@ This repository aims to make the Open Life Science (OLS-1) videos and captions a
 
 We welcome all contributions to improve this project especially first timers to expand the translation! 
 
-You don't need to know git to start contributing, we use [Crowdin localisation](https://crowdin.com/project/ols3), which enables you translate strings of SRT file while watching video and adding contect to your translation. More details are added to our [Contribution Guide](CONTRIBUTING.md).
+You don't need to know git to start contributing, we use [Crowdin localisation](https://crowdin.com/project/ols1), which enables you translate strings of SRT file while watching video and adding contect to your translation. More details are added to our [Contribution Guide](CONTRIBUTING.md).
 
 ![](imgs/crowdin-gif.gif)
 
