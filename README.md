@@ -50,10 +50,6 @@ Current maintainer of this project is:
 * [Batool Almarzouq](https://github.com/BatoolMM)
 * [Anelda van der Walt](https://github.com/anelda)
 
-## Citation
-
-To cite any of these videos, please consult with [CITATION](CITATION) or use:
-> Malvika Sharan, Yo Yehudi, Emmy Tsang, Carlos Martinez, Helena Rasche, Esther Plomp, … Anelda van der Walt. (2021). OLS-3 Cohort Talks and Transcripts (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.5071349
 
 ## License
 
